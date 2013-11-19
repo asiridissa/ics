@@ -1,0 +1,4 @@
+NO|Bill No|Customer|Tol Sale|Expiries|Damages|Discount|Cash|Cheques|Credits|GR|F/Issu
+1|1|Sinura Grocery - Milidduwa Magalle|198|0|0|0|0|0|0|0|0|
+||Total|198|0|0|0|0|0|0|0|0
+|| Date : 07/11/2013

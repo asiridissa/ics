@@ -1,0 +1,56 @@
+No|Product|Weight|Van C|Van P|Stock C|Stock P|Total P|Buying Price|Amount|Selling Price|Amount|
+62|Cheesebits - 04/19/2013|.025|
+61|Gift Selection - 04/02/2013|.4|
+142|Cream Cracker - 06/29/2013|.33|
+143|Lemon puff - 06/29/2013|.1|
+144|Hawaiian Cookies - 06/29/2013|.1|
+145|Hawaiian Cookies - 06/29/2013|.2|
+146|Bran Cracker - 06/29/2013|.14|
+147|Bran Cracker - 06/29/2013|.21|
+149|Chickbits - 06/29/2013|.08|
+150|Gingernut - 06/29/2013|.08|
+151|Gingernut - 06/29/2013|.24|
+152|Millk Short Cake - 06/29/2013|.08|
+154|Snackers- Masala - 06/29/2013|.04|
+155|Njce - 07/03/2013|.1|
+156|Krisco - 07/03/2013|.17|
+157|Snackers- Spicy - 07/03/2013|.04|
+158|Custard Cream - 07/03/2013|.5|
+159|Orenge Cream - 07/03/2013|.5|
+160|Nice - 07/03/2013|.38|
+161|Sorties - 07/03/2013|.325|
+162|Kisco Bite - 07/03/2013|.03|
+163|Goold Marie - 07/03/2013|.32|
+164|Gem - 07/03/2013|.1|
+165|Nice 2kg - 07/03/2013|2|
+167|Feel good - 07/03/2013|.22|
+44|Chocolate Cream - 02/24/2013|.5|
+45|Custard Cream - 02/24/2013|.1|
+64|Light Marie - 02/24/2013|.07|
+65|Light Marie - 02/24/2013|.28|
+74|Chocolate Cream Marie - 02/24/2013|.065|
+110|Spicy Cracker - 03/30/2013|.15|
+111|Spicy Cracker - 03/30/2013|.075|
+46|Orange Cream - 03/31/2013|.1|
+21|Goold Marie - 02/24/2013|.08|
+23|Cream Cracker - 02/24/2013|.125|
+24|Cream Cracker - 02/24/2013|.19|
+26|Cream Cracker - 02/24/2013|.5|
+29|Mango Puff - 02/24/2013|.1|
+30|Mango Puff - 02/24/2013|.2|
+31|Cheese Puff - 02/24/2013|.1|
+33|Sorties - 02/24/2013|.065|
+127|Classic Bis Asst - 05/13/2013|.5|
+128|Chickbit - 05/13/2013|.28|
+129|Cheese Bits - 05/13/2013|.245|
+130|Krisco - 05/13/2013|.215|
+131|Lemon Puff - 05/13/2013|.2|
+132|Chickbit - 05/13/2013|.03|
+134|Cheese Bits - 05/13/2013|.08|
+135|Cheese Bits - 05/13/2013|.17|
+169|Wafers-chocolate - 07/31/2013|.1|
+170|Wafers-vanila - 07/31/2013|.1|
+171|Chocolate Cream - 08/14/2013|.1|
+176|Waferes Chocolat - 11/11/2013|.25|
+177|Wefers vanila - 11/11/2013|.25|
+|Total|

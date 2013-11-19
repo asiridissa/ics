@@ -1,0 +1,5 @@
+NO|Bill No|Customer|Tol Sale|Expiries|Damages|Discount|Cash|Cheques|Credits|GR|F/Issu
+1|1|Sahanasala - Kithulampitiya Karapitiya|2232|||||||||
+2|2|S Narangoda - Kithulampitiya Karapitiya|535.5|23|68|||||2||
+||Total|2767.5|23|68|0|0|0|0|2|0
+||Value|2767.5|| vehical :|41-5786 Kara|| Date : 11/15/2013

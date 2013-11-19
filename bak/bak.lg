@@ -1,0 +1,617 @@
+
+                Sat Jun 22 10:18:54 2013
+[2013/06/22@10:18:54.347+2300] P-5064       T-5068  I DBUTIL   : (451)   prostrct create session begin for Az on CON:. 
+[2013/06/22@10:18:54.394+2300] P-5064       T-5068  I DBUTIL   : (12862) Structure file E:\ICS\bak\bak.st used to create database with blocksize 4096. 
+[2013/06/22@10:18:54.443+2300] P-5064       T-5068  I DBUTIL   : (334)   prostrct create session end. 
+[2013/06/22@10:18:54.452+2300] P-5064       T-5068  I DBUTIL   : (451)   procopy session begin for Az on CON:. 
+[2013/06/22@10:18:54.721+2300] P-5064       T-5068  I DBUTIL   : (334)   procopy session end. 
+
+                Sat Jun 22 10:18:54 2013
+[2013/06/22@10:18:54.733+2300] P-5064       T-5068  I          : (451)   procopy get default SQL DBA session begin for Az on CON:. 
+[2013/06/22@10:18:54.763+2300] P-5064       T-5068  I          : (15321) Before Image Log Initialization at block 0  offset 3273416. 
+[2013/06/22@10:18:54.929+2300] P-5064       T-5068  I          : (14867) Procopy -newinstance Created a new database GUID. 
+[2013/06/22@10:18:55.159+2300] P-5064       T-5068  I          : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@10:18:55.160+2300] P-5064       T-5068  I          : (15743) Before Image Log Completion at Block 0 Offset 1059. 
+[2013/06/22@10:18:55.167+2300] P-5064       T-5068  I          : (334)   procopy get default SQL DBA session end. 
+
+                Sat Jun 22 10:19:04 2013
+[2013/06/22@10:19:04.620+2300] P-4548       T-4552  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@10:19:04.621+2300] P-4548       T-4552  I ABL      : (15321) Before Image Log Initialization at block 0  offset 1059. 
+[2013/06/22@10:19:04.628+2300] P-4548       T-4552  I ABL      : (12699) Database bak Options:  
+[2013/06/22@10:40:05.977+2300] P-4548       T-4552  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@10:40:05.977+2300] P-4548       T-4552  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 183. 
+[2013/06/22@10:40:05.987+2300] P-4548       T-4552  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 10:44:09 2013
+[2013/06/22@10:44:09.607+2300] P-4244       T-4392  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@10:44:09.607+2300] P-4244       T-4392  I ABL      : (15321) Before Image Log Initialization at block 2  offset 183. 
+[2013/06/22@10:44:09.617+2300] P-4244       T-4392  I ABL      : (12699) Database bak Options:  
+[2013/06/22@10:44:48.457+2300] P-4244       T-4392  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@10:44:48.457+2300] P-4244       T-4392  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 559. 
+[2013/06/22@10:44:48.477+2300] P-4244       T-4392  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 10:46:22 2013
+[2013/06/22@10:46:22.337+2300] P-4860       T-4204  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@10:46:22.337+2300] P-4860       T-4204  I ABL      : (15321) Before Image Log Initialization at block 2  offset 559. 
+[2013/06/22@10:46:22.557+2300] P-4860       T-4204  I ABL      : (12699) Database bak Options:  
+[2013/06/22@10:50:53.118+2300] P-4860       T-4204  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@10:50:53.118+2300] P-4860       T-4204  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 619. 
+[2013/06/22@10:50:53.128+2300] P-4860       T-4204  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 10:52:38 2013
+[2013/06/22@10:52:38.328+2300] P-2592       T-3296  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@10:52:38.328+2300] P-2592       T-3296  I ABL      : (15321) Before Image Log Initialization at block 2  offset 619. 
+[2013/06/22@10:52:38.408+2300] P-2592       T-3296  I ABL      : (12699) Database bak Options:  
+[2013/06/22@10:52:57.098+2300] P-2592       T-3296  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@10:52:57.098+2300] P-2592       T-3296  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 679. 
+[2013/06/22@10:52:57.108+2300] P-2592       T-3296  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 11:23:23 2013
+[2013/06/22@11:23:23.511+2300] P-3704       T-3136  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@11:23:23.513+2300] P-3704       T-3136  I ABL      : (15321) Before Image Log Initialization at block 2  offset 679. 
+[2013/06/22@11:23:23.619+2300] P-3704       T-3136  I ABL      : (12699) Database bak Options:  
+[2013/06/22@11:23:52.535+2300] P-3704       T-3136  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@11:23:52.536+2300] P-3704       T-3136  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 739. 
+[2013/06/22@11:23:52.547+2300] P-3704       T-3136  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 11:25:38 2013
+[2013/06/22@11:25:38.752+2300] P-544        T-2232  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@11:25:38.755+2300] P-544        T-2232  I ABL      : (15321) Before Image Log Initialization at block 2  offset 739. 
+[2013/06/22@11:25:38.945+2300] P-544        T-2232  I ABL      : (12699) Database bak Options:  
+[2013/06/22@11:26:26.228+2300] P-544        T-2232  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@11:26:26.228+2300] P-544        T-2232  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 739. 
+[2013/06/22@11:26:26.228+2300] P-544        T-2232  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 11:36:35 2013
+[2013/06/22@11:36:35.679+2300] P-400        T-2224  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@11:36:35.679+2300] P-400        T-2224  I ABL      : (15321) Before Image Log Initialization at block 2  offset 739. 
+[2013/06/22@11:36:35.779+2300] P-400        T-2224  I ABL      : (12699) Database bak Options:  
+[2013/06/22@11:37:13.789+2300] P-400        T-2224  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@11:37:13.789+2300] P-400        T-2224  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 739. 
+[2013/06/22@11:37:13.789+2300] P-400        T-2224  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 11:45:56 2013
+[2013/06/22@11:45:56.420+2300] P-2020       T-3772  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@11:45:56.420+2300] P-2020       T-3772  I ABL      : (15321) Before Image Log Initialization at block 2  offset 739. 
+[2013/06/22@11:45:56.430+2300] P-2020       T-3772  I ABL      : (12699) Database bak Options:  
+[2013/06/22@11:47:23.230+2300] P-2020       T-3772  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@11:47:23.240+2300] P-2020       T-3772  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 739. 
+[2013/06/22@11:47:23.240+2300] P-2020       T-3772  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 12:01:55 2013
+[2013/06/22@12:01:55.256+2300] P-3184       T-2568  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@12:01:55.256+2300] P-3184       T-2568  I ABL      : (15321) Before Image Log Initialization at block 2  offset 739. 
+[2013/06/22@12:01:55.366+2300] P-3184       T-2568  I ABL      : (12699) Database bak Options:  
+[2013/06/22@12:28:29.478+2300] P-3184       T-2568  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@12:28:29.478+2300] P-3184       T-2568  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 799. 
+[2013/06/22@12:28:29.718+2300] P-3184       T-2568  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 12:28:49 2013
+[2013/06/22@12:28:49.738+2300] P-5092       T-5056  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@12:28:49.738+2300] P-5092       T-5056  I ABL      : (15321) Before Image Log Initialization at block 2  offset 799. 
+[2013/06/22@12:28:50.038+2300] P-5092       T-5056  I ABL      : (12699) Database bak Options:  
+[2013/06/22@12:31:40.709+2300] P-5092       T-5056  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@12:31:40.709+2300] P-5092       T-5056  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 799. 
+[2013/06/22@12:31:40.719+2300] P-5092       T-5056  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 14:04:01 2013
+[2013/06/22@14:04:01.540+2300] P-5236       T-5304  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:04:01.540+2300] P-5236       T-5304  I ABL      : (15321) Before Image Log Initialization at block 2  offset 799. 
+[2013/06/22@14:04:01.730+2300] P-5236       T-5304  I ABL      : (12699) Database bak Options:  
+[2013/06/22@14:04:40.530+2300] P-5236       T-5304  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 14:05:49 2013
+[2013/06/22@14:05:49.330+2300] P-4672       T-5484  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:05:49.340+2300] P-4672       T-5484  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2013/06/22@14:05:49.340+2300] P-4672       T-5484  I ABL      : (7161)  Physical Redo Phase Completed at blk 2 off 799 upd 0. 
+[2013/06/22@14:05:49.370+2300] P-4672       T-5484  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2013/06/22@14:05:49.370+2300] P-4672       T-5484  I ABL      : (12699) Database bak Options:  
+
+                Sat Jun 22 14:08:36 2013
+[2013/06/22@14:08:36.141+2300] P-6032       T-636   I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:08:36.191+2300] P-6032       T-636   I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2013/06/22@14:08:36.201+2300] P-6032       T-636   I ABL      : (7161)  Physical Redo Phase Completed at blk 2 off 799 upd 0. 
+[2013/06/22@14:08:36.201+2300] P-6032       T-636   I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2013/06/22@14:08:36.411+2300] P-6032       T-636   I ABL      : (12699) Database bak Options:  
+[2013/06/22@14:09:44.091+2300] P-6032       T-636   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@14:09:44.091+2300] P-6032       T-636   I ABL      : (15743) Before Image Log Completion at Block 2 Offset 859. 
+[2013/06/22@14:09:44.091+2300] P-6032       T-636   I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 14:40:36 2013
+[2013/06/22@14:40:36.358+2300] P-3116       T-3184  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:40:36.361+2300] P-3116       T-3184  I ABL      : (15321) Before Image Log Initialization at block 2  offset 859. 
+[2013/06/22@14:40:36.482+2300] P-3116       T-3184  I ABL      : (12699) Database bak Options:  
+
+                Sat Jun 22 14:41:25 2013
+[2013/06/22@14:41:25.942+2300] P-2500       T-448   I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:41:25.955+2300] P-2500       T-448   I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2013/06/22@14:41:26.022+2300] P-2500       T-448   I ABL      : (7161)  Physical Redo Phase Completed at blk 2 off 859 upd 0. 
+[2013/06/22@14:41:26.041+2300] P-2500       T-448   I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2013/06/22@14:41:26.045+2300] P-2500       T-448   I ABL      : (12699) Database bak Options:  
+[2013/06/22@14:43:33.704+2300] P-2500       T-448   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@14:43:33.705+2300] P-2500       T-448   I ABL      : (15743) Before Image Log Completion at Block 2 Offset 1315. 
+[2013/06/22@14:43:33.716+2300] P-2500       T-448   I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 14:44:26 2013
+[2013/06/22@14:44:26.292+2300] P-3184       T-2900  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:44:26.294+2300] P-3184       T-2900  I ABL      : (15321) Before Image Log Initialization at block 2  offset 1315. 
+[2013/06/22@14:44:26.301+2300] P-3184       T-2900  I ABL      : (12699) Database bak Options:  
+[2013/06/22@14:44:41.918+2300] P-3184       T-2900  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@14:44:41.919+2300] P-3184       T-2900  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 1771. 
+[2013/06/22@14:44:41.925+2300] P-3184       T-2900  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 14:45:03 2013
+[2013/06/22@14:45:03.585+2300] P-3460       T-2664  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:45:03.587+2300] P-3460       T-2664  I ABL      : (15321) Before Image Log Initialization at block 2  offset 1771. 
+[2013/06/22@14:45:03.593+2300] P-3460       T-2664  I ABL      : (12699) Database bak Options:  
+[2013/06/22@14:45:43.523+2300] P-3460       T-2664  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@14:45:43.524+2300] P-3460       T-2664  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 1771. 
+[2013/06/22@14:45:43.531+2300] P-3460       T-2664  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 14:45:55 2013
+[2013/06/22@14:45:55.306+2300] P-1312       T-3600  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:45:55.308+2300] P-1312       T-3600  I ABL      : (15321) Before Image Log Initialization at block 2  offset 1771. 
+[2013/06/22@14:45:55.312+2300] P-1312       T-3600  I ABL      : (12699) Database bak Options:  
+
+                Sat Jun 22 14:47:28 2013
+[2013/06/22@14:47:28.497+2300] P-3176       T-928   I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:47:28.499+2300] P-3176       T-928   I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2013/06/22@14:47:28.500+2300] P-3176       T-928   I ABL      : (7161)  Physical Redo Phase Completed at blk 2 off 2227 upd 3. 
+[2013/06/22@14:47:28.500+2300] P-3176       T-928   I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2013/06/22@14:47:28.564+2300] P-3176       T-928   I ABL      : (12699) Database bak Options:  
+[2013/06/22@14:48:07.609+2300] P-3176       T-928   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@14:48:07.610+2300] P-3176       T-928   I ABL      : (15743) Before Image Log Completion at Block 2 Offset 2227. 
+[2013/06/22@14:48:07.614+2300] P-3176       T-928   I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 14:48:10 2013
+[2013/06/22@14:48:10.586+2300] P-2448       T-1880  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:48:10.588+2300] P-2448       T-1880  I ABL      : (15321) Before Image Log Initialization at block 2  offset 2227. 
+[2013/06/22@14:48:10.593+2300] P-2448       T-1880  I ABL      : (12699) Database bak Options:  
+[2013/06/22@14:48:22.916+2300] P-2448       T-1880  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@14:48:22.918+2300] P-2448       T-1880  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 2683. 
+[2013/06/22@14:48:22.926+2300] P-2448       T-1880  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 14:49:42 2013
+[2013/06/22@14:49:42.584+2300] P-3228       T-344   I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:49:42.586+2300] P-3228       T-344   I ABL      : (15321) Before Image Log Initialization at block 2  offset 2683. 
+[2013/06/22@14:49:42.592+2300] P-3228       T-344   I ABL      : (12699) Database bak Options:  
+[2013/06/22@14:50:23.796+2300] P-3228       T-344   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@14:50:23.797+2300] P-3228       T-344   I ABL      : (15743) Before Image Log Completion at Block 2 Offset 2683. 
+[2013/06/22@14:50:23.805+2300] P-3228       T-344   I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 14:58:44 2013
+[2013/06/22@14:58:44.781+2300] P-1012       T-1240  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@14:58:44.784+2300] P-1012       T-1240  I ABL      : (15321) Before Image Log Initialization at block 2  offset 2683. 
+[2013/06/22@14:58:44.790+2300] P-1012       T-1240  I ABL      : (12699) Database bak Options:  
+
+                Sat Jun 22 15:00:01 2013
+[2013/06/22@15:00:01.170+2300] P-1832       T-2948  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:00:01.322+2300] P-1832       T-2948  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2013/06/22@15:00:01.324+2300] P-1832       T-2948  I ABL      : (7161)  Physical Redo Phase Completed at blk 2 off 3139 upd 3. 
+[2013/06/22@15:00:01.325+2300] P-1832       T-2948  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2013/06/22@15:00:01.536+2300] P-1832       T-2948  I ABL      : (12699) Database bak Options:  
+
+                Sat Jun 22 15:02:36 2013
+[2013/06/22@15:02:36.204+2300] P-2780       T-1760  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:02:36.263+2300] P-2780       T-1760  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2013/06/22@15:02:36.265+2300] P-2780       T-1760  I ABL      : (7161)  Physical Redo Phase Completed at blk 2 off 3595 upd 6. 
+[2013/06/22@15:02:36.266+2300] P-2780       T-1760  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2013/06/22@15:02:36.501+2300] P-2780       T-1760  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:02:55.820+2300] P-2780       T-1760  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:02:55.821+2300] P-2780       T-1760  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 3595. 
+[2013/06/22@15:02:55.901+2300] P-2780       T-1760  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:03:05 2013
+[2013/06/22@15:03:05.600+2300] P-3944       T-2492  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:03:05.604+2300] P-3944       T-2492  I ABL      : (15321) Before Image Log Initialization at block 2  offset 3595. 
+[2013/06/22@15:03:05.754+2300] P-3944       T-2492  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:03:34.095+2300] P-3944       T-2492  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:03:34.097+2300] P-3944       T-2492  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 4051. 
+[2013/06/22@15:03:34.219+2300] P-3944       T-2492  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:03:52 2013
+[2013/06/22@15:03:52.992+2300] P-1140       T-1672  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:03:52.994+2300] P-1140       T-1672  I ABL      : (15321) Before Image Log Initialization at block 2  offset 4051. 
+[2013/06/22@15:03:53.088+2300] P-1140       T-1672  I ABL      : (12699) Database bak Options:  
+
+                Sat Jun 22 15:11:31 2013
+[2013/06/22@15:11:31.605+2300] P-232        T-236   I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:11:31.643+2300] P-232        T-236   I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2013/06/22@15:11:31.788+2300] P-232        T-236   I ABL      : (7161)  Physical Redo Phase Completed at blk 2 off 4507 upd 3. 
+[2013/06/22@15:11:31.828+2300] P-232        T-236   I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2013/06/22@15:11:32.094+2300] P-232        T-236   I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:11:42.974+2300] P-232        T-236   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:11:42.975+2300] P-232        T-236   I ABL      : (15743) Before Image Log Completion at Block 2 Offset 4963. 
+[2013/06/22@15:11:42.988+2300] P-232        T-236   I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:11:51 2013
+[2013/06/22@15:11:51.313+2300] P-3588       T-3584  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:11:51.352+2300] P-3588       T-3584  I ABL      : (15321) Before Image Log Initialization at block 2  offset 4963. 
+[2013/06/22@15:11:51.358+2300] P-3588       T-3584  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:12:06.043+2300] P-3588       T-3584  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:12:06.044+2300] P-3588       T-3584  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 5419. 
+[2013/06/22@15:12:06.059+2300] P-3588       T-3584  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:15:14 2013
+[2013/06/22@15:15:14.538+2300] P-2112       T-2736  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:15:14.540+2300] P-2112       T-2736  I ABL      : (15321) Before Image Log Initialization at block 2  offset 5419. 
+[2013/06/22@15:15:14.543+2300] P-2112       T-2736  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:15:40.137+2300] P-2112       T-2736  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:15:40.138+2300] P-2112       T-2736  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 5479. 
+[2013/06/22@15:15:40.146+2300] P-2112       T-2736  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:16:04 2013
+[2013/06/22@15:16:04.543+2300] P-1260       T-2676  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:16:04.545+2300] P-1260       T-2676  I ABL      : (15321) Before Image Log Initialization at block 2  offset 5479. 
+[2013/06/22@15:16:04.552+2300] P-1260       T-2676  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:16:48.360+2300] P-1260       T-2676  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:16:48.361+2300] P-1260       T-2676  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 5479. 
+[2013/06/22@15:16:48.369+2300] P-1260       T-2676  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:16:52 2013
+[2013/06/22@15:16:52.508+2300] P-3652       T-2052  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:16:52.509+2300] P-3652       T-2052  I ABL      : (15321) Before Image Log Initialization at block 2  offset 5479. 
+[2013/06/22@15:16:52.513+2300] P-3652       T-2052  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:17:33.709+2300] P-3652       T-2052  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:17:33.710+2300] P-3652       T-2052  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 5539. 
+[2013/06/22@15:17:33.716+2300] P-3652       T-2052  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:17:52 2013
+[2013/06/22@15:17:52.798+2300] P-3192       T-3344  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:17:52.801+2300] P-3192       T-3344  I ABL      : (15321) Before Image Log Initialization at block 2  offset 5539. 
+[2013/06/22@15:17:52.807+2300] P-3192       T-3344  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:18:30.515+2300] P-3192       T-3344  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:18:30.517+2300] P-3192       T-3344  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 5539. 
+[2013/06/22@15:18:30.523+2300] P-3192       T-3344  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:18:33 2013
+[2013/06/22@15:18:33.959+2300] P-1852       T-1244  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:18:33.961+2300] P-1852       T-1244  I ABL      : (15321) Before Image Log Initialization at block 2  offset 5539. 
+[2013/06/22@15:18:33.965+2300] P-1852       T-1244  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:18:49.071+2300] P-1852       T-1244  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:18:49.072+2300] P-1852       T-1244  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 6429. 
+[2013/06/22@15:18:49.077+2300] P-1852       T-1244  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:19:33 2013
+[2013/06/22@15:19:33.189+2300] P-1080       T-3704  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:19:33.191+2300] P-1080       T-3704  I ABL      : (15321) Before Image Log Initialization at block 2  offset 6429. 
+[2013/06/22@15:19:33.195+2300] P-1080       T-3704  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:19:44.091+2300] P-1080       T-3704  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:19:44.092+2300] P-1080       T-3704  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 6429. 
+[2013/06/22@15:19:44.096+2300] P-1080       T-3704  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:20:32 2013
+[2013/06/22@15:20:32.274+2300] P-2084       T-3516  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:20:32.275+2300] P-2084       T-3516  I ABL      : (15321) Before Image Log Initialization at block 2  offset 6429. 
+[2013/06/22@15:20:32.280+2300] P-2084       T-3516  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:20:43.972+2300] P-2084       T-3516  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:20:43.973+2300] P-2084       T-3516  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 6429. 
+[2013/06/22@15:20:43.979+2300] P-2084       T-3516  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:21:13 2013
+[2013/06/22@15:21:13.375+2300] P-3848       T-3592  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:21:13.377+2300] P-3848       T-3592  I ABL      : (15321) Before Image Log Initialization at block 2  offset 6429. 
+[2013/06/22@15:21:13.381+2300] P-3848       T-3592  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:22:24.990+2300] P-3848       T-3592  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:22:24.991+2300] P-3848       T-3592  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 8073. 
+[2013/06/22@15:22:24.996+2300] P-3848       T-3592  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:22:48 2013
+[2013/06/22@15:22:48.652+2300] P-3516       T-732   I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:22:48.654+2300] P-3516       T-732   I ABL      : (15321) Before Image Log Initialization at block 2  offset 8073. 
+[2013/06/22@15:22:48.657+2300] P-3516       T-732   I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:22:59.189+2300] P-3516       T-732   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:22:59.190+2300] P-3516       T-732   I ABL      : (15743) Before Image Log Completion at Block 2 Offset 8073. 
+[2013/06/22@15:22:59.198+2300] P-3516       T-732   I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:23:53 2013
+[2013/06/22@15:23:53.904+2300] P-1404       T-1136  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:23:53.906+2300] P-1404       T-1136  I ABL      : (15321) Before Image Log Initialization at block 2  offset 8073. 
+[2013/06/22@15:23:53.912+2300] P-1404       T-1136  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:25:14.934+2300] P-1404       T-1136  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:25:14.935+2300] P-1404       T-1136  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 8133. 
+[2013/06/22@15:25:14.939+2300] P-1404       T-1136  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:25:20 2013
+[2013/06/22@15:25:20.446+2300] P-2712       T-236   I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:25:20.448+2300] P-2712       T-236   I ABL      : (15321) Before Image Log Initialization at block 2  offset 8133. 
+[2013/06/22@15:25:20.451+2300] P-2712       T-236   I ABL      : (12699) Database bak Options:  
+
+                Sat Jun 22 15:26:09 2013
+[2013/06/22@15:26:09.391+2300] P-2624       T-3516  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:26:09.395+2300] P-2624       T-3516  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2013/06/22@15:26:09.397+2300] P-2624       T-3516  I ABL      : (7161)  Physical Redo Phase Completed at blk 2 off 8133 upd 0. 
+[2013/06/22@15:26:09.397+2300] P-2624       T-3516  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2013/06/22@15:26:09.402+2300] P-2624       T-3516  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:29:23.235+2300] P-2624       T-3516  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:29:23.236+2300] P-2624       T-3516  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 25. 
+[2013/06/22@15:29:23.244+2300] P-2624       T-3516  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:29:28 2013
+[2013/06/22@15:29:28.503+2300] P-668        T-2504  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:29:28.505+2300] P-668        T-2504  I ABL      : (15321) Before Image Log Initialization at block 3  offset 25. 
+[2013/06/22@15:29:28.509+2300] P-668        T-2504  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:29:30.717+2300] P-668        T-2504  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:29:30.718+2300] P-668        T-2504  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 25. 
+[2013/06/22@15:29:30.724+2300] P-668        T-2504  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:31:53 2013
+[2013/06/22@15:31:53.782+2300] P-668        T-2056  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:31:53.783+2300] P-668        T-2056  I ABL      : (15321) Before Image Log Initialization at block 3  offset 25. 
+[2013/06/22@15:31:53.786+2300] P-668        T-2056  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:32:08.180+2300] P-668        T-2056  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:32:08.182+2300] P-668        T-2056  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 877. 
+[2013/06/22@15:32:08.186+2300] P-668        T-2056  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:32:31 2013
+[2013/06/22@15:32:31.667+2300] P-1348       T-3360  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:32:31.668+2300] P-1348       T-3360  I ABL      : (15321) Before Image Log Initialization at block 3  offset 877. 
+[2013/06/22@15:32:31.672+2300] P-1348       T-3360  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:32:39.336+2300] P-1348       T-3360  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:32:39.337+2300] P-1348       T-3360  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 877. 
+[2013/06/22@15:32:39.342+2300] P-1348       T-3360  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:33:11 2013
+[2013/06/22@15:33:11.216+2300] P-2136       T-2476  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:33:11.217+2300] P-2136       T-2476  I ABL      : (15321) Before Image Log Initialization at block 3  offset 877. 
+[2013/06/22@15:33:11.223+2300] P-2136       T-2476  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:33:51.660+2300] P-2136       T-2476  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:33:51.661+2300] P-2136       T-2476  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 877. 
+[2013/06/22@15:33:51.670+2300] P-2136       T-2476  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:34:50 2013
+[2013/06/22@15:34:50.292+2300] P-1316       T-4040  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:34:50.294+2300] P-1316       T-4040  I ABL      : (15321) Before Image Log Initialization at block 3  offset 877. 
+[2013/06/22@15:34:50.300+2300] P-1316       T-4040  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:35:29.587+2300] P-1316       T-4040  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:35:29.587+2300] P-1316       T-4040  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 877. 
+[2013/06/22@15:35:29.591+2300] P-1316       T-4040  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:35:33 2013
+[2013/06/22@15:35:33.912+2300] P-1340       T-3084  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:35:33.914+2300] P-1340       T-3084  I ABL      : (15321) Before Image Log Initialization at block 3  offset 877. 
+[2013/06/22@15:35:33.918+2300] P-1340       T-3084  I ABL      : (12699) Database bak Options:  
+
+                Sat Jun 22 15:36:17 2013
+[2013/06/22@15:36:17.259+2300] P-3356       T-3188  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:36:17.263+2300] P-3356       T-3188  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2013/06/22@15:36:17.294+2300] P-3356       T-3188  I ABL      : (7161)  Physical Redo Phase Completed at blk 3 off 1729 upd 6. 
+[2013/06/22@15:36:17.295+2300] P-3356       T-3188  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2013/06/22@15:36:17.349+2300] P-3356       T-3188  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:36:46.237+2300] P-3356       T-3188  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:36:46.238+2300] P-3356       T-3188  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 2581. 
+[2013/06/22@15:36:46.244+2300] P-3356       T-3188  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:37:17 2013
+[2013/06/22@15:37:17.183+2300] P-4460       T-4464  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:37:17.184+2300] P-4460       T-4464  I ABL      : (15321) Before Image Log Initialization at block 3  offset 2581. 
+[2013/06/22@15:37:17.188+2300] P-4460       T-4464  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:37:19.659+2300] P-4460       T-4464  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:37:19.660+2300] P-4460       T-4464  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 2581. 
+[2013/06/22@15:37:19.673+2300] P-4460       T-4464  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:37:24 2013
+[2013/06/22@15:37:24.315+2300] P-4484       T-4488  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:37:24.317+2300] P-4484       T-4488  I ABL      : (15321) Before Image Log Initialization at block 3  offset 2581. 
+[2013/06/22@15:37:24.321+2300] P-4484       T-4488  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:37:30.903+2300] P-4484       T-4488  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:37:30.904+2300] P-4484       T-4488  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 2581. 
+[2013/06/22@15:37:30.910+2300] P-4484       T-4488  I ABL      : (334)   Single-user session end. 
+
+                Sat Jun 22 15:37:56 2013
+[2013/06/22@15:37:56.626+2300] P-4664       T-4668  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/06/22@15:37:56.629+2300] P-4664       T-4668  I ABL      : (15321) Before Image Log Initialization at block 3  offset 2581. 
+[2013/06/22@15:37:56.634+2300] P-4664       T-4668  I ABL      : (12699) Database bak Options:  
+[2013/06/22@15:39:12.343+2300] P-4664       T-4668  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/06/22@15:39:12.343+2300] P-4664       T-4668  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 3829. 
+[2013/06/22@15:39:12.452+2300] P-4664       T-4668  I ABL      : (334)   Single-user session end. 
+
+                Tue Jul 02 00:12:06 2013
+[2013/07/02@00:12:06.468+2300] P-8996       T-9368  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/07/02@00:12:06.468+2300] P-8996       T-9368  I ABL      : (15321) Before Image Log Initialization at block 3  offset 3829. 
+[2013/07/02@00:12:06.478+2300] P-8996       T-9368  I ABL      : (12699) Database bak Options:  
+[2013/07/02@00:12:49.328+2300] P-8996       T-9368  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/07/02@00:12:49.328+2300] P-8996       T-9368  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 4285. 
+[2013/07/02@00:12:49.468+2300] P-8996       T-9368  I ABL      : (334)   Single-user session end. 
+
+                Tue Jul 02 00:13:17 2013
+[2013/07/02@00:13:17.978+2300] P-7668       T-9956  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/07/02@00:13:17.978+2300] P-7668       T-9956  I ABL      : (15321) Before Image Log Initialization at block 3  offset 4285. 
+[2013/07/02@00:13:18.298+2300] P-7668       T-9956  I ABL      : (12699) Database bak Options:  
+[2013/07/02@00:13:48.378+2300] P-7668       T-9956  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/07/02@00:13:48.378+2300] P-7668       T-9956  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 5137. 
+[2013/07/02@00:13:48.388+2300] P-7668       T-9956  I ABL      : (334)   Single-user session end. 
+
+                Sat Aug 10 21:40:18 2013
+[2013/08/10@21:40:18.821+2300] P-2872       T-4704  I ABL      : (451)   Single-user session begin for AZ on CON:. 
+[2013/08/10@21:40:20.120+2300] P-2872       T-4704  I ABL      : (15321) Before Image Log Initialization at block 3  offset 5137. 
+[2013/08/10@21:40:20.144+2300] P-2872       T-4704  I ABL      : (12699) Database bak Options:  
+[2013/08/10@21:40:26.763+2300] P-2872       T-4704  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/08/10@21:40:26.764+2300] P-2872       T-4704  I ABL      : (15743) Before Image Log Completion at Block 3 Offset 5513. 
+[2013/08/10@21:40:26.778+2300] P-2872       T-4704  I ABL      : (334)   Single-user session end. 
+
+                Sat Sep 07 23:10:28 2013
+[2013/09/07@23:10:28.778+2300] P-6004       T-2876  I ABL      : (451)   Single-user session begin for AZ on CON:. 
+[2013/09/07@23:10:28.781+2300] P-6004       T-2876  I ABL      : (15321) Before Image Log Initialization at block 3  offset 5513. 
+[2013/09/07@23:10:28.920+2300] P-6004       T-2876  I ABL      : (12699) Database bak Options:  
+[2013/09/07@23:46:40.546+2300] P-6004       T-2876  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/09/07@23:46:40.547+2300] P-6004       T-2876  I ABL      : (15743) Before Image Log Completion at Block 5 Offset 1282. 
+[2013/09/07@23:46:40.854+2300] P-6004       T-2876  I ABL      : (334)   Single-user session end. 
+
+                Sat Sep 07 23:47:00 2013
+[2013/09/07@23:47:00.227+2300] P-1432       T-3320  I ABL      : (451)   Single-user session begin for AZ on CON:. 
+[2013/09/07@23:47:00.229+2300] P-1432       T-3320  I ABL      : (15321) Before Image Log Initialization at block 5  offset 1282. 
+[2013/09/07@23:47:00.282+2300] P-1432       T-3320  I ABL      : (12699) Database bak Options:  
+[2013/09/07@23:48:41.605+2300] P-1432       T-3320  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/09/07@23:48:41.607+2300] P-1432       T-3320  I ABL      : (15743) Before Image Log Completion at Block 5 Offset 2710. 
+[2013/09/07@23:48:41.683+2300] P-1432       T-3320  I ABL      : (334)   Single-user session end. 
+
+                Sat Sep 07 23:48:56 2013
+[2013/09/07@23:48:56.279+2300] P-3312       T-3432  I ABL      : (451)   Single-user session begin for AZ on CON:. 
+[2013/09/07@23:48:56.281+2300] P-3312       T-3432  I ABL      : (15321) Before Image Log Initialization at block 5  offset 2710. 
+[2013/09/07@23:48:56.335+2300] P-3312       T-3432  I ABL      : (12699) Database bak Options:  
+
+                Sun Sep 08 14:41:42 2013
+[2013/09/08@14:41:42.611+2300] P-3312       T-3432  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/09/08@14:41:42.612+2300] P-3312       T-3432  I ABL      : (15743) Before Image Log Completion at Block 6 Offset 3628. 
+[2013/09/08@14:41:42.858+2300] P-3312       T-3432  I ABL      : (334)   Single-user session end. 
+
+                Sun Sep 08 15:12:41 2013
+[2013/09/08@15:12:41.892+2300] P-3420       T-4236  I ABL      : (451)   Single-user session begin for AZ on CON:. 
+[2013/09/08@15:12:41.893+2300] P-3420       T-4236  I ABL      : (15321) Before Image Log Initialization at block 6  offset 3628. 
+[2013/09/08@15:12:42.007+2300] P-3420       T-4236  I ABL      : (12699) Database bak Options:  
+[2013/09/08@15:14:38.100+2300] P-3420       T-4236  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/09/08@15:14:38.102+2300] P-3420       T-4236  I ABL      : (15743) Before Image Log Completion at Block 6 Offset 3628. 
+[2013/09/08@15:14:38.167+2300] P-3420       T-4236  I ABL      : (334)   Single-user session end. 
+
+                Sun Sep 08 16:01:01 2013
+[2013/09/08@16:01:01.607+2300] P-4688       T-4468  I ABL      : (451)   Single-user session begin for AZ on CON:. 
+[2013/09/08@16:01:01.609+2300] P-4688       T-4468  I ABL      : (15321) Before Image Log Initialization at block 6  offset 3628. 
+[2013/09/08@16:01:01.663+2300] P-4688       T-4468  I ABL      : (12699) Database bak Options:  
+[2013/09/08@16:02:07.727+2300] P-4688       T-4468  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/09/08@16:02:07.728+2300] P-4688       T-4468  I ABL      : (15743) Before Image Log Completion at Block 6 Offset 3628. 
+[2013/09/08@16:02:07.793+2300] P-4688       T-4468  I ABL      : (334)   Single-user session end. 
+
+                Sun Sep 08 16:02:25 2013
+[2013/09/08@16:02:25.622+2300] P-3492       T-3128  I ABL      : (451)   Single-user session begin for AZ on CON:. 
+[2013/09/08@16:02:25.623+2300] P-3492       T-3128  I ABL      : (15321) Before Image Log Initialization at block 6  offset 3628. 
+[2013/09/08@16:02:25.666+2300] P-3492       T-3128  I ABL      : (12699) Database bak Options:  
+[2013/09/08@16:02:40.553+2300] P-3492       T-3128  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/09/08@16:02:40.554+2300] P-3492       T-3128  I ABL      : (15743) Before Image Log Completion at Block 6 Offset 4414. 
+[2013/09/08@16:02:40.653+2300] P-3492       T-3128  I ABL      : (334)   Single-user session end. 
+
+                Sun Sep 15 12:37:12 2013
+[2013/09/15@12:37:12.235+2300] P-1540       T-2160  I ABL      : (451)   Single-user session begin for AZ on CON:. 
+[2013/09/15@12:37:12.237+2300] P-1540       T-2160  I ABL      : (15321) Before Image Log Initialization at block 6  offset 4414. 
+[2013/09/15@12:37:12.618+2300] P-1540       T-2160  I ABL      : (12699) Database bak Options:  
+[2013/09/15@12:37:36.966+2300] P-1540       T-2160  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/09/15@12:37:36.967+2300] P-1540       T-2160  I ABL      : (15743) Before Image Log Completion at Block 6 Offset 4876. 
+[2013/09/15@12:37:37.044+2300] P-1540       T-2160  I ABL      : (334)   Single-user session end. 
+
+                Sat Sep 28 18:51:44 2013
+[2013/09/28@18:51:44.828+2300] P-3044       T-3048  I ABL      : (451)   Single-user session begin for Xp User on CON:. 
+[2013/09/28@18:51:44.921+2300] P-3044       T-3048  I ABL      : (15321) Before Image Log Initialization at block 6  offset 4876. 
+[2013/09/28@18:51:45.031+2300] P-3044       T-3048  I ABL      : (12699) Database bak Options:  
+[2013/09/28@18:52:05.031+2300] P-3044       T-3048  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/09/28@18:52:05.031+2300] P-3044       T-3048  I ABL      : (15743) Before Image Log Completion at Block 6 Offset 6320. 
+[2013/09/28@18:52:05.031+2300] P-3044       T-3048  I ABL      : (334)   Single-user session end. 
+
+                Sat Sep 28 18:57:14 2013
+[2013/09/28@18:57:14.562+2300] P-588        T-364   I ABL      : (451)   Single-user session begin for Xp User on CON:. 
+[2013/09/28@18:57:14.562+2300] P-588        T-364   I ABL      : (15321) Before Image Log Initialization at block 6  offset 6320. 
+[2013/09/28@18:57:14.656+2300] P-588        T-364   I ABL      : (12699) Database bak Options:  
+[2013/09/28@18:57:24.218+2300] P-588        T-364   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/09/28@18:57:24.218+2300] P-588        T-364   I ABL      : (15743) Before Image Log Completion at Block 6 Offset 6787. 
+[2013/09/28@18:57:24.250+2300] P-588        T-364   I ABL      : (334)   Single-user session end. 
+
+                Mon Sep 30 14:16:52 2013
+[2013/09/30@14:16:52.890+2300] P-624        T-2020  I ABL      : (451)   Single-user session begin for Xp User on CON:. 
+[2013/09/30@14:16:52.968+2300] P-624        T-2020  I ABL      : (15321) Before Image Log Initialization at block 6  offset 6787. 
+[2013/09/30@14:16:53.156+2300] P-624        T-2020  I ABL      : (12699) Database bak Options:  
+[2013/09/30@14:17:32.625+2300] P-624        T-2020  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/09/30@14:17:32.625+2300] P-624        T-2020  I ABL      : (15743) Before Image Log Completion at Block 6 Offset 7174. 
+[2013/09/30@14:17:32.625+2300] P-624        T-2020  I ABL      : (334)   Single-user session end. 
+
+                Thu Oct 03 16:35:51 2013
+[2013/10/03@16:35:51.359+2300] P-1736       T-704   I ABL      : (451)   Single-user session begin for Xp User on CON:. 
+[2013/10/03@16:35:51.437+2300] P-1736       T-704   I ABL      : (15321) Before Image Log Initialization at block 6  offset 7174. 
+[2013/10/03@16:35:51.609+2300] P-1736       T-704   I ABL      : (12699) Database bak Options:  
+[2013/10/03@16:36:30.718+2300] P-1736       T-704   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/10/03@16:36:30.718+2300] P-1736       T-704   I ABL      : (15743) Before Image Log Completion at Block 6 Offset 7561. 
+[2013/10/03@16:36:30.718+2300] P-1736       T-704   I ABL      : (334)   Single-user session end. 
+
+                Mon Oct 07 11:11:44 2013
+[2013/10/07@11:11:44.375+2300] P-228        T-560   I ABL      : (451)   Single-user session begin for Xp User on CON:. 
+[2013/10/07@11:11:44.437+2300] P-228        T-560   I ABL      : (15321) Before Image Log Initialization at block 6  offset 7561. 
+[2013/10/07@11:11:44.546+2300] P-228        T-560   I ABL      : (12699) Database bak Options:  
+[2013/10/07@11:12:03.468+2300] P-228        T-560   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/10/07@11:12:03.468+2300] P-228        T-560   I ABL      : (15743) Before Image Log Completion at Block 6 Offset 7948. 
+[2013/10/07@11:12:03.484+2300] P-228        T-560   I ABL      : (334)   Single-user session end. 
+
+                Wed Oct 09 12:23:25 2013
+[2013/10/09@12:23:25.281+2300] P-3864       T-3708  I ABL      : (451)   Single-user session begin for Xp User on CON:. 
+[2013/10/09@12:23:25.640+2300] P-3864       T-3708  I ABL      : (15321) Before Image Log Initialization at block 6  offset 7948. 
+[2013/10/09@12:23:26.437+2300] P-3864       T-3708  I ABL      : (12699) Database bak Options:  
+[2013/10/09@12:23:38.234+2300] P-3864       T-3708  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/10/09@12:23:38.234+2300] P-3864       T-3708  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 167. 
+[2013/10/09@12:23:38.265+2300] P-3864       T-3708  I ABL      : (334)   Single-user session end. 
+
+                Thu Oct 10 13:12:47 2013
+[2013/10/10@13:12:47.125+2300] P-228        T-176   I ABL      : (451)   Single-user session begin for Xp User on CON:. 
+[2013/10/10@13:12:47.312+2300] P-228        T-176   I ABL      : (15321) Before Image Log Initialization at block 7  offset 167. 
+[2013/10/10@13:12:47.953+2300] P-228        T-176   I ABL      : (12699) Database bak Options:  
+[2013/10/10@13:13:09.578+2300] P-228        T-176   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/10/10@13:13:09.578+2300] P-228        T-176   I ABL      : (15743) Before Image Log Completion at Block 7 Offset 554. 
+[2013/10/10@13:13:09.671+2300] P-228        T-176   I ABL      : (334)   Single-user session end. 
+
+                Sat Oct 12 15:14:37 2013
+[2013/10/12@15:14:37.171+2300] P-2124       T-2128  I ABL      : (451)   Single-user session begin for Xp User on CON:. 
+[2013/10/12@15:14:37.171+2300] P-2124       T-2128  I ABL      : (15321) Before Image Log Initialization at block 7  offset 554. 
+[2013/10/12@15:14:37.281+2300] P-2124       T-2128  I ABL      : (12699) Database bak Options:  
+[2013/10/12@15:14:50.687+2300] P-2124       T-2128  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/10/12@15:14:50.687+2300] P-2124       T-2128  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 941. 
+[2013/10/12@15:14:50.687+2300] P-2124       T-2128  I ABL      : (334)   Single-user session end. 
+
+                Sat Oct 12 16:14:44 2013
+[2013/10/12@16:14:44.125+2300] P-1584       T-1776  I ABL      : (451)   Single-user session begin for Xp User on CON:. 
+[2013/10/12@16:14:44.140+2300] P-1584       T-1776  I ABL      : (15321) Before Image Log Initialization at block 7  offset 941. 
+[2013/10/12@16:14:44.234+2300] P-1584       T-1776  I ABL      : (12699) Database bak Options:  
+[2013/10/12@16:14:52.015+2300] P-1584       T-1776  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/10/12@16:14:52.015+2300] P-1584       T-1776  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 1328. 
+[2013/10/12@16:14:52.031+2300] P-1584       T-1776  I ABL      : (334)   Single-user session end. 
+
+                Sat Oct 12 17:13:09 2013
+[2013/10/12@17:13:09.093+2300] P-3928       T-3932  I ABL      : (451)   Single-user session begin for Xp User on CON:. 
+[2013/10/12@17:13:09.093+2300] P-3928       T-3932  I ABL      : (15321) Before Image Log Initialization at block 7  offset 1328. 
+[2013/10/12@17:13:09.203+2300] P-3928       T-3932  I ABL      : (12699) Database bak Options:  
+[2013/10/12@17:13:35.750+2300] P-3928       T-3932  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/10/12@17:13:35.750+2300] P-3928       T-3932  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 1715. 
+[2013/10/12@17:13:35.765+2300] P-3928       T-3932  I ABL      : (334)   Single-user session end. 
+
+                Sat Oct 12 17:18:10 2013
+[2013/10/12@17:18:10.484+2300] P-2848       T-2868  I ABL      : (451)   Single-user session begin for Xp User on CON:. 
+[2013/10/12@17:18:10.484+2300] P-2848       T-2868  I ABL      : (15321) Before Image Log Initialization at block 7  offset 1715. 
+[2013/10/12@17:18:10.500+2300] P-2848       T-2868  I ABL      : (12699) Database bak Options:  
+[2013/10/12@17:18:18.328+2300] P-2848       T-2868  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/10/12@17:18:18.328+2300] P-2848       T-2868  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 1715. 
+[2013/10/12@17:18:18.328+2300] P-2848       T-2868  I ABL      : (334)   Single-user session end. 
+
+                Sat Oct 26 12:07:49 2013
+[2013/10/26@12:07:49.636+2300] P-4168       T-4180  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/10/26@12:07:49.637+2300] P-4168       T-4180  I ABL      : (15321) Before Image Log Initialization at block 7  offset 1715. 
+[2013/10/26@12:07:49.640+2300] P-4168       T-4180  I ABL      : (12699) Database bak Options:  
+[2013/10/26@12:08:00.256+2300] P-4168       T-4180  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/10/26@12:08:00.257+2300] P-4168       T-4180  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 2097. 
+[2013/10/26@12:08:00.278+2300] P-4168       T-4180  I ABL      : (334)   Single-user session end. 
+
+                Sun Nov 10 22:25:06 2013
+[2013/11/10@22:25:06.492+2300] P-548        T-2912  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/11/10@22:25:06.656+2300] P-548        T-2912  I ABL      : (15321) Before Image Log Initialization at block 7  offset 2097. 
+[2013/11/10@22:25:06.660+2300] P-548        T-2912  I ABL      : (12699) Database bak Options:  
+[2013/11/10@22:25:09.861+2300] P-548        T-2912  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/11/10@22:25:09.861+2300] P-548        T-2912  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 2097. 
+[2013/11/10@22:25:09.868+2300] P-548        T-2912  I ABL      : (334)   Single-user session end. 
+
+                Sat Nov 16 08:50:32 2013
+[2013/11/16@08:50:32.574+2300] P-3928       T-5812  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/11/16@08:50:32.574+2300] P-3928       T-5812  I ABL      : (15321) Before Image Log Initialization at block 7  offset 2097. 
+[2013/11/16@08:50:32.652+2300] P-3928       T-5812  I ABL      : (12699) Database bak Options:  
+[2013/11/16@08:50:38.683+2300] P-3928       T-5812  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/11/16@08:50:38.683+2300] P-3928       T-5812  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 2097. 
+[2013/11/16@08:50:38.683+2300] P-3928       T-5812  I ABL      : (334)   Single-user session end. 
+
+                Sat Nov 16 08:50:42 2013
+[2013/11/16@08:50:42.293+2300] P-1264       T-4384  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/11/16@08:50:42.293+2300] P-1264       T-4384  I ABL      : (15321) Before Image Log Initialization at block 7  offset 2097. 
+[2013/11/16@08:50:42.309+2300] P-1264       T-4384  I ABL      : (12699) Database bak Options:  
+[2013/11/16@08:50:46.098+2300] P-1264       T-4384  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/11/16@08:50:46.113+2300] P-1264       T-4384  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 2097. 
+[2013/11/16@08:50:46.113+2300] P-1264       T-4384  I ABL      : (334)   Single-user session end. 
+
+                Sat Nov 16 09:47:30 2013
+[2013/11/16@09:47:30.637+2300] P-4168       T-156   I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2013/11/16@09:47:30.638+2300] P-4168       T-156   I ABL      : (15321) Before Image Log Initialization at block 7  offset 2097. 
+[2013/11/16@09:47:30.643+2300] P-4168       T-156   I ABL      : (12699) Database bak Options:  
+[2013/11/16@09:47:37.407+2300] P-4168       T-156   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2013/11/16@09:47:37.407+2300] P-4168       T-156   I ABL      : (15743) Before Image Log Completion at Block 7 Offset 2479. 
+[2013/11/16@09:47:37.413+2300] P-4168       T-156   I ABL      : (334)   Single-user session end. 
