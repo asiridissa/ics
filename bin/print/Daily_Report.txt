@@ -1,5 +1,31 @@
 NO|Bill No|Customer|Tol Sale|Expiries|Damages|Discount|Cash|Cheques|Credits|GR|F/Issu
-1|1|Sahanasala - Kithulampitiya Karapitiya|2232|||||||||
-2|2|S Narangoda - Kithulampitiya Karapitiya|535.5|23|68|||||2||
-||Total|2767.5|23|68|0|0|0|0|2|0
-||Value|2767.5|| vehical :|41-5786 Kara|| Date : 11/15/2013
+1|9054|Sky world B/S - Milidduwa Magalle|4715.79|||||||||
+2|9055|Hiru Commiunication - Milidduwa Magalle|1565.25|||||||||
+3|9057|Rahamath Trades - Milidduwa Magalle|4353.17|||||||||
+4|9058|Faroshan Grocery - Milidduwa Magalle|2277.5|||||||||
+5|9059|Bajaj Houes - Milidduwa Magalle|414|||||||||
+6|9060|Nimal st - Milidduwa Magalle|1985.1|||||||||
+7|9061|Supun comminication - Milidduwa Magalle|315|||||||||
+8|9062|K.K. st - Kuruduwatta Kottawa|889.5|||||||||
+9|9063|Waruna Celluler - Milidduwa Magalle|2022|||||||||
+10|9064|Sampath St - Milidduwa Magalle|2450.64|||||||||
+11|9065|Himasha B/s - Milidduwa Magalle|3501|||||||||
+12|9066|Jaya st - Milidduwa Magalle|9384.08|||4||||||
+13|9067|Ranjith st - Milidduwa Magalle|2933.27|||||||||
+14|9069|S. K. Tr - Milidduwa Magalle|3100|||||||||
+15|9070|S K D St - Milidduwa Magalle|2648.29|||||||||
+16|9071|Chaminda Pharmacy - Milidduwa Magalle|435.75|||||||||
+17|9072|Samith cafe - Milidduwa Magalle|337.5|||||||||
+18|9073|Higland Milk Bar - Milidduwa Magalle|1825.3|||||||||
+19|9074|Samarawickrama st - Kuruduwatta  Bataduwa|1581.62|||||||||
+20|9075|L B U St - Milidduwa Magalle|1908|||||||||
+21|9076|Lu Lu Pharmacy - Milidduwa Magalle|730.64|||||||||
+22|9077|Abewickrama fc Hiribura - Kithulampitiya Karapitiya|153650.04|||10||||||
+23|9078|Dammi st - Milidduwa Magalle|1951.5|||||||||
+24|9078|Dammi st - Milidduwa Magalle|0||||||||23|
+25|9079|Ruhunu Farm Shop - Milidduwa Magalle|19017.47|||4||||||
+26|9080|Nishantha fruit shop - Milidduwa Magalle|5200|||4||||||
+27|9081|S A N Food City - Kuruduwatta  Bataduwa|19838.6|26||4||||||
+28|9082|No Name - Other Custermer|270|||||||||
+||Total|249301.01|26|0|19343.85|0|0|0|0|23
+||Value|268644.86|| vehical :|41-5786 Kara|| Date : 11/14/2013
