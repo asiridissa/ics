@@ -1,6 +1,6 @@
 @echo off
 e:
-del /F E:\ICS\bin\print\CollectionReport.xlsx
-copy E:\ICS\bin\print\ori\CollectionReport.xlsx E:\ICS\bin\print\CollectionReport.xlsx
+del /F E:\ICS\bin\print\CollectionReport.xlsm
+copy E:\ICS\bin\print\ori\CollectionReport.xlsm E:\ICS\bin\print\CollectionReport.xlsm
 exit
 @echo off
