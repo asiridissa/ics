@@ -15062,3 +15062,8 @@
 [2014/01/04@17:06:57.796+2300] P-3008       T-3020  I ABL      : (15109) At Database close the number of live transactions is 0. 
 [2014/01/04@17:06:57.796+2300] P-3008       T-3020  I ABL      : (15743) Before Image Log Completion at Block 175 Offset 1136. 
 [2014/01/04@17:06:57.828+2300] P-3008       T-3020  I ABL      : (334)   Single-user session end. 
+
+                Sat Jan 04 17:21:06 2014
+[2014/01/04@17:21:06.218+2300] P-2776       T-1248  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/01/04@17:21:06.281+2300] P-2776       T-1248  I ABL      : (15321) Before Image Log Initialization at block 175  offset 1136. 
+[2014/01/04@17:21:06.281+2300] P-2776       T-1248  I ABL      : (12699) Database ics Options:  
