@@ -1,115 +1,66 @@
+||Date : 01/24/2014|||Vehical : All Vehicals||||By user : admin
 NO|Bill No|Customer|Tol Sale|Expiries|Damages|Discount|Cash|Cheques|Credits|GR|F/Issu
-1|1|Silvas - Kuruduwatta  Bataduwa|-52.5|26.25|26.25|||||1||
-2|36181|Senith Pharmacy - Kithulampitiya Karapitiya|1102||||1102|||||
-3|36182|T.A St - Kithulampitiya Karapitiya|1038.95||||1038|||||
-4|36183|Samudra Hotel - Kithulampitiya Karapitiya|1848||||1848|||||
-5|36184|D.K.G. St - Kithulampitiya Karapitiya|1967||||1967|||||
-6|36185|Kodithuwakku st - Kithulampitiya Karapitiya|2217.52||||2217|||||
-7|36186|Sada taru Grocery - Kithulampitiya Karapitiya|1352.26||||1352|||||
-8|36187|Buddy st - Kithulampitiya Karapitiya|2743.5||||2743|||||
-9|36188|P V K St - Kithulampitiya Karapitiya|2953.52||||2953|||||
-10|36190|Mahoga St - Kithulampitiya Karapitiya|2038.52||||1660|||||
-11|36191|G K G St - Kithulampitiya Karapitiya|2142.77||||2142|||||
-12|36192|Abesundara st - Kithulampitiya Karapitiya|656.25||||656|||||
-13|36193|Asoka st - Kithulampitiya Karapitiya|778||||778|||||
-14|36194|Sunray Food City - Kithulampitiya Karapitiya|789||||789|||||
-15|36195|Bandula Hotel - Kithulampitiya Karapitiya|11219||||3219|||||
-16|36196|Alvitigala st - Kithulampitiya Karapitiya|732||||732|||||
-17|36197|Litel Lanka - Kithulampitiya Karapitiya|1419.01|||||||||
-18|36198|Gunadasa st - Kithulampitiya Karapitiya|0||||||||45|
-19|36198|Gunadasa st - Kithulampitiya Karapitiya|2160||||2160|||||
-20|36199|Vihanga Hotel - Kithulampitiya Karapitiya|3045.02|||||||||
-21|40638|Palathuru Kade - Kithulampitiya Karapitiya|810||||810|||||
-22|40639|Asiri Pharmacy - Kithulampitiya Karapitiya|3121.22|||||||||
-23|40640|Samagp Milk Bar - Kithulampitiya Karapitiya|2644.52|||||||||
-24|40641|Bojunhala - Kithulampitiya Karapitiya|26229.58|||4||||||
-25|40859|Smart shop - Thalagaha Kuruduwatta|420||||420|||||
-26|40882|Priyantha st - Nagoda Unanvitiya|3044|||||||||
-27|40883|Senur i st - Nagoda Unanvitiya|2333.64|||||||||
-28|40884|Lakshan st - Nagoda Unanvitiya|6189.42|||||||||
-29|40889|M.K.G.C ST - Thalagaha Kuruduwatta|1968.04||||1968.04|||||
-30|40890|Sakura st - Thalagaha Kuruduwatta|2621.75||||2615|||||
-31|40891|Maduranga stores - Thalagaha Kuruduwatta|225||||225|||||
-32|40892|Ajantha st - Thalagaha Kuruduwatta|1037.1||||1037|||||
-33|40893|Harith stores - Thalagaha Kuruduwatta|259.5||||259|||||
-34|40896|Indika St - Thalagaha Kuruduwatta|519||||519|||||
-35|40897|Sriyalatha st - Thalagaha Kuruduwatta|157.5||||157|||||
-36|40898|W.H.G st - Thalagaha Kuruduwatta|393.75||||393.75|||||
-37|40990|T.A St - Kithulampitiya Karapitiya|4726.38|||||||||
-38|40991|A R M St - Dangedara  Elliot Road|12255.88|||4||||||
-39|46037|Vipula st - Ovilana Labuduwa|1260|||||||||
-40|46038|Dewangi Com - Ovilana Labuduwa|961.5|||||||||
-41|46039|Kumarasiri st - Kottawa Yatalamatta|4578.4|||||||||
-42|46040|Kodithuwakku st - Ovilana Labuduwa|11916.83|||||||||
-43|46041|Ovitawatta st - Ovilana Labuduwa|1151.64|||||||||
-44|46042|Abaya st - Ovilana Labuduwa|1182.76|||||||||
-45|46044|Lakmali st - Ovilana Labuduwa|656.25|||||||||
-46|46045|Achini Kade - Ovilana Labuduwa|599.64|||||||||
-47|46046|B. A St - Ovilana Labuduwa|495|||||||||
-48|46047|Janahita Hotel - Ovilana Labuduwa|4721.02|||||||||
-49|46048|Achira Food City - Ovilana Labuduwa|7647.57|||4||||||
-50|46049|L G S St - Ovilana Labuduwa|2006.25|||||||||
-51|46437|Sandhya - Milidduwa Magalle|2456.1|||||||||
-52|46438|Hassen Grocery - Milidduwa Magalle|16419.09|||4||||||
-53|46439|Faroshan Grocery - Milidduwa Magalle|2512.25|||||||||
-54|46440|Lu Lu Pharmacy - Milidduwa Magalle|1960|||||||||
-55|46441|Rahamath Trades - Milidduwa Magalle|4149.52|||||||||
-56|46442|M.R.M. St - Milidduwa Magalle|675|||||||||
-57|46443|Bajaj Houes - Milidduwa Magalle|603|||||||||
-58|46444|Eranda st - Milidduwa Magalle|645|||||||||
-59|46445|K.M.D. st - Milidduwa Magalle|3190.75|||||||||
-60|46446|Sampath St - Milidduwa Magalle|2331.75|||||||||
-61|46447|S K D St - Milidduwa Magalle|851.4|||||||||
-62|46448|E H P St - Milidduwa Magalle|3177|||4||||||
-63|46449|Mervin st - Milidduwa Magalle|4271.04|||||||||
-64|46732|Rohana st - Ovilana Labuduwa|2133.75|||||||||
-65|46733|K.A.G st - Ovilana Labuduwa|519|||||||||
-66|46734|Elawalu kade - Ovilana Labuduwa|1293.45|||||||||
-67|46735|Ranjani St - Ovilana Labuduwa|687|||||||||
-68|46737|Tharanga st - Ovilana Labuduwa|259.5|||||||||
-69|46738|New C.D st - Ovilana Labuduwa|1272|||||||||
-70|46739|Udara st - Ovilana Labuduwa|2982.62|||||||||
-71|46740|No Name - Other Custermer|972|||||||||
-72|46741|S.H.A st - Ovilana Labuduwa|687|||||||||
-73|46742|M.W.T.K st - Ovilana Labuduwa|8791.57|||||||||
-74|46743|Gunadasa st - Ovilana Labuduwa|420|||||||||
-75|46744|Saniru st - Ovilana Labuduwa|789|||||||||
-76|46745|M D S - Ovilana Labuduwa|1275.77|||||||||
-77|46746|No Name - Other Custermer|0||||||||148.5|
-78|46938|Sadana st - Thalagaha Kuruduwatta|993.6||||993|||||
-79|46939|Sriwardana St - Thalagaha Kuruduwatta|990||||990|||||
-80|46941|Samantha st - Thalagaha Kuruduwatta|3189.5||||3188|||||
-81|46942|Samanst - Thalagaha Kuruduwatta|464.64||||464.64|||||
-82|46943|Luckey st - Thalagaha Kuruduwatta|1264.83||||1264.83|||||
-83|46944|Nuwan stores - Thalagaha Kuruduwatta|2454|||||||||
-84|46945|Isara trade Center - Thalagaha Kuruduwatta|18889.9|||8|18889.9|||||
-85|46946|Nimali st - Thalagaha Kuruduwatta|1896|||||||||
-86|46947|Liyanage st-pitadeniya - Thalagaha Kuruduwatta|2477.12||||2477|||||
-87|46948|Sadana st - Thalagaha Kuruduwatta|1060.08||||1060|||||
-88|46949|Rasika st - Thalagaha Kuruduwatta|525||||525|||||
-89|59090|Priyantha - Narawala  Ambalanwatta|9617.47|||4||||||
-90|59091|Priyantha - Narawala  Ambalanwatta|2486.4|||4||||||
-91|59639|S. K. Tr - Milidduwa Magalle|4732.02|||||||||
-92|59640|Sinura Grocery - Milidduwa Magalle|867|||||||||
-93|59641|L P K St - Milidduwa Magalle|1293.75|||||||||
-94|59642|Pasindu st - Milidduwa Magalle|1064.55|||||||||
-95|59643|Himasha B/s - Milidduwa Magalle|1771.5|||||||||
-96|59644|Tilakarathna st - Milidduwa Magalle|834|||||||||
-97|59645|Kavishka st - Milidduwa Magalle|1112.14|||||||||
-98|59646|Higland Milk Bar - Milidduwa Magalle|1261.29|||||||||
-99|59647|Co-op Curculer Road - Milidduwa Magalle|6060.52|||||||||
-100|59648|Sky world B/S - Milidduwa Magalle|3246.77|||||||||
-101|59649|Rizla Hotel - Kithulampitiya Karapitiya|17335.28|||4||||||
-102|59649|Rizla Hotel - Kithulampitiya Karapitiya|0||||||||865|
-103|98936|Piyasena st - Thalagaha Kuruduwatta|309.76||||309|||||
-104|98937|T.V.K st - Thalagaha Kuruduwatta|1422|||||||||
-105|98939|Dimuthu st - Thalagaha Kuruduwatta|1701||||1601|||||
-106|98940|Anura st - Thalagaha Kuruduwatta|7886.96|||4||||||
-107|98941|N.J.S st - Thalagaha Kuruduwatta|270||||270|||||
-108|98942|Susiri stores - Thalagaha Kuruduwatta|619.52||||619|||||
-109|98943|Senewirathna st - Thalagaha Kuruduwatta|42172.34|78.75||4|42058|||||
-110|98945|Wasana st - Thalagaha Kuruduwatta|3677.87|||||||||
-111|98946|Athula st - Thalagaha Kuruduwatta|3712.22|||||||||
-112|98947|Thilina st - Thalagaha Kuruduwatta|540||||540|||||
-||Total|359806.55|105|26.25|11046.68|111009.16|0|0|1|1058.5
-||Value|370800.73|| vehical :|All Vehicals|| Month : 1 - 2014
+1|2101|Priyantha labuduwa - Narawala  Ambalanwatta|8700.42|0|0|708.52|8700|0|0|0|346|
+2|2102|Devon Pharmacy - Kithulampitiya Karapitiya|1494.64|0|0|0|0|0|0|0|0|
+3|2104|Crystal Pharmacy - Kithulampitiya Karapitiya|3853.54|0|0|126|0|0|0|0|126|
+4|2105|T.A St - Kithulampitiya Karapitiya|6484|0|0|0|0|0|0|0|0|
+5|2106|Litel Lanka - Kithulampitiya Karapitiya|2746|0|0|0|0|0|0|0|0|
+6|2107|B T M Hotel - Kithulampitiya Karapitiya|9678.24|0|0|402.26|0|0|0|0|0|
+7|2109|Lalani st - Kithulampitiya Karapitiya|480|0|0|0|480|0|0|0|0|
+8|2110|Asoka st - Kithulampitiya Karapitiya|1684|0|0|0|1684|0|0|0|0|
+9|2111|Liyanage st - Kithulampitiya Karapitiya|292.5|0|0|0|292|0|0|0|0|
+10|2113|Alvitigala st - Kithulampitiya Karapitiya|270|0|0|0|270|0|0|0|0|
+11|2114|Bandula Hotel - Kithulampitiya Karapitiya|2958|0|0|0|0|0|0|0|0|
+12|2115|Sakura Phamacy - Kithulampitiya Karapitiya|580|0|0|0|580|0|0|0|0|
+13|2116|Kodithuwakku st - Kithulampitiya Karapitiya|3102.3|0|0|0|3102|0|0|0|0|
+14|2117|Sada taru Grocery - Kithulampitiya Karapitiya|1422.33|0|0|0|0|0|0|180|0|
+15|2118|Buddy st - Kithulampitiya Karapitiya|2276.44|0|0|0|2276|0|0|0|0|
+16|2119|Uluvitiya St - Kithulampitiya Karapitiya|3673.2|90|0|0|0|0|0|0|0|
+17|2120|Mahoga St - Kithulampitiya Karapitiya|1005|0|0|0|1005|0|0|0|0|
+18|2121|A K J Hotel - Kithulampitiya Karapitiya|6817.17|0|0|0|0|0|0|0|0|
+19|2122|P V K St - Kithulampitiya Karapitiya|2370.02|31.5|0|0|2370|0|0|0|0|
+20|2123|Abesundara st - Kithulampitiya Karapitiya|3889.52|0|0|0|3889|0|0|0|0|
+21|2124|Madura Cool - Kithulampitiya Karapitiya|1129|0|0|0|1129|0|0|0|0|
+22|2125|Praboda Book - Kithulampitiya Karapitiya|1792|0|0|0|1792|0|0|0|0|
+23|2126|Star Hotel - Kithulampitiya Karapitiya|2300|117|0|0|2300|0|0|0|0|
+24|2127|Shridara Pharmacy - Kithulampitiya Karapitiya|4161.02|0|0|0|4161|0|0|0|0|
+25|2128|Sajeewi G/ M - Kithulampitiya Karapitiya|390.75|0|0|0|390|0|0|0|0|
+26|2129|Samagp Milk Bar - Kithulampitiya Karapitiya|709.5|0|0|0|709|0|0|0|0|
+27|2131|Asiri Pharmacy - Kithulampitiya Karapitiya|1806|288|0|0|1806|0|0|0|0|
+28|2132|Dinesh Hotel - Kithulampitiya Karapitiya|5578.72|0|0|0|0|0|0|0|0|
+29|2134|Hospital Canteen - Kithulampitiya Karapitiya|57193.86|1780.35|0|6354.09|0|0|0|0|0|
+30|2135|Chandani Hotel - Kithulampitiya Karapitiya|10037|0|0|418.16|0|0|0|0|0|
+31|2136|M.R. st - Kithulampitiya Karapitiya|17187.78|67.5|0|880.22|0|0|0|0|0|
+32|2739|Bojunhala - Kithulampitiya Karapitiya|24494.02|218.76|0|1019.71|0|0|0|0|0|
+33|2801|M.K.G.C ST - Thalagaha Kuruduwatta|1756.25|0|0|0|0|0|0|0|0|
+34|2803|Sakura st - Thalagaha Kuruduwatta|1873.4|0|0|0|0|0|0|0|0|
+35|2804|Maduranga stores - Thalagaha Kuruduwatta|1492|0|0|0|0|0|0|0|0|
+36|2805|Harith stores - Thalagaha Kuruduwatta|378|0|0|0|0|0|0|0|0|
+37|2806|Kulasingha st - Thalagaha Kuruduwatta|315|0|0|0|0|0|0|0|0|
+38|2807|K.G.P st - Thalagaha Kuruduwatta|1498.14|109.38|0|0|0|0|0|0|0|
+39|2808|Sarath st - Thalagaha Kuruduwatta|8208.79|0|0|342.03|0|0|0|0|0|
+40|2810|Sadana st - Thalagaha Kuruduwatta|465|0|0|0|0|0|0|0|0|
+41|2811|Vihari st - Thalagaha Kuruduwatta|484|0|0|0|0|0|0|0|0|
+42|2812|Peduru st - Thalagaha Kuruduwatta|1208.08|0|0|0|0|0|0|0|0|
+43|2813|Wasana st - Thalagaha Kuruduwatta|3903.23|306|0|0|0|0|0|0|0|
+44|2814|Siriwardana st - Thalagaha Kuruduwatta|1817|0|0|0|0|0|0|0|0|
+45|2815|Samanst - Thalagaha Kuruduwatta|427|0|0|0|0|0|0|0|0|
+46|2816|Lucky st - Thalagaha Kuruduwatta|1033.08|0|0|0|0|0|0|0|0|
+47|2817|W.H.D st - Thalagaha Kuruduwatta|742|0|0|0|0|0|0|0|0|
+48|2820|Liyanage St - Thalagaha Kuruduwatta|2169|0|0|0|0|0|0|0|0|
+49|2821|Ranatunga stores - Thalagaha Kuruduwatta|687|0|0|0|0|0|0|0|0|
+50|2822|Sadana st - Thalagaha Kuruduwatta|394|0|0|0|0|0|0|0|0|
+51|2823|Rasika st - Thalagaha Kuruduwatta|315|0|0|0|0|0|0|0|0|
+52|2825|Vijaya st - Thalagaha Kuruduwatta|865|0|0|0|0|0|0|0|0|
+53|2826|Piyasena st - Thalagaha Kuruduwatta|624.2|0|0|0|0|0|0|0|0|
+54|2827|T.V.K st - Thalagaha Kuruduwatta|1384.5|0|0|0|0|0|0|0|0|
+55|2828|P.v.c stores - Thalagaha Kuruduwatta|270|0|0|0|0|0|0|0|0|
+56|2830|N.J.S st - Thalagaha Kuruduwatta|346|0|0|0|0|0|0|0|0|
+57|2831|Susiri stores - Thalagaha Kuruduwatta|934|0|0|0|0|0|0|0|0|
+58|2832|Godakanda st - Thalagaha Kuruduwatta|1879|0|0|0|0|0|0|0|0|
+59|2834|Kirikade - Wanduramba Ovilana|4889.39|0|0|0|0|0|0|0|0|
+60|2835|Palaturu kade - Thalagaha Kuruduwatta|1647|0|0|0|0|0|0|0|0|
+61|2836|Harith stores - Thalagaha Kuruduwatta|148.5|0|0|0|0|0|0|0|0|
+
+||Total|232710.53|3008.49|0|10250.99|36935|0|0|180|472
+||Value|242961.52
