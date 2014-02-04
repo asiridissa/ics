@@ -1,66 +1,45 @@
-||Date : 01/24/2014|||Vehical : All Vehicals||||By user : admin
+||Month : 2 - 2014|||Vehical : All Vehicals||||By user : admin
 NO|Bill No|Customer|Tol Sale|Expiries|Damages|Discount|Cash|Cheques|Credits|GR|F/Issu
-1|2101|Priyantha labuduwa - Narawala  Ambalanwatta|8700.42|0|0|708.52|8700|0|0|0|346|
-2|2102|Devon Pharmacy - Kithulampitiya Karapitiya|1494.64|0|0|0|0|0|0|0|0|
-3|2104|Crystal Pharmacy - Kithulampitiya Karapitiya|3853.54|0|0|126|0|0|0|0|126|
-4|2105|T.A St - Kithulampitiya Karapitiya|6484|0|0|0|0|0|0|0|0|
-5|2106|Litel Lanka - Kithulampitiya Karapitiya|2746|0|0|0|0|0|0|0|0|
-6|2107|B T M Hotel - Kithulampitiya Karapitiya|9678.24|0|0|402.26|0|0|0|0|0|
-7|2109|Lalani st - Kithulampitiya Karapitiya|480|0|0|0|480|0|0|0|0|
-8|2110|Asoka st - Kithulampitiya Karapitiya|1684|0|0|0|1684|0|0|0|0|
-9|2111|Liyanage st - Kithulampitiya Karapitiya|292.5|0|0|0|292|0|0|0|0|
-10|2113|Alvitigala st - Kithulampitiya Karapitiya|270|0|0|0|270|0|0|0|0|
-11|2114|Bandula Hotel - Kithulampitiya Karapitiya|2958|0|0|0|0|0|0|0|0|
-12|2115|Sakura Phamacy - Kithulampitiya Karapitiya|580|0|0|0|580|0|0|0|0|
-13|2116|Kodithuwakku st - Kithulampitiya Karapitiya|3102.3|0|0|0|3102|0|0|0|0|
-14|2117|Sada taru Grocery - Kithulampitiya Karapitiya|1422.33|0|0|0|0|0|0|180|0|
-15|2118|Buddy st - Kithulampitiya Karapitiya|2276.44|0|0|0|2276|0|0|0|0|
-16|2119|Uluvitiya St - Kithulampitiya Karapitiya|3673.2|90|0|0|0|0|0|0|0|
-17|2120|Mahoga St - Kithulampitiya Karapitiya|1005|0|0|0|1005|0|0|0|0|
-18|2121|A K J Hotel - Kithulampitiya Karapitiya|6817.17|0|0|0|0|0|0|0|0|
-19|2122|P V K St - Kithulampitiya Karapitiya|2370.02|31.5|0|0|2370|0|0|0|0|
-20|2123|Abesundara st - Kithulampitiya Karapitiya|3889.52|0|0|0|3889|0|0|0|0|
-21|2124|Madura Cool - Kithulampitiya Karapitiya|1129|0|0|0|1129|0|0|0|0|
-22|2125|Praboda Book - Kithulampitiya Karapitiya|1792|0|0|0|1792|0|0|0|0|
-23|2126|Star Hotel - Kithulampitiya Karapitiya|2300|117|0|0|2300|0|0|0|0|
-24|2127|Shridara Pharmacy - Kithulampitiya Karapitiya|4161.02|0|0|0|4161|0|0|0|0|
-25|2128|Sajeewi G/ M - Kithulampitiya Karapitiya|390.75|0|0|0|390|0|0|0|0|
-26|2129|Samagp Milk Bar - Kithulampitiya Karapitiya|709.5|0|0|0|709|0|0|0|0|
-27|2131|Asiri Pharmacy - Kithulampitiya Karapitiya|1806|288|0|0|1806|0|0|0|0|
-28|2132|Dinesh Hotel - Kithulampitiya Karapitiya|5578.72|0|0|0|0|0|0|0|0|
-29|2134|Hospital Canteen - Kithulampitiya Karapitiya|57193.86|1780.35|0|6354.09|0|0|0|0|0|
-30|2135|Chandani Hotel - Kithulampitiya Karapitiya|10037|0|0|418.16|0|0|0|0|0|
-31|2136|M.R. st - Kithulampitiya Karapitiya|17187.78|67.5|0|880.22|0|0|0|0|0|
-32|2739|Bojunhala - Kithulampitiya Karapitiya|24494.02|218.76|0|1019.71|0|0|0|0|0|
-33|2801|M.K.G.C ST - Thalagaha Kuruduwatta|1756.25|0|0|0|0|0|0|0|0|
-34|2803|Sakura st - Thalagaha Kuruduwatta|1873.4|0|0|0|0|0|0|0|0|
-35|2804|Maduranga stores - Thalagaha Kuruduwatta|1492|0|0|0|0|0|0|0|0|
-36|2805|Harith stores - Thalagaha Kuruduwatta|378|0|0|0|0|0|0|0|0|
-37|2806|Kulasingha st - Thalagaha Kuruduwatta|315|0|0|0|0|0|0|0|0|
-38|2807|K.G.P st - Thalagaha Kuruduwatta|1498.14|109.38|0|0|0|0|0|0|0|
-39|2808|Sarath st - Thalagaha Kuruduwatta|8208.79|0|0|342.03|0|0|0|0|0|
-40|2810|Sadana st - Thalagaha Kuruduwatta|465|0|0|0|0|0|0|0|0|
-41|2811|Vihari st - Thalagaha Kuruduwatta|484|0|0|0|0|0|0|0|0|
-42|2812|Peduru st - Thalagaha Kuruduwatta|1208.08|0|0|0|0|0|0|0|0|
-43|2813|Wasana st - Thalagaha Kuruduwatta|3903.23|306|0|0|0|0|0|0|0|
-44|2814|Siriwardana st - Thalagaha Kuruduwatta|1817|0|0|0|0|0|0|0|0|
-45|2815|Samanst - Thalagaha Kuruduwatta|427|0|0|0|0|0|0|0|0|
-46|2816|Lucky st - Thalagaha Kuruduwatta|1033.08|0|0|0|0|0|0|0|0|
-47|2817|W.H.D st - Thalagaha Kuruduwatta|742|0|0|0|0|0|0|0|0|
-48|2820|Liyanage St - Thalagaha Kuruduwatta|2169|0|0|0|0|0|0|0|0|
-49|2821|Ranatunga stores - Thalagaha Kuruduwatta|687|0|0|0|0|0|0|0|0|
-50|2822|Sadana st - Thalagaha Kuruduwatta|394|0|0|0|0|0|0|0|0|
-51|2823|Rasika st - Thalagaha Kuruduwatta|315|0|0|0|0|0|0|0|0|
-52|2825|Vijaya st - Thalagaha Kuruduwatta|865|0|0|0|0|0|0|0|0|
-53|2826|Piyasena st - Thalagaha Kuruduwatta|624.2|0|0|0|0|0|0|0|0|
-54|2827|T.V.K st - Thalagaha Kuruduwatta|1384.5|0|0|0|0|0|0|0|0|
-55|2828|P.v.c stores - Thalagaha Kuruduwatta|270|0|0|0|0|0|0|0|0|
-56|2830|N.J.S st - Thalagaha Kuruduwatta|346|0|0|0|0|0|0|0|0|
-57|2831|Susiri stores - Thalagaha Kuruduwatta|934|0|0|0|0|0|0|0|0|
-58|2832|Godakanda st - Thalagaha Kuruduwatta|1879|0|0|0|0|0|0|0|0|
-59|2834|Kirikade - Wanduramba Ovilana|4889.39|0|0|0|0|0|0|0|0|
-60|2835|Palaturu kade - Thalagaha Kuruduwatta|1647|0|0|0|0|0|0|0|0|
-61|2836|Harith stores - Thalagaha Kuruduwatta|148.5|0|0|0|0|0|0|0|0|
+1|37966|Asiri Pharmacy - FRI|2146.5|0|0|0|2146|0|0|0|0|
+2|37968|Asiri Cake - FRI|417|0|0|0|417|0|0|0|0|
+3|37954|Senith Pharmacy - FRI|4821.52|772.4|0|0|4821|0|0|0|0|
+4|37969|Litel Lanka - FRI|1938.14|0|0|0|1938|0|0|0|0|
+5|37970|Aruna st - FRI|5198.4|0|0|216.6|5198|0|0|0|0|
+6|37972|Sakura Phamacy - FRI|975|31.5|0|0|975|0|0|0|0|
+7|37974|Bandula Hotel - FRI|4458.3|0|0|0|3000|0|0|0|0|
+8|37975|Alvitigala st - FRI|467|70.4|0|0|467|0|0|0|0|
+9|37976|Sada taru Grocery - FRI|1335|0|0|0|1335|0|0|0|0|
+10|37977|G K G St - FRI|892|45|0|0|892|0|0|0|0|
+11|37979|P V K St - FRI|2906|0|0|0|2490|0|0|0|0|
+12|37981|Mahoga St - FRI|5290|0|0|220.11|290|0|0|0|0|
+13|37982|A K J Hotel - FRI|420|0|0|184.8|420|0|0|0|184.8|
+14|37984|Praboda Book - FRI|941|0|0|0|941|0|0|0|0|
+15|37986|Star Hotel - FRI|3385|492.76|0|0|3385|0|0|0|0|
+16|37990|Buddy st - FRI|1870.08|0|0|0|1240|0|0|0|0|
+17|37991|M P S Coll Spot - FRI|1554.02|0|0|0|1554|0|0|0|0|
+18|37992|Mahilal Ent - WED|5677.72|0|0|236.57|5677|0|0|0|0|
+19|37989|No Name - OTH|1929|0|0|0|1929|0|0|0|0|
+20|37964|A.R.M. st - WED|16235.08|0|0|676.46|16235|0|0|0|0|
+21|2266|W.G.S st - 2FR|2378.4|0|0|0|2378|0|0|0|0|
+22|2267|Mahimi st - 2FR|1411.5|0|0|0|1411|0|0|0|0|
+23|2268|Maduranga stores - 2FR|606|0|0|0|606|0|0|0|0|
+24|2269|Ajantha st - 2FR|529.5|0|0|0|529|0|0|0|0|
+25|2270|Harith stores - 2FR|270|0|0|0|270|0|0|0|0|
+26|2273|Sadana st - 2FR|225|0|0|0|225|0|0|0|0|
+27|2275|Siriwardana st - 2FR|1006.38|0|0|0|1006|0|0|0|0|
+28|2276|Samanst - 2FR|2684|0|0|0|2684|0|0|0|0|
+29|2278|Luckey st - 2FR|1456.08|0|0|0|1456|0|0|0|0|
+30|2280|Ranatunga stores - 2FR|973|0|0|0|973|0|0|0|0|
+31|2281|Vijaya st - 2FR|233.58|0|0|0|233|0|0|0|0|
+32|2282|Rasika st - 2FR|315|0|0|0|315|0|0|0|0|
+33|2284|Dimuthu st - 2FR|801|0|0|0|800|0|0|0|0|
+34|2285|W.H.G st - 2FR|656.25|0|0|0|656|0|0|0|0|
+35|2286|Anura st - 2FR|2014.32|0|0|0|2014|0|0|0|0|
+36|2287|Susiri stores - 2FR|427.5|0|0|0|427|0|0|0|0|
+37|2288|N.J.S st - 2FR|630|0|0|0|630|0|0|0|0|
+38|2274|Gamage - 2FR|4645.04|0|0|193.5|485|0|0|0|0|
+39|2264|Isara trade Center - 2FR|9234.5|0|0|803|9234|0|0|0|0|
+40|37907|Achini Kade - 2TH|1255|0|0|0|1255|0|0|0|0|
 
-||Total|232710.53|3008.49|0|10250.99|36935|0|0|180|472
-||Value|242961.52
+||Total|94608.81|1412.06|0|2531.04|82937|0|0|0|184.8
+||Value|97139.85
