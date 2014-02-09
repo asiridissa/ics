@@ -1,62 +1,61 @@
 No|Product|Weight|Van C|Van P|Stock C|Stock P|Total P|Buying Price|Amount|Selling Price|Amount|
-1|Goold Marie - 02/24/2013|.08|
-2|Chocolate Cream - 08/14/2013|.1|
-3|Cream Cracker - 02/24/2013|.125|
-4|Cream Cracker - 02/24/2013|.19|
-5|Cream Cracker - 06/29/2013|.33|
-6|Cream Cracker - 02/24/2013|.5|
-7|Lemon puff - 06/29/2013|.1|
-8|Lemon Puff - 05/13/2013|.2|
-9|Chocolate Puff - 12/26/2013|.1|
-10|Chocolate Puff - 12/26/2013|.2|
-11|Sorties - 02/24/2013|.065|
-12|Nice - 07/03/2013|.1|
-13|Hawaiian Cookies - 06/29/2013|.1|
-14|Hawaiian Cookies - 06/29/2013|.2|
-15|Bran Cracker - 06/29/2013|.14|
-16|Bran Cracker - 06/29/2013|.21|
-17|Cheesebits - 04/19/2013|.025|
-18|Cheese Bits - 05/13/2013|.08|
-19|Cheese Bits - 05/13/2013|.17|
-20|Cheese Bits - 05/13/2013|.245|
-21|Krisco - 07/03/2013|.17|
-22|Krisco - 05/13/2013|.215|
-23|Chocolate Cream - 02/24/2013|.5|
-24|Chocolate Cream - 12/26/2013|.25|
-25|Custard Cream - 02/24/2013|.1|
-26|Orange Cream - 03/31/2013|.1|
-27|Chickbit - 05/13/2013|.28|
-28|Chickbits - 06/29/2013|.08|
-29|Chickbit - 05/13/2013|.03|
-30|Gingernut - 06/29/2013|.08|
-31|Gingernut - 06/29/2013|.24|
-32|Gingernut - 12/26/2013|.37|
-33|Millk Short Cake - 06/29/2013|.08|
-34|Snackers-Cheese & Chille - 06/29/2013|.04|
-35|Snackers- Masala - 06/29/2013|.04|
-36|Snackers- Spicy - 07/03/2013|.04|
-37|Custard Cream - 07/03/2013|.5|
-38|Orenge Cream - 07/03/2013|.5|
-39|Nice - 07/03/2013|.38|
-40|Sorties - 07/03/2013|.325|
-41|Gift Selection - 04/02/2013|.4|
-42|Kisco Bite - 07/03/2013|.03|
-43|Light Marie - 02/24/2013|.07|
-44|Light Marie - 02/24/2013|.28|
-45|Classic Bis Asst - 05/13/2013|.5|
-46|Goold Marie - 07/03/2013|.32|
-47|Gem - 07/03/2013|.1|
-48|Wafers-chocolate - 07/31/2013|.1|
-49|Waferes Chocolat - 11/11/2013|.25|
-50|Wafers-vanila - 07/31/2013|.1|
-51|Wefers vanila - 11/11/2013|.25|
-52|Spicy Cracker - 03/30/2013|.075|
-53|Spicy Cracker - 03/30/2013|.15|
-54|Chocolate Cream Marie - 02/24/2013|.065|
-55|Tea Time Assortment - 12/25/2013|.2|
-56|Mango Puff - 02/24/2013|.2|
-57|Double Cream - Strawbery - 12/26/2013|.11|
-58|Double Cream- Chocolate - 12/26/2013|.11|
-59|Nice - 01/23/2014|.29|
-60|Nice - 01/23/2014|.435|
+1|Chocolate Cream - 08/14/2013|.1|
+2|Cream Cracker - 02/24/2013|.125|
+3|Cream Cracker - 02/24/2013|.19|
+4|Cream Cracker - 06/29/2013|.33|
+5|Cream Cracker - 02/24/2013|.5|
+6|Lemon puff - 06/29/2013|.1|
+7|Lemon Puff - 05/13/2013|.2|
+8|Chocolate Puff - 12/26/2013|.1|
+9|Chocolate Puff - 12/26/2013|.2|
+10|Sorties - 02/24/2013|.065|
+11|Nice - 07/03/2013|.1|
+12|Hawaiian Cookies - 06/29/2013|.1|
+13|Hawaiian Cookies - 06/29/2013|.2|
+14|Bran Cracker - 06/29/2013|.14|
+15|Bran Cracker - 06/29/2013|.21|
+16|Cheesebits - 04/19/2013|.025|
+17|Cheese Bits - 05/13/2013|.08|
+18|Cheese Bits - 05/13/2013|.17|
+19|Cheese Bits - 05/13/2013|.245|
+20|Krisco - 07/03/2013|.17|
+21|Krisco - 05/13/2013|.215|
+22|Chocolate Cream - 02/24/2013|.5|
+23|Chocolate Cream - 12/26/2013|.25|
+24|Custard Cream - 02/24/2013|.1|
+25|Orange Cream - 03/31/2013|.1|
+26|Chickbit - 05/13/2013|.28|
+27|Chickbits - 06/29/2013|.08|
+28|Chickbit - 05/13/2013|.03|
+29|Gingernut - 06/29/2013|.08|
+30|Gingernut - 06/29/2013|.24|
+31|Gingernut - 12/26/2013|.37|
+32|Millk Short Cake - 06/29/2013|.08|
+33|Snackers-Cheese & Chille - 06/29/2013|.04|
+34|Snackers- Masala - 06/29/2013|.04|
+35|Snackers- Spicy - 07/03/2013|.04|
+36|Custard Cream - 07/03/2013|.5|
+37|Orenge Cream - 07/03/2013|.5|
+38|Nice - 07/03/2013|.38|
+39|Sorties - 07/03/2013|.325|
+40|Gift Selection - 04/02/2013|.4|
+41|Kisco Bite - 07/03/2013|.03|
+42|Light Marie - 02/24/2013|.07|
+43|Light Marie - 02/24/2013|.28|
+44|Classic Bis Asst - 05/13/2013|.5|
+45|Goold Marie - 07/03/2013|.32|
+46|Gem - 07/03/2013|.1|
+47|Wafers-chocolate - 07/31/2013|.1|
+48|Waferes Chocolat - 11/11/2013|.25|
+49|Wafers-vanila - 07/31/2013|.1|
+50|Wefers vanila - 11/11/2013|.25|
+51|Spicy Cracker - 03/30/2013|.075|
+52|Spicy Cracker - 03/30/2013|.15|
+53|Chocolate Cream Marie - 02/24/2013|.065|
+54|Tea Time Assortment - 12/25/2013|.2|
+55|Mango Puff - 02/24/2013|.2|
+56|Double Cream - Strawbery - 12/26/2013|.11|
+57|Double Cream- Chocolate - 12/26/2013|.11|
+58|Nice - 01/23/2014|.29|
+59|Nice - 01/23/2014|.435|
 |Total|
