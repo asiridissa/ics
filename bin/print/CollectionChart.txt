@@ -1,4 +1,4 @@
-||||From : 01/01/2013 To : 02/09/2014    By user : admin
+||||From : 01/01/2013 To : 02/09/2014    By user : Super Admin
 Code|Area|Bills|Sub-Total|Paid-Total|Collections|<=7|7<=14|14<=21|21<
 OTH|Other Custermer|120|126071.4|18207|107864.4|3|0|6|111
 2MO|Yatalamattha Banbarapura|489|1033714.66|25657|1008057.66|14|12|25|438

@@ -1,4 +1,4 @@
-|||||From : 01/01/2013 To : 02/09/2014    By user : admin
+|||||From : 01/01/2013 To : 02/09/2014    By user : Super Admin
 |No|Date|Bill No.|Customer|Bill Total|Paid|Collection|Days
 Other Custermer (OTH)
 |1|07/06/13|59671|No Name|85.5|0|85.5|218|
