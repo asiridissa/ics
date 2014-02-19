@@ -17419,3 +17419,80 @@
 [2014/02/19@00:28:33.927+2300] P-4412       T-1984  I ABL      : (15109) At Database close the number of live transactions is 0. 
 [2014/02/19@00:28:33.927+2300] P-4412       T-1984  I ABL      : (15743) Before Image Log Completion at Block 240 Offset 2466. 
 [2014/02/19@00:28:33.932+2300] P-4412       T-1984  I ABL      : (334)   Single-user session end. 
+
+                Wed Feb 19 09:06:26 2014
+[2014/02/19@09:06:26.529+2300] P-2196       T-2184  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/19@09:06:26.545+2300] P-2196       T-2184  I ABL      : (15321) Before Image Log Initialization at block 240  offset 2466. 
+[2014/02/19@09:06:26.545+2300] P-2196       T-2184  I ABL      : (12699) Database ics Options:  
+
+                Wed Feb 19 09:37:41 2014
+[2014/02/19@09:37:41.653+2300] P-2312       T-2416  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/19@09:37:42.278+2300] P-2312       T-2416  I ABL      : (5326)  Begin Physical Redo Phase at 128 . 
+[2014/02/19@09:37:42.731+2300] P-2312       T-2416  I ABL      : (7161)  Physical Redo Phase Completed at blk 251 off 1504 upd 4402. 
+[2014/02/19@09:37:42.746+2300] P-2312       T-2416  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/02/19@09:37:43.090+2300] P-2312       T-2416  I ABL      : (12699) Database ics Options:  
+
+                Wed Feb 19 10:07:45 2014
+[2014/02/19@10:07:45.288+2300] P-3420       T-3416  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/19@10:07:45.913+2300] P-3420       T-3416  I ABL      : (5326)  Begin Physical Redo Phase at 192 . 
+[2014/02/19@10:07:46.304+2300] P-3420       T-3416  I ABL      : (7161)  Physical Redo Phase Completed at blk 7 off 1838 upd 2083. 
+[2014/02/19@10:07:46.319+2300] P-3420       T-3416  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/02/19@10:07:46.679+2300] P-3420       T-3416  I ABL      : (12699) Database ics Options:  
+
+                Wed Feb 19 10:20:04 2014
+[2014/02/19@10:20:04.166+2300] P-3552       T-3564  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/19@10:20:05.119+2300] P-3552       T-3564  I ABL      : (5326)  Begin Physical Redo Phase at 192 . 
+[2014/02/19@10:20:05.682+2300] P-3552       T-3564  I ABL      : (7161)  Physical Redo Phase Completed at blk 19 off 1826 upd 2571. 
+[2014/02/19@10:20:05.729+2300] P-3552       T-3564  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/02/19@10:20:06.495+2300] P-3552       T-3564  I ABL      : (12699) Database ics Options:  
+
+                Wed Feb 19 10:27:03 2014
+[2014/02/19@10:27:03.583+2300] P-3464       T-3412  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/19@10:27:03.755+2300] P-3464       T-3412  I ABL      : (5326)  Begin Physical Redo Phase at 192 . 
+[2014/02/19@10:27:03.990+2300] P-3464       T-3412  I ABL      : (7161)  Physical Redo Phase Completed at blk 31 off 1806 upd 3059. 
+[2014/02/19@10:27:03.990+2300] P-3464       T-3412  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/02/19@10:27:04.365+2300] P-3464       T-3412  I ABL      : (12699) Database ics Options:  
+
+                Wed Feb 19 10:47:20 2014
+[2014/02/19@10:47:20.984+2300] P-3812       T-3808  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/19@10:47:21.437+2300] P-3812       T-3808  I ABL      : (5326)  Begin Physical Redo Phase at 192 . 
+[2014/02/19@10:47:21.906+2300] P-3812       T-3808  I ABL      : (7161)  Physical Redo Phase Completed at blk 55 off 1245 upd 4033. 
+[2014/02/19@10:47:21.906+2300] P-3812       T-3808  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/02/19@10:47:22.265+2300] P-3812       T-3808  I ABL      : (12699) Database ics Options:  
+[2014/02/19@11:45:38.450+2300] P-3812       T-3808  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/19@11:45:38.450+2300] P-3812       T-3808  I ABL      : (15743) Before Image Log Completion at Block 67 Offset 1828. 
+[2014/02/19@11:45:38.466+2300] P-3812       T-3808  I ABL      : (334)   Single-user session end. 
+
+                Wed Feb 19 11:45:43 2014
+[2014/02/19@11:45:43.731+2300] P-3252       T-3264  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/19@11:45:43.747+2300] P-3252       T-3264  I ABL      : (15321) Before Image Log Initialization at block 67  offset 1828. 
+[2014/02/19@11:45:43.747+2300] P-3252       T-3264  I ABL      : (12699) Database ics Options:  
+[2014/02/19@11:47:29.826+2300] P-3252       T-3264  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/19@11:47:29.826+2300] P-3252       T-3264  I ABL      : (15743) Before Image Log Completion at Block 67 Offset 4810. 
+[2014/02/19@11:47:29.841+2300] P-3252       T-3264  I ABL      : (334)   Single-user session end. 
+
+                Wed Feb 19 11:47:34 2014
+[2014/02/19@11:47:34.263+2300] P-3968       T-676   I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/19@11:47:34.263+2300] P-3968       T-676   I ABL      : (15321) Before Image Log Initialization at block 67  offset 4810. 
+[2014/02/19@11:47:34.263+2300] P-3968       T-676   I ABL      : (12699) Database ics Options:  
+[2014/02/19@11:50:05.280+2300] P-3968       T-676   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/19@11:50:05.280+2300] P-3968       T-676   I ABL      : (15743) Before Image Log Completion at Block 67 Offset 6596. 
+[2014/02/19@11:50:05.280+2300] P-3968       T-676   I ABL      : (334)   Single-user session end. 
+
+                Wed Feb 19 12:34:41 2014
+[2014/02/19@12:34:41.844+2300] P-2124       T-1824  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/19@12:34:41.844+2300] P-2124       T-1824  I ABL      : (15321) Before Image Log Initialization at block 67  offset 6596. 
+[2014/02/19@12:34:41.859+2300] P-2124       T-1824  I ABL      : (12699) Database ics Options:  
+[2014/02/19@17:27:37.778+2300] P-2124       T-1824  I ABL      : (1450)  ** stget: out of storage. 
+[2014/02/19@17:27:38.137+2300] P-2124       T-1824  I ABL      : (5179)  Registry error 1130: Could not register 'PROGRESS' events with the Event Viewer. 
+[2014/02/19@17:29:31.918+2300] P-2124       T-1824  I ABL      : (334)   Single-user session end. 
+
+                Wed Feb 19 19:10:42 2014
+[2014/02/19@19:10:42.793+2300] P-3656       T-3628  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/19@19:10:42.981+2300] P-3656       T-3628  I ABL      : (5326)  Begin Physical Redo Phase at 64 . 
+[2014/02/19@19:10:43.653+2300] P-3656       T-3628  I ABL      : (7161)  Physical Redo Phase Completed at blk 170 off 6127 upd 3553. 
+[2014/02/19@19:10:43.668+2300] P-3656       T-3628  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/02/19@19:10:44.012+2300] P-3656       T-3628  I ABL      : (12699) Database ics Options:  
+[2014/02/19@19:42:00.809+2300] P-3656       T-3628  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/19@19:42:00.809+2300] P-3656       T-3628  I ABL      : (15743) Before Image Log Completion at Block 176 Offset 4872. 
+[2014/02/19@19:42:00.809+2300] P-3656       T-3628  I ABL      : (334)   Single-user session end. 
