@@ -17528,3 +17528,138 @@
 [2014/02/19@21:17:46.543+2300] P-2980       T-2928  I ABL      : (15109) At Database close the number of live transactions is 0. 
 [2014/02/19@21:17:46.543+2300] P-2980       T-2928  I ABL      : (15743) Before Image Log Completion at Block 176 Offset 5712. 
 [2014/02/19@21:17:46.559+2300] P-2980       T-2928  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 08:09:05 2014
+[2014/02/20@08:09:05.734+2300] P-1692       T-1688  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@08:09:05.750+2300] P-1692       T-1688  I ABL      : (15321) Before Image Log Initialization at block 176  offset 5712. 
+[2014/02/20@08:09:05.796+2300] P-1692       T-1688  I ABL      : (12699) Database ics Options:  
+[2014/02/20@08:52:03.031+2300] P-1692       T-1688  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@08:52:03.031+2300] P-1692       T-1688  I ABL      : (15743) Before Image Log Completion at Block 192 Offset 6658. 
+[2014/02/20@08:52:03.031+2300] P-1692       T-1688  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 09:21:31 2014
+[2014/02/20@09:21:31.515+2300] P-728        T-3016  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@09:21:31.609+2300] P-728        T-3016  I ABL      : (15321) Before Image Log Initialization at block 192  offset 6658. 
+[2014/02/20@09:21:32.406+2300] P-728        T-3016  I ABL      : (12699) Database ics Options:  
+[2014/02/20@09:22:42.046+2300] P-728        T-3016  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@09:22:42.046+2300] P-728        T-3016  I ABL      : (15743) Before Image Log Completion at Block 192 Offset 7078. 
+[2014/02/20@09:22:42.046+2300] P-728        T-3016  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 09:33:15 2014
+[2014/02/20@09:33:15.156+2300] P-2912       T-3208  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@09:33:15.156+2300] P-2912       T-3208  I ABL      : (15321) Before Image Log Initialization at block 192  offset 7078. 
+[2014/02/20@09:33:15.171+2300] P-2912       T-3208  I ABL      : (12699) Database ics Options:  
+[2014/02/20@09:34:56.218+2300] P-2912       T-3208  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@09:34:56.234+2300] P-2912       T-3208  I ABL      : (15743) Before Image Log Completion at Block 193 Offset 821. 
+[2014/02/20@09:34:56.234+2300] P-2912       T-3208  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 09:35:00 2014
+[2014/02/20@09:35:00.703+2300] P-3712       T-3716  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@09:35:00.703+2300] P-3712       T-3716  I ABL      : (15321) Before Image Log Initialization at block 193  offset 821. 
+[2014/02/20@09:35:00.703+2300] P-3712       T-3716  I ABL      : (12699) Database ics Options:  
+[2014/02/20@09:38:36.609+2300] P-3712       T-3716  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@09:38:36.609+2300] P-3712       T-3716  I ABL      : (15743) Before Image Log Completion at Block 193 Offset 4250. 
+[2014/02/20@09:38:36.609+2300] P-3712       T-3716  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 09:38:41 2014
+[2014/02/20@09:38:41.828+2300] P-2072       T-2452  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@09:38:41.828+2300] P-2072       T-2452  I ABL      : (15321) Before Image Log Initialization at block 193  offset 4250. 
+[2014/02/20@09:38:41.828+2300] P-2072       T-2452  I ABL      : (12699) Database ics Options:  
+[2014/02/20@09:38:45.187+2300] P-2072       T-2452  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@09:38:45.187+2300] P-2072       T-2452  I ABL      : (15743) Before Image Log Completion at Block 193 Offset 4250. 
+[2014/02/20@09:38:45.296+2300] P-2072       T-2452  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 10:03:28 2014
+[2014/02/20@10:03:28.328+2300] P-3992       T-2164  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@10:03:28.328+2300] P-3992       T-2164  I ABL      : (15321) Before Image Log Initialization at block 193  offset 4250. 
+[2014/02/20@10:03:28.328+2300] P-3992       T-2164  I ABL      : (12699) Database ics Options:  
+[2014/02/20@12:53:32.640+2300] P-3992       T-2164  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@12:53:32.656+2300] P-3992       T-2164  I ABL      : (15743) Before Image Log Completion at Block 217 Offset 7313. 
+[2014/02/20@12:53:32.656+2300] P-3992       T-2164  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 13:44:47 2014
+[2014/02/20@13:44:47.062+2300] P-2608       T-2612  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@13:44:47.187+2300] P-2608       T-2612  I ABL      : (15321) Before Image Log Initialization at block 217  offset 7313. 
+[2014/02/20@13:44:47.593+2300] P-2608       T-2612  I ABL      : (12699) Database ics Options:  
+[2014/02/20@14:45:30.218+2300] P-2608       T-2612  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@14:45:30.218+2300] P-2608       T-2612  I ABL      : (15743) Before Image Log Completion at Block 226 Offset 1405. 
+[2014/02/20@14:45:30.234+2300] P-2608       T-2612  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 14:49:27 2014
+[2014/02/20@14:49:27.890+2300] P-3412       T-3416  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@14:49:27.890+2300] P-3412       T-3416  I ABL      : (15321) Before Image Log Initialization at block 226  offset 1405. 
+[2014/02/20@14:49:27.906+2300] P-3412       T-3416  I ABL      : (12699) Database ics Options:  
+[2014/02/20@17:19:25.281+2300] P-3412       T-3416  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@17:19:25.281+2300] P-3412       T-3416  I ABL      : (15743) Before Image Log Completion at Block 238 Offset 5599. 
+[2014/02/20@17:19:25.281+2300] P-3412       T-3416  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 18:32:41 2014
+[2014/02/20@18:32:41.015+2300] P-2756       T-2760  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@18:32:41.203+2300] P-2756       T-2760  I ABL      : (15321) Before Image Log Initialization at block 238  offset 5599. 
+[2014/02/20@18:32:41.750+2300] P-2756       T-2760  I ABL      : (12699) Database ics Options:  
+[2014/02/20@18:55:09.250+2300] P-2756       T-2760  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@18:55:09.250+2300] P-2756       T-2760  I ABL      : (15743) Before Image Log Completion at Block 238 Offset 6019. 
+[2014/02/20@18:55:09.250+2300] P-2756       T-2760  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 19:00:35 2014
+[2014/02/20@19:00:35.312+2300] P-2260       T-2280  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@19:00:35.312+2300] P-2260       T-2280  I ABL      : (15321) Before Image Log Initialization at block 238  offset 6019. 
+[2014/02/20@19:00:35.312+2300] P-2260       T-2280  I ABL      : (12699) Database ics Options:  
+
+                Thu Feb 20 19:48:33 2014
+[2014/02/20@19:48:33.750+2300] P-1708       T-1788  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@19:48:33.765+2300] P-1708       T-1788  I ABL      : (5326)  Begin Physical Redo Phase at 128 . 
+[2014/02/20@19:48:33.937+2300] P-1708       T-1788  I ABL      : (7161)  Physical Redo Phase Completed at blk 238 off 6785 upd 1328. 
+[2014/02/20@19:48:33.953+2300] P-1708       T-1788  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/02/20@19:48:34.015+2300] P-1708       T-1788  I ABL      : (12699) Database ics Options:  
+[2014/02/20@19:48:35.843+2300] P-1708       T-1788  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@19:48:35.843+2300] P-1708       T-1788  I ABL      : (15743) Before Image Log Completion at Block 238 Offset 6785. 
+[2014/02/20@19:48:35.843+2300] P-1708       T-1788  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 19:52:55 2014
+[2014/02/20@19:52:55.671+2300] P-2880       T-2892  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@19:52:55.671+2300] P-2880       T-2892  I ABL      : (15321) Before Image Log Initialization at block 238  offset 6785. 
+[2014/02/20@19:52:55.671+2300] P-2880       T-2892  I ABL      : (12699) Database ics Options:  
+[2014/02/20@20:04:25.031+2300] P-2880       T-2892  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@20:04:25.031+2300] P-2880       T-2892  I ABL      : (15743) Before Image Log Completion at Block 238 Offset 7205. 
+[2014/02/20@20:04:25.031+2300] P-2880       T-2892  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 20:08:25 2014
+[2014/02/20@20:08:25.437+2300] P-2912       T-2904  I ABL      : (451)   Single-user session begin for Maliban on CON:. 
+[2014/02/20@20:08:25.437+2300] P-2912       T-2904  I ABL      : (15321) Before Image Log Initialization at block 238  offset 7205. 
+[2014/02/20@20:08:25.453+2300] P-2912       T-2904  I ABL      : (12699) Database ics Options:  
+[2014/02/20@20:09:28.312+2300] P-2912       T-2904  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@20:09:28.312+2300] P-2912       T-2904  I ABL      : (15743) Before Image Log Completion at Block 238 Offset 7625. 
+[2014/02/20@20:09:28.328+2300] P-2912       T-2904  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 21:56:42 2014
+[2014/02/20@21:56:42.905+2300] P-2700       T-1684  I ABL      : (451)   Single-user session begin for Duminda on CON:. 
+[2014/02/20@21:56:42.905+2300] P-2700       T-1684  I ABL      : (15321) Before Image Log Initialization at block 238  offset 7625. 
+[2014/02/20@21:56:42.905+2300] P-2700       T-1684  I ABL      : (12699) Database ics Options:  
+[2014/02/20@22:04:59.741+2300] P-2700       T-1684  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@22:04:59.741+2300] P-2700       T-1684  I ABL      : (15743) Before Image Log Completion at Block 238 Offset 8045. 
+[2014/02/20@22:04:59.757+2300] P-2700       T-1684  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 22:47:35 2014
+[2014/02/20@22:47:35.302+2300] P-4588       T-5912  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2014/02/20@22:47:35.317+2300] P-4588       T-5912  I ABL      : (15321) Before Image Log Initialization at block 238  offset 8045. 
+[2014/02/20@22:47:35.349+2300] P-4588       T-5912  I ABL      : (12699) Database ics Options:  
+[2014/02/20@22:49:13.728+2300] P-4588       T-5912  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@22:49:13.728+2300] P-4588       T-5912  I ABL      : (15743) Before Image Log Completion at Block 239 Offset 287. 
+[2014/02/20@22:49:13.744+2300] P-4588       T-5912  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 22:49:43 2014
+[2014/02/20@22:49:43.262+2300] P-6008       T-2800  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2014/02/20@22:49:43.262+2300] P-6008       T-2800  I ABL      : (15321) Before Image Log Initialization at block 239  offset 287. 
+[2014/02/20@22:49:43.262+2300] P-6008       T-2800  I ABL      : (12699) Database ics Options:  
+[2014/02/20@22:51:06.443+2300] P-6008       T-2800  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@22:51:06.443+2300] P-6008       T-2800  I ABL      : (15743) Before Image Log Completion at Block 247 Offset 3615. 
+[2014/02/20@22:51:06.459+2300] P-6008       T-2800  I ABL      : (334)   Single-user session end. 
+
+                Thu Feb 20 22:51:20 2014
+[2014/02/20@22:51:20.459+2300] P-1312       T-4520  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2014/02/20@22:51:20.459+2300] P-1312       T-4520  I ABL      : (15321) Before Image Log Initialization at block 247  offset 3615. 
+[2014/02/20@22:51:20.459+2300] P-1312       T-4520  I ABL      : (12699) Database ics Options:  
+[2014/02/20@23:01:03.815+2300] P-1312       T-4520  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/02/20@23:01:03.816+2300] P-1312       T-4520  I ABL      : (15743) Before Image Log Completion at Block 254 Offset 678. 
+[2014/02/20@23:01:03.821+2300] P-1312       T-4520  I ABL      : (334)   Single-user session end. 
