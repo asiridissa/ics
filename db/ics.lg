@@ -18878,10 +18878,10 @@
 [2014/04/01@14:45:10.615+2300] P-1680       T-396   I ABL      : (15743) Before Image Log Completion at Block 56 Offset 356. 
 [2014/04/01@14:45:10.658+2300] P-1680       T-396   I ABL      : (334)   Single-user session end. 
 
-                Sat Mar 15 07:21:16 2014
-[2014/03/15@07:21:16.202+2300] P-4924       T-2256  I ABL      : (451)   Single-user session begin for Duminda on CON:. 
-[2014/03/15@07:21:16.202+2300] P-4924       T-2256  I ABL      : (15321) Before Image Log Initialization at block 56  offset 356. 
-[2014/03/15@07:21:16.405+2300] P-4924       T-2256  I ABL      : (12699) Database ics Options:  
-[2014/03/15@07:27:00.792+2300] P-4924       T-2256  I ABL      : (15109) At Database close the number of live transactions is 0. 
-[2014/03/15@07:27:00.792+2300] P-4924       T-2256  I ABL      : (15743) Before Image Log Completion at Block 56 Offset 1122. 
-[2014/03/15@07:27:00.792+2300] P-4924       T-2256  I ABL      : (334)   Single-user session end. 
+                Mon Apr 07 23:04:28 2014
+[2014/04/07@23:04:28.103-0700] P-5096       T-1596  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2014/04/07@23:04:28.103-0700] P-5096       T-1596  I ABL      : (15321) Before Image Log Initialization at block 24  offset 1303. 
+[2014/04/07@23:04:28.107-0700] P-5096       T-1596  I ABL      : (12699) Database ics Options:  
+[2014/04/07@23:12:13.717-0700] P-5096       T-1596  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/04/07@23:12:13.717-0700] P-5096       T-1596  I ABL      : (15743) Before Image Log Completion at Block 36 Offset 6428. 
+[2014/04/07@23:12:13.775-0700] P-5096       T-1596  I ABL      : (334)   Single-user session end. 
