@@ -1,3 +1,0 @@
-ID|Product|Weight|Unit|1|Total|
-1|Goold Marie - 02/24/2013|.08|60|10|10
-|   Date : 03/01/14   Veh : 28 -  8897 Wan

@@ -1,7 +1,0 @@
-No|Product|Weight|Van C|Van P|Stock C|Stock P|Total P|Buying Price|Amount|Selling Price|Amount|
-1|Goold Marie - 02/24/2013|.08|
-2|Chocolate Cream - 08/14/2013|.1|
-3|Cream Cracker - 02/24/2013|.125|
-4|Cream Cracker - 02/24/2013|.19|
-5|Cream Cracker - 06/29/2013|.33|
-|Total|

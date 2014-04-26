@@ -1,6 +1,0 @@
- Date : 03/01/14    Vehical : 41-5786  Kara    By User : admin
-No|Item|Weight|Price|UPC|BSC|BSP|RDR|LDC|LDP|ULC|ULP|RDC|RDP|BilP|Excs|Shrt
-1|Goold Marie - 02/24/2013|  0.080|   26.25| 60|0|0|2|2|2|1|54|0|10|10|0|0
- 
-|Sales Value   :             262.50 /=|Sales Tonnage :               0.800 kg
-|Stock Value   :          89,886.25 /=|Stock Tonnage :             241.600 kg

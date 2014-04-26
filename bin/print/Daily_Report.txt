@@ -1,9 +1,0 @@
-||Month : 3 - 2014|||Vehical : All Vehicals||||By user : admin
-NO|Bill No|Customer|Tol Sale|Expiries|Damages|Discount|GR|F/Issu|Cash|Cheques|Debit|Credits
-1|1|Semlat - WED|105|26.25|26.25|0|52.5|0|0|0|0|105|
-2|2|Shaluka Gr - THU|288.75|26.25|52.5|0|105|0|0|0|0|288.75|
-3|3|Semlat - WED|52.5|52.5|52.5|0|52.5|0|0|0|0|52.5|
-4|4|Semlat - WED|1863.75|52.5|52.5|0|52.5|0|0|0|0|1863.75|
-
-||Total|2310|157.5|183.75|0|262.5|0|0|0|0|2310
-||Value|2310
