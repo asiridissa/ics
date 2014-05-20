@@ -748,3 +748,25 @@
 [2014/05/19@10:25:05.553+2300] P-2092       T-832   I ABL      : (15109) At Database close the number of live transactions is 0. 
 [2014/05/19@10:25:05.553+2300] P-2092       T-832   I ABL      : (15743) Before Image Log Completion at Block 161 Offset 347. 
 [2014/05/19@10:25:05.585+2300] P-2092       T-832   I ABL      : (334)   Single-user session end. 
+
+                Tue May 20 09:38:55 2014
+[2014/05/20@09:38:55.268+2300] P-3280       T-3284  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/20@09:38:55.291+2300] P-3280       T-3284  I ABL      : (15321) Before Image Log Initialization at block 161  offset 347. 
+[2014/05/20@09:38:55.457+2300] P-3280       T-3284  I ABL      : (12699) Database ics Options:  
+
+                Tue May 20 10:48:30 2014
+[2014/05/20@10:48:30.997+2300] P-688        T-1440  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/20@10:48:31.022+2300] P-688        T-1440  I ABL      : (5326)  Begin Physical Redo Phase at 64 . 
+[2014/05/20@10:48:31.107+2300] P-688        T-1440  I ABL      : (7161)  Physical Redo Phase Completed at blk 173 off 6315 upd 2003. 
+[2014/05/20@10:48:31.130+2300] P-688        T-1440  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/05/20@10:48:31.160+2300] P-688        T-1440  I ABL      : (12699) Database ics Options:  
+
+                Tue May 20 13:01:05 2014
+[2014/05/20@13:01:05.419+2300] P-3792       T-3796  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/20@13:01:05.474+2300] P-3792       T-3796  I ABL      : (5326)  Begin Physical Redo Phase at 128 . 
+[2014/05/20@13:01:05.726+2300] P-3792       T-3796  I ABL      : (7161)  Physical Redo Phase Completed at blk 229 off 674 upd 2923. 
+[2014/05/20@13:01:05.733+2300] P-3792       T-3796  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/05/20@13:01:05.829+2300] P-3792       T-3796  I ABL      : (12699) Database ics Options:  
+[2014/05/20@14:45:22.866+2300] P-3792       T-3796  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/20@14:45:22.866+2300] P-3792       T-3796  I ABL      : (15743) Before Image Log Completion at Block 69 Offset 1311. 
+[2014/05/20@14:45:22.886+2300] P-3792       T-3796  I ABL      : (334)   Single-user session end. 
