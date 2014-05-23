@@ -808,3 +808,23 @@
 [2014/05/22@15:25:31.838+2300] P-3732       T-3740  I ABL      : (15109) At Database close the number of live transactions is 0. 
 [2014/05/22@15:25:31.864+2300] P-3732       T-3740  I ABL      : (15743) Before Image Log Completion at Block 54 Offset 7635. 
 [2014/05/22@15:25:31.991+2300] P-3732       T-3740  I ABL      : (334)   Single-user session end. 
+
+                Fri May 23 09:33:12 2014
+[2014/05/23@09:33:12.369+2300] P-3488       T-3492  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/23@09:33:12.387+2300] P-3488       T-3492  I ABL      : (15321) Before Image Log Initialization at block 54  offset 7635. 
+[2014/05/23@09:33:12.568+2300] P-3488       T-3492  I ABL      : (12699) Database ics Options:  
+
+                Fri May 23 11:26:56 2014
+[2014/05/23@11:26:56.560+2300] P-2944       T-2700  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/23@11:26:56.590+2300] P-2944       T-2700  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2014/05/23@11:26:56.733+2300] P-2944       T-2700  I ABL      : (7161)  Physical Redo Phase Completed at blk 65 off 5695 upd 1285. 
+[2014/05/23@11:26:56.741+2300] P-2944       T-2700  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/05/23@11:26:56.856+2300] P-2944       T-2700  I ABL      : (12699) Database ics Options:  
+[2014/05/23@12:28:14.262+2300] P-2944       T-2700  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/23@12:28:14.263+2300] P-2944       T-2700  I ABL      : (15743) Before Image Log Completion at Block 75 Offset 2095. 
+[2014/05/23@12:28:14.282+2300] P-2944       T-2700  I ABL      : (334)   Single-user session end. 
+
+                Fri May 23 13:07:00 2014
+[2014/05/23@13:07:00.783+2300] P-3716       T-3720  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/23@13:07:00.815+2300] P-3716       T-3720  I ABL      : (15321) Before Image Log Initialization at block 75  offset 2095. 
+[2014/05/23@13:07:00.980+2300] P-3716       T-3720  I ABL      : (12699) Database ics Options:  
