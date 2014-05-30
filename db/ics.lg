@@ -956,3 +956,24 @@
 [2014/05/29@16:37:00.189+2300] P-3448       T-3452  I ABL      : (15109) At Database close the number of live transactions is 0. 
 [2014/05/29@16:37:00.190+2300] P-3448       T-3452  I ABL      : (15743) Before Image Log Completion at Block 90 Offset 2063. 
 [2014/05/29@16:37:00.219+2300] P-3448       T-3452  I ABL      : (334)   Single-user session end. 
+
+                Thu May 29 16:44:30 2014
+[2014/05/29@16:44:30.956+2300] P-3440       T-2064  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/29@16:44:30.970+2300] P-3440       T-2064  I ABL      : (15321) Before Image Log Initialization at block 90  offset 2063. 
+[2014/05/29@16:44:31.000+2300] P-3440       T-2064  I ABL      : (12699) Database ics Options:  
+[2014/05/29@16:45:34.010+2300] P-3440       T-2064  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/29@16:45:34.011+2300] P-3440       T-2064  I ABL      : (15743) Before Image Log Completion at Block 90 Offset 2063. 
+[2014/05/29@16:45:34.016+2300] P-3440       T-2064  I ABL      : (334)   Single-user session end. 
+
+                Fri May 30 09:03:10 2014
+[2014/05/30@09:03:10.725+2300] P-1104       T-3228  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/30@09:03:10.770+2300] P-1104       T-3228  I ABL      : (15321) Before Image Log Initialization at block 90  offset 2063. 
+[2014/05/30@09:03:11.134+2300] P-1104       T-3228  I ABL      : (12699) Database ics Options:  
+[2014/05/30@13:53:49.777+2300] P-1104       T-3228  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/30@13:53:49.788+2300] P-1104       T-3228  I ABL      : (15743) Before Image Log Completion at Block 194 Offset 6308. 
+[2014/05/30@13:53:49.823+2300] P-1104       T-3228  I ABL      : (334)   Single-user session end. 
+
+                Fri May 30 14:20:52 2014
+[2014/05/30@14:20:52.375+2300] P-2944       T-2192  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/30@14:20:52.375+2300] P-2944       T-2192  I ABL      : (15321) Before Image Log Initialization at block 194  offset 6308. 
+[2014/05/30@14:20:52.429+2300] P-2944       T-2192  I ABL      : (12699) Database ics Options:  
