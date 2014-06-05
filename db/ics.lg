@@ -977,3 +977,212 @@
 [2014/05/30@14:20:52.375+2300] P-2944       T-2192  I ABL      : (451)   Single-user session begin for ICS on CON:. 
 [2014/05/30@14:20:52.375+2300] P-2944       T-2192  I ABL      : (15321) Before Image Log Initialization at block 194  offset 6308. 
 [2014/05/30@14:20:52.429+2300] P-2944       T-2192  I ABL      : (12699) Database ics Options:  
+
+                Fri May 30 15:48:46 2014
+[2014/05/30@15:48:46.769+2300] P-3256       T-3936  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/30@15:48:46.791+2300] P-3256       T-3936  I ABL      : (15321) Before Image Log Initialization at block 194  offset 6722. 
+[2014/05/30@15:48:46.818+2300] P-3256       T-3936  I ABL      : (12699) Database ics Options:  
+[2014/05/30@15:50:32.636+2300] P-3256       T-3936  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/30@15:50:32.637+2300] P-3256       T-3936  I ABL      : (15743) Before Image Log Completion at Block 194 Offset 7136. 
+[2014/05/30@15:50:32.655+2300] P-3256       T-3936  I ABL      : (334)   Single-user session end. 
+
+                Sat May 31 08:35:29 2014
+[2014/05/31@08:35:29.491+2300] P-3276       T-3280  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/31@08:35:29.505+2300] P-3276       T-3280  I ABL      : (15321) Before Image Log Initialization at block 194  offset 7136. 
+[2014/05/31@08:35:29.936+2300] P-3276       T-3280  I ABL      : (12699) Database ics Options:  
+[2014/05/31@14:17:47.733+2300] P-3276       T-3280  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/31@14:17:47.891+2300] P-3276       T-3280  I ABL      : (15743) Before Image Log Completion at Block 60 Offset 6253. 
+[2014/05/31@14:17:48.610+2300] P-3276       T-3280  I ABL      : (334)   Single-user session end. 
+
+                Sat May 31 14:17:58 2014
+[2014/05/31@14:17:58.900+2300] P-628        T-2996  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/31@14:17:58.948+2300] P-628        T-2996  I ABL      : (15321) Before Image Log Initialization at block 60  offset 6253. 
+[2014/05/31@14:17:59.079+2300] P-628        T-2996  I ABL      : (12699) Database ics Options:  
+[2014/05/31@14:40:35.818+2300] P-628        T-2996  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/31@14:40:35.818+2300] P-628        T-2996  I ABL      : (15743) Before Image Log Completion at Block 60 Offset 6253. 
+[2014/05/31@14:40:35.824+2300] P-628        T-2996  I ABL      : (334)   Single-user session end. 
+
+                Sun Jun 01 10:10:55 2014
+[2014/06/01@10:10:55.374+2300] P-324        T-296   I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/01@10:10:55.429+2300] P-324        T-296   I ABL      : (15321) Before Image Log Initialization at block 60  offset 6253. 
+[2014/06/01@10:10:55.677+2300] P-324        T-296   I ABL      : (12699) Database ics Options:  
+[2014/06/01@12:47:59.158+2300] P-324        T-296   I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 534, file DBI324a00296. 
+[2014/06/01@12:47:59.158+2300] P-324        T-296   I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 534, file DBI324a00296. 
+[2014/06/01@12:47:59.158+2300] P-324        T-296   I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 534, file DBI324a00296. 
+[2014/06/01@12:47:59.162+2300] P-324        T-296   I ABL      : (4163)  Insufficient disk space. 
+
+                Sun Jun 01 15:18:53 2014
+[2014/06/01@15:18:53.994+2300] P-3772       T-3776  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/01@15:18:54.090+2300] P-3772       T-3776  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2014/06/01@15:18:54.425+2300] P-3772       T-3776  I ABL      : (7161)  Physical Redo Phase Completed at blk 73 off 2919 upd 142. 
+[2014/06/01@15:18:54.432+2300] P-3772       T-3776  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/06/01@15:18:54.549+2300] P-3772       T-3776  I ABL      : (12699) Database ics Options:  
+[2014/06/01@15:19:34.445+2300] P-3772       T-3776  I ABL      : (14676) bkioWrite:Unknown O/S error during write, errno 13, fd 464, len 4096, offset 544, file DBI3772a03776 database DBI3772a03776. (9451) 
+[2014/06/01@15:19:34.449+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.449+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.450+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.451+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.451+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.451+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.451+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.451+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.451+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.451+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.451+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.451+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.451+2300] P-3772       T-3776  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI3772a03776. 
+[2014/06/01@15:19:34.459+2300] P-3772       T-3776  F ABL      : (3645)  bkwrite: write to disk failed errno 0. 
+[2014/06/01@15:19:47.061+2300] P-3772       T-3776  I ABL      : (334)   Single-user session end. 
+
+                Sun Jun 01 15:19:51 2014
+[2014/06/01@15:19:51.170+2300] P-940        T-1252  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/01@15:19:51.189+2300] P-940        T-1252  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2014/06/01@15:19:51.193+2300] P-940        T-1252  I ABL      : (7161)  Physical Redo Phase Completed at blk 73 off 3815 upd 149. 
+[2014/06/01@15:19:51.193+2300] P-940        T-1252  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/06/01@15:19:51.331+2300] P-940        T-1252  I ABL      : (12699) Database ics Options:  
+[2014/06/01@15:20:32.031+2300] P-940        T-1252  I ABL      : (14676) bkioWrite:Unknown O/S error during write, errno 13, fd 464, len 4096, offset 544, file DBI940a01252 database DBI940a01252. (9451) 
+[2014/06/01@15:20:32.031+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.031+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.031+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.031+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.031+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.031+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.031+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.032+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.033+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.033+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.033+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.033+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.033+2300] P-940        T-1252  I ABL      : (9450)  bkioWrite:Insufficient disk space during write, fd 464, len 4096, offset 544, file DBI940a01252. 
+[2014/06/01@15:20:32.033+2300] P-940        T-1252  F ABL      : (3645)  bkwrite: write to disk failed errno 0. 
+[2014/06/01@15:20:34.035+2300] P-940        T-1252  I ABL      : (334)   Single-user session end. 
+
+                Sun Jun 01 15:20:37 2014
+[2014/06/01@15:20:37.659+2300] P-2816       T-3804  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/01@15:20:37.661+2300] P-2816       T-3804  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2014/06/01@15:20:37.665+2300] P-2816       T-3804  I ABL      : (7161)  Physical Redo Phase Completed at blk 73 off 4573 upd 151. 
+[2014/06/01@15:20:37.665+2300] P-2816       T-3804  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/06/01@15:20:37.716+2300] P-2816       T-3804  I ABL      : (12699) Database ics Options:  
+[2014/06/01@15:20:39.296+2300] P-2816       T-3804  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/01@15:20:39.297+2300] P-2816       T-3804  I ABL      : (15743) Before Image Log Completion at Block 73 Offset 4573. 
+[2014/06/01@15:20:39.306+2300] P-2816       T-3804  I ABL      : (334)   Single-user session end. 
+
+                Sun Jun 01 15:32:02 2014
+[2014/06/01@15:32:02.363+2300] P-3960       T-3736  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/01@15:32:02.390+2300] P-3960       T-3736  I ABL      : (15321) Before Image Log Initialization at block 73  offset 4573. 
+[2014/06/01@15:32:02.395+2300] P-3960       T-3736  I ABL      : (12699) Database ics Options:  
+[2014/06/01@17:39:53.814+2300] P-3960       T-3736  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/01@17:39:53.814+2300] P-3960       T-3736  I ABL      : (15743) Before Image Log Completion at Block 98 Offset 89. 
+[2014/06/01@17:39:53.835+2300] P-3960       T-3736  I ABL      : (334)   Single-user session end. 
+
+                Tue Jun 03 10:20:21 2014
+[2014/06/03@10:20:21.617+2300] P-3728       T-3732  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/03@10:20:21.648+2300] P-3728       T-3732  I ABL      : (15321) Before Image Log Initialization at block 98  offset 89. 
+[2014/06/03@10:20:21.920+2300] P-3728       T-3732  I ABL      : (12699) Database ics Options:  
+
+                Tue Jun 03 13:36:36 2014
+[2014/06/03@13:36:36.355+2300] P-1328       T-820   I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/03@13:36:36.371+2300] P-1328       T-820   I ABL      : (5326)  Begin Physical Redo Phase at 128 . 
+[2014/06/03@13:36:36.454+2300] P-1328       T-820   I ABL      : (7161)  Physical Redo Phase Completed at blk 237 off 2114 upd 663. 
+[2014/06/03@13:36:36.468+2300] P-1328       T-820   I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/06/03@13:36:36.585+2300] P-1328       T-820   I ABL      : (12699) Database ics Options:  
+[2014/06/03@17:44:46.941+2300] P-1328       T-820   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/03@17:44:46.941+2300] P-1328       T-820   I ABL      : (15743) Before Image Log Completion at Block 238 Offset 179. 
+[2014/06/03@17:44:46.957+2300] P-1328       T-820   I ABL      : (334)   Single-user session end. 
+
+                Wed Jun 04 08:36:13 2014
+[2014/06/04@08:36:13.891+2300] P-3912       T-3916  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/04@08:36:13.948+2300] P-3912       T-3916  I ABL      : (15321) Before Image Log Initialization at block 238  offset 179. 
+[2014/06/04@08:36:14.238+2300] P-3912       T-3916  I ABL      : (12699) Database ics Options:  
+
+                Wed Jun 04 09:28:57 2014
+[2014/06/04@09:28:57.079+2300] P-2304       T-1788  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/04@09:28:57.095+2300] P-2304       T-1788  I ABL      : (5326)  Begin Physical Redo Phase at 128 . 
+[2014/06/04@09:28:57.255+2300] P-2304       T-1788  I ABL      : (7161)  Physical Redo Phase Completed at blk 244 off 6389 upd 663. 
+[2014/06/04@09:28:57.262+2300] P-2304       T-1788  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/06/04@09:28:57.300+2300] P-2304       T-1788  I ABL      : (12699) Database ics Options:  
+
+                Wed Jun 04 14:37:01 2014
+[2014/06/04@14:37:01.171+2300] P-3548       T-3552  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/04@14:37:01.217+2300] P-3548       T-3552  I ABL      : (5326)  Begin Physical Redo Phase at 64 . 
+[2014/06/04@14:37:01.427+2300] P-3548       T-3552  I ABL      : (7161)  Physical Redo Phase Completed at blk 164 off 5897 upd 1576. 
+[2014/06/04@14:37:01.434+2300] P-3548       T-3552  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/06/04@14:37:01.541+2300] P-3548       T-3552  I ABL      : (12699) Database ics Options:  
+
+                Wed Jun 04 15:29:45 2014
+[2014/06/04@15:29:45.426+2300] P-3472       T-3476  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/04@15:29:45.477+2300] P-3472       T-3476  I ABL      : (5326)  Begin Physical Redo Phase at 64 . 
+[2014/06/04@15:29:45.729+2300] P-3472       T-3476  I ABL      : (7161)  Physical Redo Phase Completed at blk 170 off 7540 upd 1740. 
+[2014/06/04@15:29:45.736+2300] P-3472       T-3476  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/06/04@15:29:45.892+2300] P-3472       T-3476  I ABL      : (12699) Database ics Options:  
+[2014/06/04@15:33:18.172+2300] P-3472       T-3476  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/04@15:33:18.173+2300] P-3472       T-3476  I ABL      : (15743) Before Image Log Completion at Block 182 Offset 6450. 
+[2014/06/04@15:33:18.223+2300] P-3472       T-3476  I ABL      : (334)   Single-user session end. 
+
+                Wed Jun 04 17:12:46 2014
+[2014/06/04@17:12:46.765+2300] P-3524       T-3528  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/04@17:12:46.792+2300] P-3524       T-3528  I ABL      : (15321) Before Image Log Initialization at block 182  offset 6450. 
+[2014/06/04@17:12:46.991+2300] P-3524       T-3528  I ABL      : (12699) Database ics Options:  
+[2014/06/04@17:16:37.200+2300] P-3524       T-3528  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/04@17:16:37.201+2300] P-3524       T-3528  I ABL      : (15743) Before Image Log Completion at Block 182 Offset 6864. 
+[2014/06/04@17:16:37.217+2300] P-3524       T-3528  I ABL      : (334)   Single-user session end. 
+
+                Thu Jun 05 08:02:50 2014
+[2014/06/05@08:02:50.225+2300] P-2132       T-2124  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/05@08:02:50.240+2300] P-2132       T-2124  I ABL      : (15321) Before Image Log Initialization at block 182  offset 6864. 
+[2014/06/05@08:02:50.378+2300] P-2132       T-2124  I ABL      : (12699) Database ics Options:  
+[2014/06/05@08:12:26.513+2300] P-2132       T-2124  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/05@08:12:26.513+2300] P-2132       T-2124  I ABL      : (15743) Before Image Log Completion at Block 182 Offset 7622. 
+[2014/06/05@08:12:26.539+2300] P-2132       T-2124  I ABL      : (334)   Single-user session end. 
+
+                Thu Jun 05 09:53:12 2014
+[2014/06/05@09:53:12.079+2300] P-1216       T-2312  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/05@09:53:12.080+2300] P-1216       T-2312  I ABL      : (15321) Before Image Log Initialization at block 182  offset 7622. 
+[2014/06/05@09:53:12.085+2300] P-1216       T-2312  I ABL      : (12699) Database ics Options:  
+
+                Thu Jun 05 12:03:12 2014
+[2014/06/05@12:03:12.132+2300] P-3296       T-3300  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/05@12:03:12.183+2300] P-3296       T-3300  I ABL      : (5326)  Begin Physical Redo Phase at 128 . 
+[2014/06/05@12:03:12.392+2300] P-3296       T-3300  I ABL      : (7161)  Physical Redo Phase Completed at blk 195 off 988 upd 1474. 
+[2014/06/05@12:03:12.400+2300] P-3296       T-3300  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/06/05@12:03:12.498+2300] P-3296       T-3300  I ABL      : (12699) Database ics Options:  
+
+                Thu Jun 05 14:20:02 2014
+[2014/06/05@14:20:02.840+2300] P-3764       T-924   I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/05@14:20:02.958+2300] P-3764       T-924   I ABL      : (5326)  Begin Physical Redo Phase at 128 . 
+[2014/06/05@14:20:03.329+2300] P-3764       T-924   I ABL      : (7161)  Physical Redo Phase Completed at blk 229 off 4122 upd 2739. 
+[2014/06/05@14:20:03.336+2300] P-3764       T-924   I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/06/05@14:20:03.477+2300] P-3764       T-924   I ABL      : (12699) Database ics Options:  
+[2014/06/05@14:38:42.529+2300] P-3764       T-924   I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/05@14:38:42.529+2300] P-3764       T-924   I ABL      : (15743) Before Image Log Completion at Block 33 Offset 5980. 
+[2014/06/05@14:38:42.665+2300] P-3764       T-924   I ABL      : (334)   Single-user session end. 
+
+                Thu Jun 05 14:38:49 2014
+[2014/06/05@14:38:49.255+2300] P-3880       T-2956  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/05@14:38:49.255+2300] P-3880       T-2956  I ABL      : (15321) Before Image Log Initialization at block 33  offset 5980. 
+[2014/06/05@14:38:49.261+2300] P-3880       T-2956  I ABL      : (12699) Database ics Options:  
+[2014/06/05@14:40:03.713+2300] P-3880       T-2956  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/05@14:40:03.713+2300] P-3880       T-2956  I ABL      : (15743) Before Image Log Completion at Block 33 Offset 5980. 
+[2014/06/05@14:40:03.720+2300] P-3880       T-2956  I ABL      : (334)   Single-user session end. 
