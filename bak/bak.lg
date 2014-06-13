@@ -727,3 +727,131 @@
 [2013/12/31@17:54:09.515+2300] P-916        T-1200  I ABL      : (15109) At Database close the number of live transactions is 0. 
 [2013/12/31@17:54:09.515+2300] P-916        T-1200  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 7123. 
 [2013/12/31@17:54:09.515+2300] P-916        T-1200  I ABL      : (334)   Single-user session end. 
+
+                Tue Mar 11 23:33:52 2014
+[2014/03/11@23:33:52.310+2300] P-4272       T-4836  I ABL      : (451)   Single-user session begin for Az on CON:. 
+[2014/03/11@23:33:52.311+2300] P-4272       T-4836  I ABL      : (15321) Before Image Log Initialization at block 7  offset 7123. 
+[2014/03/11@23:33:53.474+2300] P-4272       T-4836  I ABL      : (12699) Database bak Options:  
+[2014/03/11@23:34:45.555+2300] P-4272       T-4836  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/03/11@23:34:45.555+2300] P-4272       T-4836  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 7505. 
+[2014/03/11@23:34:45.616+2300] P-4272       T-4836  I ABL      : (334)   Single-user session end. 
+
+                Tue Mar 18 13:44:44 2014
+[2014/03/18@13:44:44.031+2300] P-5308       T-4128  I ABL      : (451)   Single-user session begin for AZ on CON:. 
+[2014/03/18@13:44:44.257+2300] P-5308       T-4128  I ABL      : (15321) Before Image Log Initialization at block 7  offset 7505. 
+[2014/03/18@13:44:44.365+2300] P-5308       T-4128  I ABL      : (12699) Database bak Options:  
+[2014/03/18@13:44:49.760+2300] P-5308       T-4128  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/03/18@13:44:49.761+2300] P-5308       T-4128  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 7505. 
+[2014/03/18@13:44:49.772+2300] P-5308       T-4128  I ABL      : (334)   Single-user session end. 
+
+                Thu May 15 09:51:02 2014
+[2014/05/15@09:51:02.454+2300] P-3644       T-3808  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/15@09:51:02.454+2300] P-3644       T-3808  I ABL      : (15321) Before Image Log Initialization at block 7  offset 7505. 
+[2014/05/15@09:51:02.529+2300] P-3644       T-3808  I ABL      : (12699) Database bak Options:  
+[2014/05/15@09:51:10.800+2300] P-3644       T-3808  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/15@09:51:10.800+2300] P-3644       T-3808  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 7505. 
+[2014/05/15@09:51:10.809+2300] P-3644       T-3808  I ABL      : (334)   Single-user session end. 
+
+                Thu May 15 09:51:16 2014
+[2014/05/15@09:51:16.367+2300] P-2072       T-3356  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/15@09:51:16.367+2300] P-2072       T-3356  I ABL      : (15321) Before Image Log Initialization at block 7  offset 7505. 
+[2014/05/15@09:51:16.372+2300] P-2072       T-3356  I ABL      : (12699) Database bak Options:  
+[2014/05/15@09:51:20.066+2300] P-2072       T-3356  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/15@09:51:20.066+2300] P-2072       T-3356  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 7505. 
+[2014/05/15@09:51:20.075+2300] P-2072       T-3356  I ABL      : (334)   Single-user session end. 
+
+                Fri May 16 16:20:22 2014
+[2014/05/16@16:20:22.663+2300] P-2408       T-1100  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/16@16:20:22.663+2300] P-2408       T-1100  I ABL      : (15321) Before Image Log Initialization at block 7  offset 7505. 
+[2014/05/16@16:20:22.744+2300] P-2408       T-1100  I ABL      : (12699) Database bak Options:  
+[2014/05/16@16:21:00.898+2300] P-2408       T-1100  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/16@16:21:00.898+2300] P-2408       T-1100  I ABL      : (15743) Before Image Log Completion at Block 7 Offset 7888. 
+[2014/05/16@16:21:00.915+2300] P-2408       T-1100  I ABL      : (334)   Single-user session end. 
+
+                Mon May 26 17:26:57 2014
+[2014/05/26@17:26:57.673+2300] P-708        T-3480  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/26@17:26:57.674+2300] P-708        T-3480  I ABL      : (15321) Before Image Log Initialization at block 7  offset 7888. 
+[2014/05/26@17:26:57.742+2300] P-708        T-3480  I ABL      : (12699) Database bak Options:  
+[2014/05/26@17:28:59.341+2300] P-708        T-3480  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/26@17:28:59.341+2300] P-708        T-3480  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 103. 
+[2014/05/26@17:28:59.350+2300] P-708        T-3480  I ABL      : (334)   Single-user session end. 
+
+                Tue May 27 16:57:19 2014
+[2014/05/27@16:57:19.938+2300] P-1044       T-3932  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/27@16:57:19.938+2300] P-1044       T-3932  I ABL      : (15321) Before Image Log Initialization at block 8  offset 103. 
+[2014/05/27@16:57:20.011+2300] P-1044       T-3932  I ABL      : (12699) Database bak Options:  
+[2014/05/27@16:58:59.387+2300] P-1044       T-3932  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/27@16:58:59.387+2300] P-1044       T-3932  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 486. 
+[2014/05/27@16:58:59.421+2300] P-1044       T-3932  I ABL      : (334)   Single-user session end. 
+
+                Thu May 29 16:44:31 2014
+[2014/05/29@16:44:31.037+2300] P-3440       T-2064  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/29@16:44:31.037+2300] P-3440       T-2064  I ABL      : (15321) Before Image Log Initialization at block 8  offset 486. 
+[2014/05/29@16:44:31.105+2300] P-3440       T-2064  I ABL      : (12699) Database bak Options:  
+[2014/05/29@16:45:33.969+2300] P-3440       T-2064  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/29@16:45:33.969+2300] P-3440       T-2064  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 869. 
+[2014/05/29@16:45:33.980+2300] P-3440       T-2064  I ABL      : (334)   Single-user session end. 
+
+                Sat May 31 14:17:59 2014
+[2014/05/31@14:17:59.108+2300] P-628        T-2996  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/05/31@14:17:59.108+2300] P-628        T-2996  I ABL      : (15321) Before Image Log Initialization at block 8  offset 869. 
+[2014/05/31@14:17:59.258+2300] P-628        T-2996  I ABL      : (12699) Database bak Options:  
+[2014/05/31@14:40:35.768+2300] P-628        T-2996  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/05/31@14:40:35.768+2300] P-628        T-2996  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 1252. 
+[2014/05/31@14:40:35.784+2300] P-628        T-2996  I ABL      : (334)   Single-user session end. 
+
+                Thu Jun 05 14:38:49 2014
+[2014/06/05@14:38:49.425+2300] P-3880       T-2956  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/05@14:38:49.425+2300] P-3880       T-2956  I ABL      : (15321) Before Image Log Initialization at block 8  offset 1252. 
+[2014/06/05@14:38:49.493+2300] P-3880       T-2956  I ABL      : (12699) Database bak Options:  
+[2014/06/05@14:40:03.664+2300] P-3880       T-2956  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/05@14:40:03.664+2300] P-3880       T-2956  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 1635. 
+[2014/06/05@14:40:03.677+2300] P-3880       T-2956  I ABL      : (334)   Single-user session end. 
+
+                Mon Jun 09 13:25:37 2014
+[2014/06/09@13:25:37.792+2300] P-668        T-2468  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/09@13:25:37.792+2300] P-668        T-2468  I ABL      : (15321) Before Image Log Initialization at block 8  offset 1635. 
+[2014/06/09@13:25:37.860+2300] P-668        T-2468  I ABL      : (12699) Database bak Options:  
+[2014/06/09@13:26:38.010+2300] P-668        T-2468  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/09@13:26:38.010+2300] P-668        T-2468  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 2018. 
+[2014/06/09@13:26:38.038+2300] P-668        T-2468  I ABL      : (334)   Single-user session end. 
+
+                Wed Jun 11 15:45:43 2014
+[2014/06/11@15:45:43.005+2300] P-2704       T-3620  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/11@15:45:43.005+2300] P-2704       T-3620  I ABL      : (15321) Before Image Log Initialization at block 8  offset 2018. 
+[2014/06/11@15:45:43.076+2300] P-2704       T-3620  I ABL      : (12699) Database bak Options:  
+[2014/06/11@15:46:58.093+2300] P-2704       T-3620  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/11@15:46:58.093+2300] P-2704       T-3620  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 2609. 
+[2014/06/11@15:46:58.108+2300] P-2704       T-3620  I ABL      : (334)   Single-user session end. 
+
+                Fri Jun 13 11:45:35 2014
+[2014/06/13@11:45:35.024+2300] P-1644       T-3972  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/13@11:45:35.025+2300] P-1644       T-3972  I ABL      : (15321) Before Image Log Initialization at block 8  offset 2609. 
+[2014/06/13@11:45:35.096+2300] P-1644       T-3972  I ABL      : (12699) Database bak Options:  
+[2014/06/13@11:45:40.026+2300] P-1644       T-3972  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/13@11:45:40.026+2300] P-1644       T-3972  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 2609. 
+[2014/06/13@11:45:40.038+2300] P-1644       T-3972  I ABL      : (334)   Single-user session end. 
+
+                Fri Jun 13 11:56:15 2014
+[2014/06/13@11:56:15.035+2300] P-2312       T-2328  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/13@11:56:15.035+2300] P-2312       T-2328  I ABL      : (15321) Before Image Log Initialization at block 8  offset 2609. 
+[2014/06/13@11:56:15.040+2300] P-2312       T-2328  I ABL      : (12699) Database bak Options:  
+[2014/06/13@11:56:31.477+2300] P-2312       T-2328  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/13@11:56:31.477+2300] P-2312       T-2328  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 2609. 
+[2014/06/13@11:56:31.507+2300] P-2312       T-2328  I ABL      : (334)   Single-user session end. 
+
+                Fri Jun 13 11:56:45 2014
+[2014/06/13@11:56:45.876+2300] P-1928       T-2180  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/13@11:56:45.876+2300] P-1928       T-2180  I ABL      : (15321) Before Image Log Initialization at block 8  offset 2609. 
+[2014/06/13@11:56:45.882+2300] P-1928       T-2180  I ABL      : (12699) Database bak Options:  
+[2014/06/13@11:57:00.007+2300] P-1928       T-2180  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/13@11:57:00.007+2300] P-1928       T-2180  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 2992. 
+[2014/06/13@11:57:00.017+2300] P-1928       T-2180  I ABL      : (334)   Single-user session end. 
+
+                Fri Jun 13 12:11:06 2014
+[2014/06/13@12:11:06.322+2300] P-2828       T-2800  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/13@12:11:06.323+2300] P-2828       T-2800  I ABL      : (15321) Before Image Log Initialization at block 8  offset 2992. 
+[2014/06/13@12:11:06.389+2300] P-2828       T-2800  I ABL      : (12699) Database bak Options:  
+[2014/06/13@12:11:19.021+2300] P-2828       T-2800  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/13@12:11:19.021+2300] P-2828       T-2800  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 3759. 
+[2014/06/13@12:11:19.051+2300] P-2828       T-2800  I ABL      : (334)   Single-user session end. 
