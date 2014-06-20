@@ -1563,3 +1563,39 @@
 [2014/06/17@17:15:38.578+2300] P-3196       T-3200  I ABL      : (15109) At Database close the number of live transactions is 0. 
 [2014/06/17@17:15:38.579+2300] P-3196       T-3200  I ABL      : (15743) Before Image Log Completion at Block 49 Offset 8057. 
 [2014/06/17@17:15:38.598+2300] P-3196       T-3200  I ABL      : (334)   Single-user session end. 
+
+                Wed Jun 18 09:50:15 2014
+[2014/06/18@09:50:15.785+2300] P-4008       T-4012  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/18@09:50:15.812+2300] P-4008       T-4012  I ABL      : (15321) Before Image Log Initialization at block 49  offset 8057. 
+[2014/06/18@09:50:15.994+2300] P-4008       T-4012  I ABL      : (12699) Database ics Options:  
+[2014/06/18@12:55:32.796+2300] P-4008       T-4012  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/18@12:55:32.810+2300] P-4008       T-4012  I ABL      : (15743) Before Image Log Completion at Block 103 Offset 2121. 
+[2014/06/18@12:55:32.858+2300] P-4008       T-4012  I ABL      : (334)   Single-user session end. 
+
+                Wed Jun 18 14:24:10 2014
+[2014/06/18@14:24:10.965+2300] P-3292       T-3296  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/18@14:24:10.967+2300] P-3292       T-3296  I ABL      : (15321) Before Image Log Initialization at block 103  offset 2121. 
+[2014/06/18@14:24:11.121+2300] P-3292       T-3296  I ABL      : (12699) Database ics Options:  
+[2014/06/18@15:07:22.970+2300] P-3292       T-3296  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/18@15:07:22.970+2300] P-3292       T-3296  I ABL      : (15743) Before Image Log Completion at Block 139 Offset 3394. 
+[2014/06/18@15:07:22.995+2300] P-3292       T-3296  I ABL      : (334)   Single-user session end. 
+
+                Fri Jun 20 08:20:30 2014
+[2014/06/20@08:20:30.811+2300] P-1980       T-2020  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/20@08:20:30.812+2300] P-1980       T-2020  I ABL      : (15321) Before Image Log Initialization at block 139  offset 3394. 
+[2014/06/20@08:20:30.959+2300] P-1980       T-2020  I ABL      : (12699) Database ics Options:  
+
+                Fri Jun 20 17:28:51 2014
+[2014/06/20@17:28:51.762+2300] P-3344       T-3280  I ABL      : (451)   Single-user session begin for ICS on CON:. 
+[2014/06/20@17:28:51.863+2300] P-3344       T-3280  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2014/06/20@17:28:52.001+2300] P-3344       T-3280  I ABL      : (7161)  Physical Redo Phase Completed at blk 72 off 380 upd 2048. 
+[2014/06/20@17:28:52.026+2300] P-3344       T-3280  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2014/06/20@17:28:52.026+2300] P-3344       T-3280  I ABL      : (7163)  Begin Physical Undo 1 transactions at block 72 offset 416 
+[2014/06/20@17:28:52.032+2300] P-3344       T-3280  I ABL      : (5331)  Physical Undo Phase Completed at 60 . 
+[2014/06/20@17:28:52.032+2300] P-3344       T-3280  I ABL      : (7162)  Begin Logical Undo Phase, 1 incomplete transactions are being backed out. 
+[2014/06/20@17:28:52.065+2300] P-3344       T-3280  I ABL      : (11231) Logical Undo Phase begin at Block 60 Offset 1176. 
+[2014/06/20@17:28:52.099+2300] P-3344       T-3280  I ABL      : (12095) Logical Undo Phase completed at block 60, offset 1176. 
+[2014/06/20@17:28:52.291+2300] P-3344       T-3280  I ABL      : (12699) Database ics Options:  
+[2014/06/20@17:29:46.837+2300] P-3344       T-3280  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2014/06/20@17:29:46.838+2300] P-3344       T-3280  I ABL      : (15743) Before Image Log Completion at Block 93 Offset 5233. 
+[2014/06/20@17:29:46.891+2300] P-3344       T-3280  I ABL      : (334)   Single-user session end. 
