@@ -1,0 +1,74 @@
+125|Biscuit Assotment - MAY-3|.5|10|||||||||||0
+38|Bran Cracker - FEB-24|.21|24|||||||||||3
+123|Bran Cracker - MAY-1|.14|40|||||||||||0
+135|Cheese Bits - MAY-13|.17|15|||||||||||0
+134|Cheese Bits - MAY-13|.08|25|||||||||||0
+129|Cheese Bits - MAY-13|.245|10|||||||||||0
+124|Cheese bits - MAY-2|.17|15|||||||||||0
+31|Cheese Puff - FEB-24|.1|30|||||||||||0
+112|Cheese Puff - FEB-24|.2|30|||||||||||0
+121|Cheese Puff - MAR-30|.2|30|||||||||||0
+32|Cheese Puff - MAR-30|.1|30|||||||||||0
+62|Cheesebits - APR-19|.025|60|||||||||||0
+41|Cheesebits - FEB-24|.245|10|||||||||||0
+40|Cheesebits - FEB-24|.17|15|||||||||||0
+39|Cheesebits - FEB-24|.08|25|||||||||||0
+126|Cheesebits - MAY-3|.17|15|||||||||||0
+132|Chickbit - MAY-13|.03|60|||||||||||60
+128|Chickbit - MAY-13|.28|10|||||||||||0
+50|Chickbits - FEB-24|.17|15|||||||||||0
+47|Chickbits - FEB-24|.28|10|||||||||||0
+48|Chickbits - FEB-24|.08|40|||||||||||0
+49|Chickbits - FEB-24|.03|60|||||||||||0
+22|Chocolate Cream - FEB-24|.1|50|||||||||||216
+44|Chocolate Cream - FEB-24|.5|4|||||||||||12
+74|Chocolate Cream Marie - FEB-24|.065|22|||||||||||104
+127|Classic Bis Asst - MAY-13|.5|10|||||||||||0
+59|Classsique  B Assortme - MAR-31|.5|10|||||||||||0
+26|Cream Cracker - FEB-24|.5|8|||||||||||61
+25|Cream Cracker - FEB-24|.33|8|||||||||||20
+24|Cream Cracker - FEB-24|.19|40|||||||||||98
+23|Cream Cracker - FEB-24|.125|48|||||||||||180
+45|Custard Cream - FEB-24|.1|50|||||||||||6
+57|Custard Cream - FEB-24|.5|4|||||||||||4
+68|Gem - FEB-24|.1|50|||||||||||0
+69|Gem - FEB-24|.03|60|||||||||||0
+61|Gift Selection - APR-2|.4|10|||||||||||0
+73|Gift Selection - FEB-24|.4|10|||||||||||0
+51|Gingernut - FEB-24|.08|50|||||||||||0
+52|Gingernut - FEB-24|.24|24|||||||||||0
+70|Glucomalt - APR-20|.09|30|||||||||||0
+137|Gold Mari -|.08|60|||||||||||0
+21|Goold Marie - FEB-24|.08|60|||||||||||420
+67|Goold Marie - FEB-24|.32|4|||||||||||0
+36|Hawaiian Cookies - FEB-24|.2|24|||||||||||12
+35|Hawaiian Cookies - FEB-24|.1|30|||||||||||12
+43|Kisco - FEB-24|.215|10|||||||||||0
+63|Kisco Bite - FEB-24|.03|60|||||||||||0
+42|Krisco - FEB-24|.17|15|||||||||||0
+130|Krisco - MAY-13|.215|10|||||||||||0
+133|Krisco Bites - MAY-13|.03|60|||||||||||10
+28|Lemon Puff - FEB-24|.2|30|||||||||||89
+27|Lemon puff - FEB-24|.1|30|||||||||||3
+131|Lemon Puff - MAY-13|.2|30|||||||||||15
+64|Light Marie - FEB-24|.07|60|||||||||||0
+65|Light Marie - FEB-24|.28|6|||||||||||0
+29|Mango Puff - FEB-24|.1|30|||||||||||0
+30|Mango Puff - FEB-24|.2|30|||||||||||0
+53|Millk Short Cake - FEB-24|.08|50|||||||||||0
+37|Nice - FEB-24|.38|4|||||||||||20
+75|Nice 2kg - FEB-27|2|1|||||||||||0
+34|Njce - FEB-24|.1|50|||||||||||12
+46|Orange Cream|.1|50|||||||||||6
+58|Orenge Cream - MAR-31|.5|4|||||||||||0
+76|Premium Marie - FEB-24|.07|60|||||||||||0
+55|Snackers- Masala - FEB-24|.04|40|||||||||||10
+56|Snackers- Spicy - FEB-24|.04|40|||||||||||10
+54|Snackers-Cheese & Chille - FEB-24|.04|40|||||||||||60
+33|Sorties - FEB-24|.065|60|||||||||||25
+60|Sorties - FEB-24|.325|4|||||||||||12
+110|Spicy Cracker - MAR-30|.15|30|||||||||||0
+111|Spicy Cracker - MAR-30|.075|30|||||||||||0
+66|Vegi Cracker - FEB-24|.065|50|||||||||||0
+71|Wafers Chocolate - FEB-24|.1|20|||||||||||3
+72|Wafers Vanila - FEB-24|.1|20|||||||||||3
