@@ -1,7 +1,9 @@
-|||||From : 01/01/2013 To : 03/22/2014    By user : admin
+|||||From : 01/01/2013 To : 03/28/2015    By user : admin
 |No|Date|Bill No.|Customer|Bill Total|Paid|Collection|Days
 Other Custermer (OTH)
-|||Sub-Total :|0|0|0|0|
+|1|03/27/15|10A|STARTEL COM|1000|500|500|1|
+|2|03/27/15|11A|STARTEL COM|2000|100|1900|1|
+|||Sub-Total :|2|3000|600|2400|
 Yatalamattha Banbarapura (2MO)
 |||Sub-Total :|0|0|0|0|
 Kottawa Yatalamatta (2TU)
@@ -19,13 +21,9 @@ Dangedara  Elliot Road (MON)
 Kuruduwatta  Bataduwa (TUE)
 |||Sub-Total :|0|0|0|0|
 Narawala  Ambalanwatta (WED)
-|1|03/01/14|1|Semlat|105|0|105|21|
-|2|03/01/14|3|Semlat|52.5|0|52.5|21|
-|3|03/02/14|4|Semlat|1863.75|0|1863.75|20|
-|||Sub-Total :|3|2021.25|0|2021.25|
+|||Sub-Total :|0|0|0|0|
 Milidduwa Magalle (THU)
-|1|03/02/14|2|Shaluka Gr|288.75|0|288.75|20|
-|||Sub-Total :|1|288.75|0|288.75|
+|||Sub-Total :|0|0|0|0|
 Kithulampitiya Karapitiya (FRI)
 |||Sub-Total :|0|0|0|0|
 Kuruduwatta Kottawa (SAT)
@@ -33,4 +31,4 @@ Kuruduwatta Kottawa (SAT)
 Udugama (UDM)
 |||Sub-Total :|0|0|0|0|
  
-|||Total :|4|2310|0|2310|
+|||Total :|2|3000|600|2400|

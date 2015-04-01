@@ -1,6 +1,6 @@
-||||From : 01/01/2013 To : 03/22/2014    By user : admin
+||||From : 01/01/2013 To : 03/28/2015    By user : admin
 Code|Area|Bills|Sub-Total|Paid-Total|Collections|<=7|7<=14|14<=21|21<
-OTH|Other Custermer|0|0|0|0|0|0|0|0
+OTH|Other Custermer|2|3000|600|2400|2|0|0|0
 2MO|Yatalamattha Banbarapura|0|0|0|0|0|0|0|0
 2TU|Kottawa Yatalamatta|0|0|0|0|0|0|0|0
 2WE|Nagoda Unanvitiya|0|0|0|0|0|0|0|0
@@ -9,9 +9,9 @@ OTH|Other Custermer|0|0|0|0|0|0|0|0
 2SA|Wanduramba Ovilana|0|0|0|0|0|0|0|0
 MON|Dangedara  Elliot Road|0|0|0|0|0|0|0|0
 TUE|Kuruduwatta  Bataduwa|0|0|0|0|0|0|0|0
-WED|Narawala  Ambalanwatta|3|2021.25|0|2021.25|0|0|3|0
-THU|Milidduwa Magalle|1|288.75|0|288.75|0|0|1|0
+WED|Narawala  Ambalanwatta|0|0|0|0|0|0|0|0
+THU|Milidduwa Magalle|0|0|0|0|0|0|0|0
 FRI|Kithulampitiya Karapitiya|0|0|0|0|0|0|0|0
 SAT|Kuruduwatta Kottawa|0|0|0|0|0|0|0|0
 UDM|Udugama|0|0|0|0|0|0|0|0
-| Total|4|2310|0|2310|0|0|4|0
+| Total|2|3000|600|2400|2|0|0|0
