@@ -1,7 +1,27 @@
-||From : 03/27/2014  To : 03/27/2015|||Vehical : All Vehicals||||By user : admin
+||Month : 4 - 2015|||Vehical : All Vehicals||||By user : admin
 NO|Bill No|Customer|Tol Sale|Expiries|Damages|Discount|GR|F/Issu|Cash|Cheques|Debit|Credits
-1|10A|STARTEL COM - OTH|1000|0|0|0|0|0|500|0|0|500|
-2|11A|STARTEL COM - OTH|2000|0|0|0|0|0|0|0|100|1900|
+1|A05734|Kirigedara st - WED|4620|0|0|0|0|0|4620|0|0|0|
+2|A05730|Fanz st - WED|642|0|0|0|0|0|642|0|0|0|
+3|A05731|Fahim St - WED|750|0|0|0|0|0|750|0|0|0|
+4|A05729|Hilmiya Gr. - WED|5094|0|0|0|0|0|5094|0|0|0|
+5|A5724|Ranjani St - WED|1602|0|0|0|0|0|1602|0|0|0|
+6|A05723|Somareera St - WED|1068|0|0|0|0|0|1068|0|0|0|
+7|A05720|Samagi Cantion - WED|1557|0|0|0|0|0|1557|0|0|0|
+8|A05721|Suwira - WED|1042|0|0|0|0|0|1042|0|0|0|
+9|A05718|Nipuna - WED|799|0|0|0|0|0|799|0|0|0|
+10|A05717|Sudantha St - WED|1220|0|0|0|0|0|1220|0|0|0|
+11|A05716|Laksara - WED|2484|0|0|0|0|0|2484|0|0|0|
+12|A05725|N.S. st - TUE|2940|0|0|0|0|0|2940|0|0|0|
+13|A05714|B.P Grocey - WED|11407|0|0|475.32|0|0|11407|0|0|0|
+14|A05715|Ariyadasa st - WED|979|0|0|0|0|0|979|0|0|0|
+15|A05711|Suhada Milk Bar - WED|8667|0|0|361.16|0|0|8667|0|0|0|
+16|A05708|Lional Hotel - WED|1972|0|0|0|0|0|1972|0|0|0|
+17|A05707|Chamath - WED|3913|0|0|0|0|0|3913|0|0|0|
+18|A05706|Priyanthi st - WED|3493|0|0|0|0|0|3493|0|0|0|
+19|A05705|Piyal st - WED|2550|0|0|0|0|0|2550|0|0|0|
+20|A05704|Chandana - WED|3453|0|0|0|0|0|3453|0|0|0|
+21|A05703|Sunil - WED|12333|0|0|0|0|0|12333|0|0|0|
+22|20000A|Sheela st - 2TU|20000|0|0|0|0|0|0|1000|0|20000|
 
-||Total|3000|0|0|0|0|0|500|0|100|2400|
+||Total|92585|0|0|836.48|0|0|72585|1000|0|20000|
 ||Upto Date Total|0|0|0|0|0|0|0|0|0|0

@@ -1,34 +1,30 @@
-|||||From : 01/01/2013 To : 03/28/2015    By user : admin
+|||||From : 01/01/2013 To : 04/03/2015    By user : admin
 |No|Date|Bill No.|Customer|Bill Total|Paid|Collection|Days
-Other Custermer (OTH)
-|1|03/27/15|10A|STARTEL COM|1000|500|500|1|
-|2|03/27/15|11A|STARTEL COM|2000|100|1900|1|
-|||Sub-Total :|2|3000|600|2400|
-Yatalamattha Banbarapura (2MO)
+Allakanda Baddegama Unavitiya (002)
+|1|03/29/15|qwdeq0|Hansagiri st|246246|1000|245246|5|
+|||Sub-Total :|1|246246|1000|245246|
+Hikkaduwa Kumarakanda (003)
+|1|03/29/15|qewq230|Janahitha St|2000|0|2000|5|
+|||Sub-Total :|1|2000|0|2000|
+Thagaswala Pitigala (004)
 |||Sub-Total :|0|0|0|0|
-Kottawa Yatalamatta (2TU)
+Kottawa Ellakanda (005)
 |||Sub-Total :|0|0|0|0|
-Nagoda Unanvitiya (2WE)
+Udugama Thawalama (006)
 |||Sub-Total :|0|0|0|0|
-Ovilana Labuduwa (2TH)
+Hikkaduwa Meetiyagoda (007)
 |||Sub-Total :|0|0|0|0|
-Thalagaha Kuruduwatta (2FR)
+Aluthwala Meetiyagoda (008)
 |||Sub-Total :|0|0|0|0|
-Wanduramba Ovilana (2SA)
+Baddegama Batapola (009)
 |||Sub-Total :|0|0|0|0|
-Dangedara  Elliot Road (MON)
+Mapalagama Wanduramba (010)
 |||Sub-Total :|0|0|0|0|
-Kuruduwatta  Bataduwa (TUE)
+Baddegama  Hikkaduwa (011)
 |||Sub-Total :|0|0|0|0|
-Narawala  Ambalanwatta (WED)
+Baddegama Nagoda (012)
 |||Sub-Total :|0|0|0|0|
-Milidduwa Magalle (THU)
-|||Sub-Total :|0|0|0|0|
-Kithulampitiya Karapitiya (FRI)
-|||Sub-Total :|0|0|0|0|
-Kuruduwatta Kottawa (SAT)
-|||Sub-Total :|0|0|0|0|
-Udugama (UDM)
+Wanduramba Talagaha (001)
 |||Sub-Total :|0|0|0|0|
  
-|||Total :|2|3000|600|2400|
+|||Total :|2|248246|1000|247246|

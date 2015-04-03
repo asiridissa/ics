@@ -1,17 +1,15 @@
-||||From : 01/01/2013 To : 03/28/2015    By user : admin
+||||From : 01/01/2013 To : 04/03/2015    By user : admin
 Code|Area|Bills|Sub-Total|Paid-Total|Collections|<=7|7<=14|14<=21|21<
-OTH|Other Custermer|2|3000|600|2400|2|0|0|0
-2MO|Yatalamattha Banbarapura|0|0|0|0|0|0|0|0
-2TU|Kottawa Yatalamatta|0|0|0|0|0|0|0|0
-2WE|Nagoda Unanvitiya|0|0|0|0|0|0|0|0
-2TH|Ovilana Labuduwa|0|0|0|0|0|0|0|0
-2FR|Thalagaha Kuruduwatta|0|0|0|0|0|0|0|0
-2SA|Wanduramba Ovilana|0|0|0|0|0|0|0|0
-MON|Dangedara  Elliot Road|0|0|0|0|0|0|0|0
-TUE|Kuruduwatta  Bataduwa|0|0|0|0|0|0|0|0
-WED|Narawala  Ambalanwatta|0|0|0|0|0|0|0|0
-THU|Milidduwa Magalle|0|0|0|0|0|0|0|0
-FRI|Kithulampitiya Karapitiya|0|0|0|0|0|0|0|0
-SAT|Kuruduwatta Kottawa|0|0|0|0|0|0|0|0
-UDM|Udugama|0|0|0|0|0|0|0|0
-| Total|2|3000|600|2400|2|0|0|0
+002|Allakanda Baddegama Unavitiya|1|246246|1000|245246|1|0|0|0
+003|Hikkaduwa Kumarakanda|1|2000|0|2000|1|0|0|0
+004|Thagaswala Pitigala|0|0|0|0|0|0|0|0
+005|Kottawa Ellakanda|0|0|0|0|0|0|0|0
+006|Udugama Thawalama|0|0|0|0|0|0|0|0
+007|Hikkaduwa Meetiyagoda|0|0|0|0|0|0|0|0
+008|Aluthwala Meetiyagoda|0|0|0|0|0|0|0|0
+009|Baddegama Batapola|0|0|0|0|0|0|0|0
+010|Mapalagama Wanduramba|0|0|0|0|0|0|0|0
+011|Baddegama  Hikkaduwa|0|0|0|0|0|0|0|0
+012|Baddegama Nagoda|0|0|0|0|0|0|0|0
+001|Wanduramba Talagaha|0|0|0|0|0|0|0|0
+| Total|2|248246|1000|247246|2|0|0|0
