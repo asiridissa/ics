@@ -1,29 +1,7 @@
 No|Product|Weight|Van C|Van P|Stock C|Stock P|Total P|Buying Price|Amount|Selling Price|Amount|
-1|Plaza 155 - 10/14/2014|.155|
-2|Plaza 230 - 10/14/2014|.23|
-3|Plaza - 425|.425|
-4|Plaza 800 - 10/14/2014|.8|
-5|Aiino Moto 5g - 02/12/2014|.005|
-6|Ajinamoto 15 - 02/12/2014|.015|
-7|Ajinamoto  35g - 02/12/2014|.035|
-8|Ajinomoto 72g - 02/12/2014|.072|
-9|Ajinomoto  350g - 02/12/2014|.35|
-10|Ajinomoto 500G - 02/12/2014|.5|
-11|Coco Milk Powder - 01/14/2015|.025|
-12|Coco Mplk Powder - 01/14/2015|.15|
-13|Coco Milk Powdaer - 01/14/2015|.3|
-14|Soya Meat Curry 50g - 02/12/2014|.05|
-15|Soya Meat chicken 50g - 02/12/2014|.05|
-16|Soya Meat Cuttie Fish - 02/12/2014|.05|
-17|Soya Meat Fish 50g - 02/12/2014|.05|
-18|Mr Pop Rings 8g - 02/12/2014|.008|
-19|Mr Pop Classic 12g - 05/24/2014|.012|
-20|Bar - 01/14/2015|.65|
-21|Venivel Soap - 01/14/2015|.07|
-22|Tanga Tea 50g - 02/12/2014|.05|
-23|Tanga Tea 100g - 02/12/2014|.1|
-24|Coconut Milk Powder - 02/12/2014|.15|
-25|Mr Pop Curlz 8g - 02/12/2014|.008|
-26|Mr Pop Cheezy Curlz - 11/14/2014|.008|
-27|Captain 425 - 02/12/2014|.425|
+1|Goold Marie - 02/24/2013|.08|
+2|Chocolate Cream - 08/14/2013|.1|
+3|Cream Cracker - 02/24/2013|.125|
+4|Cream Cracker - 02/24/2013|.19|
+5|Cream Cracker - 06/29/2013|.33|
 |Total|
