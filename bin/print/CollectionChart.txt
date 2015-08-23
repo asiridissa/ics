@@ -1,15 +1,4 @@
-||||From : 01/01/2013 To : 04/03/2015    By user : admin
+||||From : 04/28/2011 To : 06/30/2015    By user : Duminda
 Code|Area|Bills|Sub-Total|Paid-Total|Collections|<=7|7<=14|14<=21|21<
-002|Allakanda Baddegama Unavitiya|1|246246|1000|245246|1|0|0|0
-003|Hikkaduwa Kumarakanda|1|2000|0|2000|1|0|0|0
-004|Thagaswala Pitigala|0|0|0|0|0|0|0|0
-005|Kottawa Ellakanda|0|0|0|0|0|0|0|0
-006|Udugama Thawalama|0|0|0|0|0|0|0|0
-007|Hikkaduwa Meetiyagoda|0|0|0|0|0|0|0|0
-008|Aluthwala Meetiyagoda|0|0|0|0|0|0|0|0
-009|Baddegama Batapola|0|0|0|0|0|0|0|0
-010|Mapalagama Wanduramba|0|0|0|0|0|0|0|0
-011|Baddegama  Hikkaduwa|0|0|0|0|0|0|0|0
-012|Baddegama Nagoda|0|0|0|0|0|0|0|0
-001|Wanduramba Talagaha|0|0|0|0|0|0|0|0
-| Total|2|248246|1000|247246|2|0|0|0
+TUE|Kuruduwatta  Bataduwa|27|188465|2235|186230|10|3|1|13
+| Total|27|188465|2235|186230|10|3|1|13
