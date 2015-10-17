@@ -4,7 +4,7 @@ setlocal
 SET /P AREYOUSURE=Content in the server will be override. Are you sure [Y/N] ?&
 IF /I "%AREYOUSURE%" NEQ "Y" GOTO END
 echo Commit will proceed...&
-set PATH=C:\Program Files\WinRar;%PATH%
+set PATH=C:\Program Files (86)\WinRar;%PATH%
 e:
 :cd ics\db
 rar a db.rar *.* -x*.bat -x*.exe
