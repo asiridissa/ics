@@ -7,7 +7,7 @@ echo Update will proceed...&
 echo This will take few seconds..
 svn cleanup
 svn update
-set PATH=C:\Program Files (86)\WinRar;%PATH%
+set PATH=C:\Program Files (x86)\WinRAR;%PATH%
 e:
 :cd ics\db
 unrar e -o+ db
