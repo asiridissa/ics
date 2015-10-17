@@ -9,7 +9,7 @@ svn cleanup
 svn update
 set PATH=C:\Program Files\WinRar;%PATH%
 e:
-:cd ics_vendol\db
+:cd ics\db
 unrar e -o+ db
 echo Update completed...&
 pause
