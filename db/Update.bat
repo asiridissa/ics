@@ -8,6 +8,7 @@ echo This will take few seconds..
 svn cleanup
 svn update
 set PATH=C:\Program Files (x86)\WinRAR;%PATH%
+set PATH=C:\Program Files\WinRAR;%PATH%
 e:
 :cd ics\db
 unrar e -o+ db
