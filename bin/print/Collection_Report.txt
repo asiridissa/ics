@@ -1,63 +1,33 @@
-|||||From : 01/01/2013 To : 10/15/2015    By user : Duminda
+|||||From : 01/01/2013 To : 11/08/2015    By user : admin
 |No|Date|Bill No.|Customer|Bill Total|Paid|Collection|Days
-Allakanda Baddegama Unavitiya (002)
+Other Custermer (OTH)
 |||Sub-Total :|0|0|0|0|
-Hikkaduwa Kumarakanda (003)
-|1|09/04/15|11716|Ranreka|10340|0|10340|41|
-|2|10/03/15|4689|Nilan|2556.2|2555.6|.6|12|
-|3|10/03/15|4085|Ranreka|43205|0|43205|12|
-|4|10/03/15|4087|SELINKA|14455|0|14455|12|
-|5|10/03/15|4088|MANOHARI|101782|0|101782|12|
-|6|10/03/15|4431|CO OP SHOP BDEDMA|35206|0|35206|12|
-|||Sub-Total :|6|207544.2|2555.6|204988.6|
-Thagaswala Pitigala (004)
-|1|10/10/15|134082|MANGO TREE REST|10560.8|0|10560.8|5|
-|2|10/10/15|134062|Weerakkodi|1104.8|1104|.8|5|
-|||Sub-Total :|2|11665.6|1104|10561.6|
-Kottawa Ellakanda (005)
-|1|09/08/15|11911|Sanjeewa st|10080|2000|8080|37|
-|||Sub-Total :|1|10080|2000|8080|
-Udugama Thawalama (006)
-|1|10/08/15|4648|U G I Stores|2550.3|2550|.3|7|
-|||Sub-Total :|1|2550.3|2550|.3|
-Hikkaduwa Meetiyagoda (007)
+Yatalamattha Banbarapura (2MO)
+|1|11/02/15|20|Shaheni st|747.5|0|747.5|6|
+|||Sub-Total :|1|747.5|0|747.5|
+Kottawa Yatalamatta (2TU)
 |||Sub-Total :|0|0|0|0|
-Aluthwala Meetiyagoda (008)
-|1|09/03/15|11651|Kithmi|8001|0|8001|42|
-|||Sub-Total :|1|8001|0|8001|
-Baddegama Batapola (009)
-|1|07/06/15|168418|Waruna super center|88862|0|88862|101|
-|2|07/08/15|168251|Pasidu|15957|0|15957|99|
-|3|09/15/15|12254|R T S Stores|43172|4801|38371|30|
-|4|09/15/15|12279|MALAARACHCHI|45044|0|45044|30|
-|||Sub-Total :|4|193035|4801|188234|
-Mapalagama Wanduramba (010)
-|1|09/11/15|12055|Nadee lanka Enterpricess|12940.02|12940|.02|34|
-|2|09/11/15|12069|Elawalu kade|898.68|660|238.68|34|
-|3|10/09/15|134024|M k vilmat|2214.87|2214|.87|6|
-|4|10/09/15|134032|M.H St|10560.8|10560|.8|6|
-|||Sub-Total :|4|26614.37|26374|240.37|
-Baddegama  Hikkaduwa (011)
+Nagoda Unanvitiya (2WE)
 |||Sub-Total :|0|0|0|0|
-Baddegama Nagoda (012)
-|1|07/17/15|168584|Co op Shop|6581.4|6581|.4|90|
-|||Sub-Total :|1|6581.4|6581|.4|
-Wanduramba Talagaha (001)
-|1|09/05/15|11851|UTHPALA|1282.35|0|1282.35|40|
-|2|10/04/15|11582|UTHPALA|3346|0|3346|11|
-|3|10/04/15|12191|Anura 2|8357|0|8357|11|
-|||Sub-Total :|3|12985.35|0|12985.35|
-Makubura Udugama (013)
-|1|10/06/15|12147|Chamil|3295|0|3295|9|
-|2|10/06/15|12298|Amila Food City|9815|0|9815|9|
-|||Sub-Total :|2|13110|0|13110|
-Yatalamaththa Udugma (014)
-|1|05/29/15|304758|Dayananda st|939.9|939|.9|139|
-|2|09/07/15|11975|Co op shop|5537|0|5537|38|
-|3|09/09/15|11970|Lakmal St|1164.36|1164|.36|36|
-|4|09/09/15|11972|Pradeep st|1987.4|1987|.4|36|
-|5|10/07/15|11734|Palliyaguru|268.8|0|268.8|8|
-|6|10/07/15|4746|Dasuni|13305|0|13305|8|
-|||Sub-Total :|6|23202.46|4090|19112.46|
+Ovilana Labuduwa (2TH)
+|||Sub-Total :|0|0|0|0|
+Thalagaha Kuruduwatta (2FR)
+|||Sub-Total :|0|0|0|0|
+Wanduramba Ovilana (2SA)
+|||Sub-Total :|0|0|0|0|
+Dangedara  Elliot Road (MON)
+|||Sub-Total :|0|0|0|0|
+Kuruduwatta  Bataduwa (TUE)
+|||Sub-Total :|0|0|0|0|
+Narawala  Ambalanwatta (WED)
+|||Sub-Total :|0|0|0|0|
+Milidduwa Magalle (THU)
+|||Sub-Total :|0|0|0|0|
+Kithulampitiya Karapitiya (FRI)
+|||Sub-Total :|0|0|0|0|
+Kuruduwatta Kottawa (SAT)
+|||Sub-Total :|0|0|0|0|
+Udugama (UDM)
+|||Sub-Total :|0|0|0|0|
  
-|||Total :|31|515369.68|50055.6|465314.08|
+|||Total :|1|747.5|0|747.5|

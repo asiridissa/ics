@@ -1,25 +1,7 @@
-||Date : 06/01/2015|||Vehical : 41-5786 Kara||||By user : duminda
-NO|Bill No|Customer|Tol Sale|Expiries|Damages|Discount|GR|F/Issu|Cash|Cheques|Debit|Credits
-1|A07191|Najith - TUE|1197|0|0|0|0|0|1197|0|0|0|
-2|A07193|Liyanarachchi - TUE|642|0|0|0|0|0|642|0|0|0|
-3|A07194|Anurada - TUE|259|0|0|360|0|360|259|0|0|0|
-4|A07216|L.H. N.R St - TUE|2993|0|0|0|0|0|2993|0|0|0|
-5|A07215|Kumari - TUE|862|0|0|360|0|360|862|0|0|0|
-6|A07213|Priyanthi st - TUE|1555|0|0|360|0|360|1555|0|0|0|
-7|A07212|Dinuka - TUE|1171|0|0|0|0|0|1171|0|0|0|
-8|A07211|Wijekon Trades - TUE|427|0|0|0|0|0|427|0|0|0|
-9|A07210|Dilina st - TUE|945|0|0|0|0|0|945|0|0|0|
-10|A07209|Galwatawatta V/S - TUE|1480|0|0|0|0|0|1480|0|0|0|
-11|A07207|Amarasena - TUE|756|0|0|0|0|0|756|0|0|0|
-12|A07205|Govijanasewa shop - TUE|360|0|0|0|0|0|360|0|0|0|
-13|A07199|Paranavithan st (wijaya Mw) - TUE|1073|0|0|0|0|0|1073|0|0|0|
-14|A07197`|Jagoda st - TUE|5238|0|0|0|0|0|5238|0|0|0|
-15|A07196|Highland Gr. - TUE|997|0|0|360|0|360|997|0|0|0|
-16|A07204|Osinro Pharmacy - TUE|799|0|0|0|0|0|799|0|0|0|
-17|A07190|K.G.S. - TUE|1374|0|0|360|0|360|1374|0|0|0|
-18|A07201|Dahanayaka - SAT|699|0|0|360|0|360|699|0|0|0|
-19|A07198|Palathuru Kade - SAT|513|0|0|0|0|0|513|0|0|0|
-20|93600|Rasadi - TUE|78|0|0|0|0|0|78|0|0|0|
+||Month : 11 - 2015|||Vehical : All Vehicals||||By user : admin
+NO|Bill No|Customer|Tol Sale|Varience|Expiries|Damages|Discount|GR|F/Issu|Cash|Cheques|Debit|Credits
+1|30|STARTEL COM - OTH|347.5|0|0|0|0|0|0|100|247.5|0|0|
+2|10|STARTEL COM - OTH|262.5|0|0|0|0|0|0|0|262.5|0|0|
 
-||Total|23418|0|0|2160|0|2160|23418|0|0|0|
-||Upto Date Total|23418|0|0|2160|0|2160|23418|0|0|0
+||Total|610|0|0|0|0|0|0|100|510|0|0|
+||Upto Date Total|0|0|0|0|0|0|0|0|0|0|0

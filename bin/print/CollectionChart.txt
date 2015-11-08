@@ -1,17 +1,17 @@
-||||From : 01/01/2013 To : 10/15/2015    By user : Duminda
+||||From : 01/01/2013 To : 11/08/2015    By user : admin
 Code|Area|Bills|Sub-Total|Paid-Total|Collections|<=7|7<=14|14<=21|21<
-002|Allakanda Baddegama Unavitiya|0|0|0|0|0|0|0|0
-003|Hikkaduwa Kumarakanda|6|207544.2|2555.6|204988.6|0|5|0|1
-004|Thagaswala Pitigala|2|11665.6|1104|10561.6|2|0|0|0
-005|Kottawa Ellakanda|1|10080|2000|8080|0|0|0|1
-006|Udugama Thawalama|1|2550.3|2550|.3|1|0|0|0
-007|Hikkaduwa Meetiyagoda|0|0|0|0|0|0|0|0
-008|Aluthwala Meetiyagoda|1|8001|0|8001|0|0|0|1
-009|Baddegama Batapola|4|193035|4801|188234|0|0|0|4
-010|Mapalagama Wanduramba|4|26614.37|26374|240.37|2|0|0|2
-011|Baddegama  Hikkaduwa|0|0|0|0|0|0|0|0
-012|Baddegama Nagoda|1|6581.4|6581|.4|0|0|0|1
-001|Wanduramba Talagaha|3|12985.35|0|12985.35|0|2|0|1
-013|Makubura Udugama|2|13110|0|13110|0|2|0|0
-014|Yatalamaththa Udugma|6|23202.46|4090|19112.46|0|2|0|4
-| Total|31|515369.68|50055.6|465314.08|5|11|0|15
+OTH|Other Custermer|0|0|0|0|0|0|0|0
+2MO|Yatalamattha Banbarapura|1|747.5|0|747.5|1|0|0|0
+2TU|Kottawa Yatalamatta|0|0|0|0|0|0|0|0
+2WE|Nagoda Unanvitiya|0|0|0|0|0|0|0|0
+2TH|Ovilana Labuduwa|0|0|0|0|0|0|0|0
+2FR|Thalagaha Kuruduwatta|0|0|0|0|0|0|0|0
+2SA|Wanduramba Ovilana|0|0|0|0|0|0|0|0
+MON|Dangedara  Elliot Road|0|0|0|0|0|0|0|0
+TUE|Kuruduwatta  Bataduwa|0|0|0|0|0|0|0|0
+WED|Narawala  Ambalanwatta|0|0|0|0|0|0|0|0
+THU|Milidduwa Magalle|0|0|0|0|0|0|0|0
+FRI|Kithulampitiya Karapitiya|0|0|0|0|0|0|0|0
+SAT|Kuruduwatta Kottawa|0|0|0|0|0|0|0|0
+UDM|Udugama|0|0|0|0|0|0|0|0
+| Total|1|747.5|0|747.5|1|0|0|0
