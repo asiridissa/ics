@@ -1,8 +1,8 @@
-||Month : 11 - 2015|||Vehical : All Vehicals||||By user : admin
+||Month : 11 - 2015|||Vehical : All Vehicals||||By user : asiri
 NO|Bill No|Customer|Tol Sale|Varience|Expiries|Damages|Discount|GR|F/Issu|Cash|Cheques|Debit|Credits
-1|10|STARTEL COM - OTH|262.5|0|0|0|0|0|0|0|0|0|262.5|
-2|20|Shaheni st - 2MO|747.5|0|0|0|0|0|0|0|0|0|747.5|
-3|30|STARTEL COM - OTH|347.5|0|0|0|0|0|0|0|0|0|347.5|
+1|10|STARTEL COM - OTH|834|0|0|0|0|0|0|0|800|0|34|
+2|20|STARTEL COM - OTH|1436.5|0|0|0|0|0|0|1000|0|0|436.5|
+3|30|STARTEL COM - OTH|951|-.5|0|0|0|0|0|951|0|0|0|
 
-||Total|1357.5|0|0|0|0|0|0|0|0|0|1357.5
-||Value|1357.5
+||Total|3221.5|-.5|0|0|0|0|0|1951|800|0|470.5
+||Value|3221.5

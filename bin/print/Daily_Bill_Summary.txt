@@ -1,4 +1,4 @@
-ID|Product|Weight|Unit|20|Total|
+ID|Product|Weight|Unit|10|Total|
 1|Goold Marie - 02/24/2013|.08|60|12|12
-2|Chocolate Cream - 08/14/2013|.1|50|10|10
-|   Date : 11/02/15   Veh : 28 -  8897 Wan
+2|Chocolate Cream - 08/14/2013|.1|50|12|12
+|   Date : 11/01/15   Veh : 28 -  8897 Wan

@@ -1,7 +1,7 @@
-||||From : 01/01/2013 To : 11/08/2015    By user : admin
+||||From : 01/01/2013 To : 11/08/2015    By user : Super Admin
 Code|Area|Bills|Sub-Total|Paid-Total|Collections|<=7|7<=14|14<=21|21<
-OTH|Other Custermer|0|0|0|0|0|0|0|0
-2MO|Yatalamattha Banbarapura|1|747.5|0|747.5|1|0|0|0
+OTH|Other Custermer|2|2270.5|1800|470.5|2|0|0|0
+2MO|Yatalamattha Banbarapura|0|0|0|0|0|0|0|0
 2TU|Kottawa Yatalamatta|0|0|0|0|0|0|0|0
 2WE|Nagoda Unanvitiya|0|0|0|0|0|0|0|0
 2TH|Ovilana Labuduwa|0|0|0|0|0|0|0|0
@@ -14,4 +14,4 @@ THU|Milidduwa Magalle|0|0|0|0|0|0|0|0
 FRI|Kithulampitiya Karapitiya|0|0|0|0|0|0|0|0
 SAT|Kuruduwatta Kottawa|0|0|0|0|0|0|0|0
 UDM|Udugama|0|0|0|0|0|0|0|0
-| Total|1|747.5|0|747.5|1|0|0|0
+| Total|2|2270.5|1800|470.5|2|0|0|0

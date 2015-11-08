@@ -1,7 +1,7 @@
- Date : 11/03/15    Vehical : 28 -  8897  Wan    By User : admin
+ Date : 11/02/15    Vehical : 28 -  8897  Wan    By User : asiri
 No|Item|Weight|Price|UPC|BSC|BSP|RDR|LDC|LDP|ULC|ULP|RDC|RDP|BilP|Excs|Shrt
-1|Goold Marie - 02/24/2013|  0.080|   26.25| 60|0|38|0|0|0|0|33|0|5|5|0|0
-2|Chocolate Cream - 08/14/2013|  0.100|   43.25| 50|0|40|0|0|0|0|35|0|5|5|0|0
+1|Goold Marie - 02/24/2013|  0.080|   26.25| 60|0|48|0|0|0|0|46|0|2|2|0|0
+2|Chocolate Cream - 08/14/2013|  0.100|   43.25| 50|0|38|0|0|0|0|6|0|32|32|0|0
  
-|Sales Value   :             347.50 /=|Sales Tonnage :               0.900 kg
-|Stock Value   :          92,317.50 /=|Stock Tonnage :             250.600 kg
+|Sales Value   :           1,436.50 /=|Sales Tonnage :               3.360 kg
+|Stock Value   :          88,580.00 /=|Stock Tonnage :             240.800 kg
