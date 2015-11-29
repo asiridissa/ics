@@ -1,17 +1,4 @@
-||||From : 01/01/2013 To : 11/08/2015    By user : Super Admin
+||||From : 01/01/2013 To : 11/29/2015    By user : Test
 Code|Area|Bills|Sub-Total|Paid-Total|Collections|<=7|7<=14|14<=21|21<
-OTH|Other Custermer|1|3281|1018.5|2262.5|1|0|0|0
-2MO|Yatalamattha Banbarapura|0|0|0|0|0|0|0|0
-2TU|Kottawa Yatalamatta|0|0|0|0|0|0|0|0
-2WE|Nagoda Unanvitiya|0|0|0|0|0|0|0|0
-2TH|Ovilana Labuduwa|0|0|0|0|0|0|0|0
-2FR|Thalagaha Kuruduwatta|0|0|0|0|0|0|0|0
-2SA|Wanduramba Ovilana|0|0|0|0|0|0|0|0
-MON|Dangedara  Elliot Road|0|0|0|0|0|0|0|0
-TUE|Kuruduwatta  Bataduwa|0|0|0|0|0|0|0|0
-WED|Narawala  Ambalanwatta|0|0|0|0|0|0|0|0
-THU|Milidduwa Magalle|0|0|0|0|0|0|0|0
-FRI|Kithulampitiya Karapitiya|0|0|0|0|0|0|0|0
-SAT|Kuruduwatta Kottawa|0|0|0|0|0|0|0|0
-UDM|Udugama|0|0|0|0|0|0|0|0
-| Total|1|3281|1018.5|2262.5|1|0|0|0
+2TH|Ovilana Labuduwa|11|83135|500|82635|0|1|2|8
+| Total|11|83135|500|82635|0|1|2|8

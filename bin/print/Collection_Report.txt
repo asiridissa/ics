@@ -1,33 +1,17 @@
-|||||From : 01/01/2013 To : 11/08/2015    By user : Super Admin
+|||||From : 01/01/2013 To : 11/29/2015    By user : Test
 |No|Date|Bill No.|Customer|Bill Total|Paid|Collection|Days
-Other Custermer (OTH)
-|1|11/03/15|30|STARTEL COM|3281|1018.5|2262.5|5|
-|||Sub-Total :|1|3281|1018.5|2262.5|
-Yatalamattha Banbarapura (2MO)
-|||Sub-Total :|0|0|0|0|
-Kottawa Yatalamatta (2TU)
-|||Sub-Total :|0|0|0|0|
-Nagoda Unanvitiya (2WE)
-|||Sub-Total :|0|0|0|0|
 Ovilana Labuduwa (2TH)
-|||Sub-Total :|0|0|0|0|
-Thalagaha Kuruduwatta (2FR)
-|||Sub-Total :|0|0|0|0|
-Wanduramba Ovilana (2SA)
-|||Sub-Total :|0|0|0|0|
-Dangedara  Elliot Road (MON)
-|||Sub-Total :|0|0|0|0|
-Kuruduwatta  Bataduwa (TUE)
-|||Sub-Total :|0|0|0|0|
-Narawala  Ambalanwatta (WED)
-|||Sub-Total :|0|0|0|0|
-Milidduwa Magalle (THU)
-|||Sub-Total :|0|0|0|0|
-Kithulampitiya Karapitiya (FRI)
-|||Sub-Total :|0|0|0|0|
-Kuruduwatta Kottawa (SAT)
-|||Sub-Total :|0|0|0|0|
-Udugama (UDM)
-|||Sub-Total :|0|0|0|0|
+|1|09/24/15|B11354|Athula st|3753|0|3753|66|
+|2|10/16/15|B11862|Punsiri st|7000|500|6500|44|
+|3|10/29/15|B12116|Anura   bekari|12664|0|12664|31|
+|4|10/29/15|B12109|Jayawardana|4050|0|4050|31|
+|5|10/29/15|B12100|Sampath st-talagaha|13552|0|13552|31|
+|6|11/05/15|B12317|Gamage st 2|13479|0|13479|24|
+|7|11/05/15|B12297|Achira Food City|3858|0|3858|24|
+|8|11/12/15|B12522|Ovitawatta st|3373|0|3373|17|
+|9|11/12/15|B12521|Kodithuwakku st|13005|0|13005|17|
+|10|11/20/15|B12725|Wanigasekara st|6139|0|6139|9|
+|11|07/16/15|B09481|K D C|2262|0|2262|136|
+|||Sub-Total :|11|83135|500|82635|
  
-|||Total :|1|3281|1018.5|2262.5|
+|||Total :|11|83135|500|82635|

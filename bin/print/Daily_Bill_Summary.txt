@@ -1,3 +1,9 @@
-ID|Product|Weight|Unit|10|Total|
-1|Goold Marie - 02/24/2013|.08|60|10|10
-|   Date : 11/01/15   Veh : 28 -  8897 Wan
+ID|Product|Weight|Unit|B12219|97594|B12209|B12204|Total|
+1|Goold Marie - 02/24/2013|.08|60|6|12||6|24
+2|Chocolate Cream - 08/14/2013|.1|50||6||6|12
+3|Cream Cracker - 02/24/2013|.125|48||12|6|6|24
+4|Cream Cracker - 02/24/2013|.19|40||6|||6
+5|Cream Cracker - 02/24/2013|.5|8|||8||8
+6|Lemon Puff - 05/13/2013|.2|30|3|3|||6
+7|Light Mari - 01/05/2015|.065|60|6||6||12
+|   Date : 11/02/15   Veh : 28 -  8897 Wan

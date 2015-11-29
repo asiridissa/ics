@@ -1,6 +1,6 @@
 @echo off
 e:
-del /F Summary.xlsx
-copy ori\Summary.xlsx Summary.xlsx
+del /F E:\ICS\bin\print\Summary.xlsx
+copy E:\ICS\bin\print\ori\Summary.xlsx E:\ICS\bin\print\Summary.xlsx
 exit
 @echo off
