@@ -1,6 +1,6 @@
 @echo off
 e:
-del /F E:\ICS\bin\print\BillingReport.xlsx
-copy E:\ICS\bin\print\ori\BillingReport.xlsx E:\ICS\bin\print\BillingReport.xlsx
+del /F BillingReport.xlsx
+copy ori\BillingReport.xlsx BillingReport.xlsx
 exit
 @echo off
