@@ -1,0 +1,26 @@
+|From : 12/04/2013  To : 12/04/2015||By user : admin
+|Employee|Type|Date|Amount|Note
+|Asiri|ADVANCE - Salary Advance|12/04/2015|1|Test
+|||02/17/2015|1000|aasdasda
+||Type Total||1001
+||FUEL - Fuel|06/14/2015|25000|
+|||06/08/2015|10000|
+||Type Total||35000
+||Sub Total||36001
+
+|Duminda|ADVANCE - Salary Advance|11/21/2015|1000|
+||Type Total||1000
+||Sub Total||37001
+
+|Keshla|ADVANCE - Salary Advance|11/21/2015|1000|keshla
+|||11/08/2015|2000|
+||Type Total||3000
+||Sub Total||40001
+
+|Neluminda|ADVANCE - Salary Advance|12/04/2015|1000|
+||Type Total||1000
+||FUEL - Fuel|08/04/2015|1000|
+||Type Total||1000
+||Sub Total||42001
+
+|Total|||155004
