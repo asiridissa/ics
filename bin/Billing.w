@@ -1043,7 +1043,7 @@ DO:
           filAmount filBill# filDamP filExpP 
           filGRST filKg filPieses filRecipt# filTotal filUnitPrice WITH FRAME DEFAULT-FRAME.
   addModify = "add".
-  RUN itemsLoader.
+  RUN itemsLoaderAll.
 END.
 
 /* _UIB-CODE-BLOCK-END */
@@ -1474,13 +1474,13 @@ DO:
             itemsW    = itms.unitWeightKG.
   RELEASE itms.
 
-  FIND FIRST tt-sale WHERE tt-sale.itmName = itemsName AND tt-sale.weight = itemsW EXCLUSIVE-LOCK NO-ERROR.
-    IF AVAILABLE tt-sale AND addModify = "add" THEN
-        DO: 
-            MESSAGE "This Item already added." VIEW-AS ALERT-BOX WARNING BUTTONS OK.
-            RETURN.
-        END.
-  RELEASE tt-sale.
+/*   FIND FIRST tt-sale WHERE tt-sale.itmName = itemsName AND tt-sale.weight = itemsW EXCLUSIVE-LOCK NO-ERROR. */
+/*     IF AVAILABLE tt-sale AND addModify = "add" THEN                                                         */
+/*         DO:                                                                                                 */
+/*             MESSAGE "This Item already added." VIEW-AS ALERT-BOX WARNING BUTTONS OK.                        */
+/*             RETURN.                                                                                         */
+/*         END.                                                                                                */
+/*   RELEASE tt-sale.                                                                                          */
   
 
   MESSAGE "Conferm to save the record?" VIEW-AS ALERT-BOX INFO BUTTONS YES-NO UPDATE yn AS LOGICAL.
