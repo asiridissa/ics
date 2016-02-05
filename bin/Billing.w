@@ -120,12 +120,12 @@ bills.tol - bills.paidAmount
 btnModBill btnDelBill brwBill btnSearch brw filSearch btnPayment ~
 btnBulkBilling RECT-11 RECT-12 RECT-13 ss RECT-14 RECT-16 RECT-17 
 &Scoped-Define DISPLAYED-OBJECTS filBillNo cmbArea cmbCus cmbVeh cmbEmp ~
-filDiscountRate filPaid filDiscountRateItem filVarience cmbName filPieses ~
+filDiscountRate filVarience filPaid filDiscountRateItem cmbName filPieses ~
 filDamP filExpP filGRRD filGRST filStockP filLorriesP filBill# cmbSearchCol ~
 cmbSearchTime filTotal filDiscountedTotal filDiscountedAmount filAmount ~
 filSearch filRecipt# filKg filUnitPrice filCasePrice cmbSearchArea ~
 filPerCase filDiscountBill filDiscountItem filDiscountBillAmount ~
-filAmountPure 
+filAmountPure filLineAmountSum 
 
 /* Custom List Definitions                                              */
 /* List-1,List-2,List-3,List-4,List-5,List-6                            */
@@ -279,13 +279,13 @@ DEFINE VARIABLE filAmountPure AS DECIMAL FORMAT "->,>>>,>>9.99":U INITIAL 0
 DEFINE VARIABLE filBill# AS INT64 FORMAT ">>>>>>>>>9":U INITIAL 0 
      LABEL "ID" 
      VIEW-AS FILL-IN 
-     SIZE 14.14 BY .88
+     SIZE 12.57 BY .88
      BGCOLOR 7 FGCOLOR 11  NO-UNDO.
 
 DEFINE VARIABLE filBillNo AS CHARACTER FORMAT "X(256)":U INITIAL "0" 
      LABEL "Bill No" 
      VIEW-AS FILL-IN 
-     SIZE 8.86 BY .88
+     SIZE 10.43 BY .88
      BGCOLOR 15 FGCOLOR 1  NO-UNDO.
 
 DEFINE VARIABLE filCasePrice AS DECIMAL FORMAT ">,>>>,>>9.99":U INITIAL 0 
@@ -308,7 +308,7 @@ DEFINE VARIABLE filDiscountBill AS DECIMAL FORMAT "->,>>>,>>9.99":U INITIAL 0
 DEFINE VARIABLE filDiscountBillAmount AS DECIMAL FORMAT "->,>>>,>>9.99":U INITIAL 0 
      LABEL "Discount" 
      VIEW-AS FILL-IN 
-     SIZE 11.57 BY .88
+     SIZE 14 BY .88
      BGCOLOR 0 FGCOLOR 14  NO-UNDO.
 
 DEFINE VARIABLE filDiscountedAmount AS DECIMAL FORMAT "->,>>>,>>9.99":U INITIAL 0 
@@ -362,6 +362,12 @@ DEFINE VARIABLE filKg AS DECIMAL FORMAT ">>9.999":U INITIAL 0
      SIZE 12 BY .88
      BGCOLOR 7 FGCOLOR 11  NO-UNDO.
 
+DEFINE VARIABLE filLineAmountSum AS DECIMAL FORMAT "->,>>>,>>9.99":U INITIAL 0 
+     LABEL "Value" 
+     VIEW-AS FILL-IN 
+     SIZE 14 BY .88
+     BGCOLOR 7 FGCOLOR 11  NO-UNDO.
+
 DEFINE VARIABLE filLorriesP AS INTEGER FORMAT ">>>9":U INITIAL 0 
      LABEL "Lorries P" 
      VIEW-AS FILL-IN 
@@ -403,7 +409,7 @@ DEFINE VARIABLE filStockP AS INTEGER FORMAT ">>>>9":U INITIAL 0
      BGCOLOR 7 FGCOLOR 11  NO-UNDO.
 
 DEFINE VARIABLE filTotal AS DECIMAL FORMAT "->,>>>,>>9.99":U INITIAL 0 
-     LABEL "Value" 
+     LABEL "Pure" 
      VIEW-AS FILL-IN 
      SIZE 14 BY .88
      BGCOLOR 7 FGCOLOR 11  NO-UNDO.
@@ -506,22 +512,22 @@ DEFINE BROWSE brwBill
 &ANALYZE-RESUME
     WITH NO-ROW-MARKERS SEPARATORS NO-TAB-STOP SIZE 97.86 BY 14.69
          FONT 10
-         TITLE "Bills" ROW-HEIGHT-CHARS .54 FIT-LAST-COLUMN TOOLTIP "Double click to view the details".
+         TITLE "Bills" ROW-HEIGHT-CHARS .5 FIT-LAST-COLUMN TOOLTIP "Double click to view the details".
 
 
 /* ************************  Frame Definitions  *********************** */
 
 DEFINE FRAME DEFAULT-FRAME
-     filBillNo AT ROW 6.19 COL 44.58 RIGHT-ALIGNED WIDGET-ID 168
-     cmbArea AT ROW 8.04 COL 8.43 COLON-ALIGNED WIDGET-ID 80
-     cmbCus AT ROW 9.04 COL 8.43 COLON-ALIGNED WIDGET-ID 92
-     cmbVeh AT ROW 10.04 COL 8.43 COLON-ALIGNED WIDGET-ID 84
-     cmbEmp AT ROW 11.04 COL 8.43 COLON-ALIGNED WIDGET-ID 82
-     filDiscountRate AT ROW 12.73 COL 34.72 COLON-ALIGNED NO-LABEL WIDGET-ID 174
-     filPaid AT ROW 14.88 COL 8.43 COLON-ALIGNED WIDGET-ID 142 NO-TAB-STOP 
+     filBillNo AT ROW 6.19 COL 20 RIGHT-ALIGNED WIDGET-ID 168
+     cmbArea AT ROW 7.15 COL 8.43 COLON-ALIGNED WIDGET-ID 80
+     cmbCus AT ROW 8.15 COL 8.43 COLON-ALIGNED WIDGET-ID 92
+     cmbVeh AT ROW 9.15 COL 8.43 COLON-ALIGNED WIDGET-ID 84
+     cmbEmp AT ROW 10.15 COL 8.43 COLON-ALIGNED WIDGET-ID 82
+     filDiscountRate AT ROW 11.81 COL 34.72 COLON-ALIGNED NO-LABEL WIDGET-ID 174
+     filVarience AT ROW 13.04 COL 8.43 COLON-ALIGNED WIDGET-ID 202
+     filPaid AT ROW 12.92 COL 29 COLON-ALIGNED WIDGET-ID 142 NO-TAB-STOP 
      btnAdd AT ROW 16.23 COL 15.57 RIGHT-ALIGNED WIDGET-ID 42
      filDiscountRateItem AT ROW 19.42 COL 34.72 COLON-ALIGNED NO-LABEL WIDGET-ID 122
-     filVarience AT ROW 12.96 COL 8.43 COLON-ALIGNED WIDGET-ID 202 NO-TAB-STOP 
      cmbName AT ROW 21.54 COL 6.72 COLON-ALIGNED WIDGET-ID 54
      filPieses AT ROW 22.58 COL 6.72 COLON-ALIGNED WIDGET-ID 32
      filDamP AT ROW 22.58 COL 20.14 COLON-ALIGNED WIDGET-ID 38
@@ -532,15 +538,15 @@ DEFINE FRAME DEFAULT-FRAME
      filStockP AT ROW 25.5 COL 33.86 COLON-ALIGNED WIDGET-ID 158
      filLorriesP AT ROW 26.42 COL 33.86 COLON-ALIGNED WIDGET-ID 176
      btnNewBill AT ROW 3.62 COL 2.43 WIDGET-ID 94 NO-TAB-STOP 
-     filBill# AT ROW 6.19 COL 8.43 COLON-ALIGNED WIDGET-ID 2 NO-TAB-STOP 
+     filBill# AT ROW 14.96 COL 29 COLON-ALIGNED WIDGET-ID 2 NO-TAB-STOP 
      cmbSearchCol AT ROW 2.35 COL 4.57 COLON-ALIGNED WIDGET-ID 136 NO-TAB-STOP 
      cmbSearchTime AT ROW 2.35 COL 23.86 COLON-ALIGNED WIDGET-ID 130 NO-TAB-STOP 
      btnModBill AT ROW 3.62 COL 17.29 WIDGET-ID 96 NO-TAB-STOP 
      btnDelBill AT ROW 3.62 COL 32 WIDGET-ID 98 NO-TAB-STOP 
      brwBill AT ROW 1.19 COL 47.14 WIDGET-ID 300
      btnSearch AT ROW 1.27 COL 39 WIDGET-ID 134 NO-TAB-STOP 
-     filTotal AT ROW 12.04 COL 8.43 COLON-ALIGNED WIDGET-ID 56 NO-TAB-STOP 
-     filDiscountedTotal AT ROW 13.92 COL 8.43 COLON-ALIGNED WIDGET-ID 120 NO-TAB-STOP 
+     filTotal AT ROW 11.15 COL 8.43 COLON-ALIGNED WIDGET-ID 56 NO-TAB-STOP 
+     filDiscountedTotal AT ROW 14.96 COL 8.43 COLON-ALIGNED WIDGET-ID 120 NO-TAB-STOP 
      btnCancel AT ROW 17.35 COL 24.86 WIDGET-ID 66 NO-TAB-STOP 
      btnDel AT ROW 16.23 COL 32 WIDGET-ID 48 NO-TAB-STOP 
      btnMod AT ROW 16.23 COL 17.29 WIDGET-ID 50 NO-TAB-STOP 
@@ -556,8 +562,8 @@ DEFINE FRAME DEFAULT-FRAME
      cmbSearchArea AT ROW 1.31 COL 4.57 COLON-ALIGNED WIDGET-ID 156 NO-TAB-STOP 
      filPerCase AT ROW 24.58 COL 33.86 COLON-ALIGNED WIDGET-ID 162 NO-TAB-STOP 
      btnSaveBill AT ROW 4.69 COL 17.29 WIDGET-ID 170 NO-TAB-STOP 
-     btnPayment AT ROW 14.77 COL 31.72 WIDGET-ID 172 NO-TAB-STOP 
-     filDiscountBill AT ROW 12.73 COL 23.29 COLON-ALIGNED NO-LABEL WIDGET-ID 180 NO-TAB-STOP 
+     btnPayment AT ROW 13.88 COL 31 WIDGET-ID 172 NO-TAB-STOP 
+     filDiscountBill AT ROW 11.81 COL 23.29 COLON-ALIGNED NO-LABEL WIDGET-ID 180 NO-TAB-STOP 
      filDiscountItem AT ROW 19.42 COL 23.29 COLON-ALIGNED NO-LABEL WIDGET-ID 188 NO-TAB-STOP 
     WITH 1 DOWN NO-BOX KEEP-TAB-ORDER OVERLAY 
          SIDE-LABELS NO-UNDERLINE THREE-D 
@@ -567,17 +573,18 @@ DEFINE FRAME DEFAULT-FRAME
 
 /* DEFINE FRAME statement is approaching 4K Bytes.  Breaking it up   */
 DEFINE FRAME DEFAULT-FRAME
-     filDiscountBillAmount AT ROW 13.81 COL 32 COLON-ALIGNED WIDGET-ID 196 NO-TAB-STOP 
+     filDiscountBillAmount AT ROW 14 COL 8.43 COLON-ALIGNED WIDGET-ID 196 NO-TAB-STOP 
      btnBulkBilling AT ROW 4.69 COL 2.43 WIDGET-ID 198 NO-TAB-STOP 
      filAmountPure AT ROW 20.58 COL 6.72 COLON-ALIGNED WIDGET-ID 200 NO-TAB-STOP 
+     filLineAmountSum AT ROW 12.12 COL 8.43 COLON-ALIGNED WIDGET-ID 206 NO-TAB-STOP 
      "Discount for Item" VIEW-AS TEXT
           SIZE 14 BY .58 AT ROW 18.81 COL 28.57 WIDGET-ID 152
      "Discount for Total" VIEW-AS TEXT
-          SIZE 15 BY .42 AT ROW 12.19 COL 28.57 WIDGET-ID 148
+          SIZE 15 BY .42 AT ROW 11.31 COL 28.57 WIDGET-ID 148
      "Date:" VIEW-AS TEXT
-          SIZE 5 BY .62 AT ROW 7.23 COL 6 WIDGET-ID 90
+          SIZE 4 BY .62 AT ROW 6.35 COL 21.43 WIDGET-ID 90
      "%" VIEW-AS TEXT
-          SIZE 1.57 BY .88 AT ROW 12.69 COL 43.57 WIDGET-ID 182
+          SIZE 1.57 BY .88 AT ROW 11.73 COL 43.72 WIDGET-ID 182
      "%" VIEW-AS TEXT
           SIZE 1.57 BY .88 AT ROW 19.42 COL 43.57 WIDGET-ID 194
      RECT-11 AT ROW 3.5 COL 1.43 WIDGET-ID 138
@@ -585,7 +592,7 @@ DEFINE FRAME DEFAULT-FRAME
      RECT-13 AT ROW 16.08 COL 1.29 WIDGET-ID 146
      ss AT ROW 1.12 COL 1.43 WIDGET-ID 164
      RECT-14 AT ROW 16.08 COL 1.29 WIDGET-ID 166
-     RECT-16 AT ROW 12.04 COL 25 WIDGET-ID 184
+     RECT-16 AT ROW 11.12 COL 25 WIDGET-ID 184
      RECT-17 AT ROW 18.69 COL 25 WIDGET-ID 190
     WITH 1 DOWN NO-BOX KEEP-TAB-ORDER OVERLAY 
          SIDE-LABELS NO-UNDERLINE THREE-D 
@@ -612,7 +619,7 @@ IF SESSION:DISPLAY-TYPE = "GUI":U THEN
          HIDDEN             = YES
          TITLE              = "ICS - Bills"
          COLUMN             = 1.57
-         ROW                = 1
+         ROW                = 1.15
          HEIGHT             = 26.38
          WIDTH              = 144.29
          MAX-HEIGHT         = 26.54
@@ -713,6 +720,8 @@ ASSIGN
 
 /* SETTINGS FOR FILL-IN filKg IN FRAME DEFAULT-FRAME
    NO-ENABLE                                                            */
+/* SETTINGS FOR FILL-IN filLineAmountSum IN FRAME DEFAULT-FRAME
+   NO-ENABLE                                                            */
 /* SETTINGS FOR FILL-IN filLorriesP IN FRAME DEFAULT-FRAME
    NO-ENABLE                                                            */
 /* SETTINGS FOR FILL-IN filPaid IN FRAME DEFAULT-FRAME
@@ -788,10 +797,10 @@ OPEN QUERY brw FOR EACH tt-sale.
 
 CREATE CONTROL-FRAME CtrlFrame-2 ASSIGN
        FRAME           = FRAME DEFAULT-FRAME:HANDLE
-       ROW             = 7.12
-       COLUMN          = 10.43
+       ROW             = 6.19
+       COLUMN          = 25.86
        HEIGHT          = .88
-       WIDTH           = 23.14
+       WIDTH           = 19.57
        WIDGET-ID       = 72
        HIDDEN          = no
        SENSITIVE       = yes.
@@ -901,7 +910,7 @@ DO:
         cmbCus              = bills.cusID.
         cmbEmp              = bills.empCode.
         cmbVeh              = bills.vehNo.
-        filDiscountedTotal  = bills.tol + bills.varience.
+        filDiscountedTotal  = bills.tol.
         filBill#            = bills.bill#.
         filBillNo           = bills.BillNo.
         calendr:VALUE       = bills.bilDate.
@@ -915,6 +924,11 @@ DO:
         DISPLAY filDiscountBill WITH FRAME {&FRAME-NAME}.
       
         EMPTY TEMP-TABLE tt-sale.
+
+         DEFINE VARIABLE DiscountEligibleAmountSum AS DECIMAL     NO-UNDO INIT 0.  
+         DEFINE VARIABLE LineDiscountAmountSum AS DECIMAL     NO-UNDO INIT 0.                  
+         DEFINE VARIABLE ttSaleAmountSum AS DECIMAL     NO-UNDO INIT 0.                        
+
             FOR EACH recipts WHERE recipts.bill# = bills.bill#.
                 CREATE tt-sale.
                     ASSIGN
@@ -937,23 +951,35 @@ DO:
                     tt-sale.customGRAmount  = recipts.customGRAmount
                     .
                     
-    
-                    IF recipts.ItmDiscount = 0 THEN
-                        tempDiscountTol = tempDiscountTol + recipts.valu.
-                    IF recipts.ItmDiscount <> 0 THEN
-                        tempDiscountItems = tempDiscountItems + ( recipts.valu * (recipts.ItmDiscount / 100) ).
+                    ACCUMULATE recipts.valu (TOTAL).                                                                                              
+                    ACCUMULATE recipts.amount (TOTAL).                                                                                            
+                    IF recipts.ItmDiscount = 0 THEN                                                                                               
+                        DiscountEligibleAmountSum = DiscountEligibleAmountSum + recipts.amount.                                                   
+                    ELSE                                                                                                                          
+                    DO:                                                                                                                           
+                         LineDiscountAmountSum = LineDiscountAmountSum + ((recipts.amount * 100 / ( 100 - recipts.ItmDiscount)) - recipts.amount).
+                    END.                                                                                                                          
             END.
             
-            filDiscountBill       = tempDiscountTol * ( bills.discountRate / 100 ).
-            filDiscountBillAmount = (tempDiscountTol * ( bills.discountRate / 100 )) + tempDiscountItems.
-    
-            filTotal            = bills.tol + filDiscountBill.
+            ttSaleAmountSum = ACCUM TOTAL recipts.amount.                                                                         
+                                                                                                                                  
+            /*Tol Value*/                                                                                                         
+            filTotal = ACCUM TOTAL recipts.valu.                                                                                  
+                                                                                                                                  
+            /*ttsale.amount Sum*/                                                                                                 
+            filLineAmountSum = ttSaleAmountSum.                                                                                   
+                                                                                                                                  
+            /*Discount Amount for undiscounted tt-sale amount sum*/                                                               
+            filDiscountBill = ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2).                                       
+                                                                                                                                  
+            /*Final Sum of Discounts Amount for the bill*/                                                                        
+            filDiscountBillAmount = ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2) + LineDiscountAmountSum.         
 
             OPEN QUERY brw FOR EACH tt-sale.
     
             APPLY "VALUE-CHANGED":U TO brw.
     
-            DISPLAY filVarience filDiscountItem filDiscountBillAmount filDiscountBill filBillNo filPaid brw filTotal cmbArea cmbCus cmbEmp cmbVeh 
+            DISPLAY filLineAmountSum filVarience filDiscountItem filDiscountBillAmount filDiscountBill filBillNo filPaid brw filTotal cmbArea cmbCus cmbEmp cmbVeh 
                 filDiscountedTotal filDiscountRate filBill#
                 WITH FRAME {&FRAME-NAME}.
             END.
@@ -1035,11 +1061,11 @@ DO:
         .
   ENABLE filGRRD filDiscountRateItem btnCancel btnSave cmbName filDamP filExpP filGRST filPieses WITH FRAME DEFAULT-FRAME . 
   calendr:ENABLED = FALSE.
-  DISABLE filBillNo filVarience 
+  DISABLE filVarience filBillNo filVarience 
       filDiscountRate cmbArea cmbCus cmbEmp cmbVeh
       brw btnAdd btnDel btnMod btnCancelBill btnSaveBill WITH FRAME DEFAULT-FRAME.
 
-  DISPLAY filGRRD filDiscountRateItem btnCancel btnSave filCasePrice cmbName
+  DISPLAY filVarience filGRRD filDiscountRateItem btnCancel btnSave filCasePrice cmbName
           filAmount filBill# filDamP filExpP 
           filGRST filKg filPieses filRecipt# filTotal filUnitPrice WITH FRAME DEFAULT-FRAME.
   addModify = "add".
@@ -1367,7 +1393,7 @@ DO:
     IF bulkStat = NO THEN 
     DO:
         calendr:VALUE = TODAY - 1.
-        cmbArea = WEEKDAY(calendr:VALUE) - 1.
+/*         cmbArea = WEEKDAY(calendr:VALUE) - 1. */
        RUN cusLoader.
     END.
 
@@ -1538,7 +1564,7 @@ DO:
         RUN calTolDiscount.
 
         DISABLE filGRST filDiscountRateItem btnCancel btnSave cmbName filDamP filExpP filGRRD filPieses WITH FRAME DEFAULT-FRAME . 
-        ENABLE filVarience brw btnAdd btnDel btnMod btnCancelBill btnSaveBill WITH FRAME DEFAULT-FRAME.
+        ENABLE brw btnAdd btnDel btnMod btnCancelBill btnSaveBill WITH FRAME DEFAULT-FRAME.
         DISPLAY filGRST filGRRD filDiscountedTotal filDiscountRateItem filDiscountedTotal btnCancel btnSave 
             filCasePrice cmbName filAmount filBill# filDamP filExpP filKg filPieses filRecipt# filTotal filUnitPrice WITH FRAME DEFAULT-FRAME.
 
@@ -2251,6 +2277,17 @@ END.
 &ANALYZE-RESUME
 
 
+&Scoped-define SELF-NAME filLineAmountSum
+&ANALYZE-SUSPEND _UIB-CODE-BLOCK _CONTROL filLineAmountSum C-Win
+ON LEAVE OF filLineAmountSum IN FRAME DEFAULT-FRAME /* Value */
+DO:
+  ASSIGN {&SELF-NAME}.
+END.
+
+/* _UIB-CODE-BLOCK-END */
+&ANALYZE-RESUME
+
+
 &Scoped-define SELF-NAME filLorriesP
 &ANALYZE-SUSPEND _UIB-CODE-BLOCK _CONTROL filLorriesP C-Win
 ON LEAVE OF filLorriesP IN FRAME DEFAULT-FRAME /* Lorries P */
@@ -2362,7 +2399,7 @@ END.
 
 &Scoped-define SELF-NAME filTotal
 &ANALYZE-SUSPEND _UIB-CODE-BLOCK _CONTROL filTotal C-Win
-ON LEAVE OF filTotal IN FRAME DEFAULT-FRAME /* Value */
+ON LEAVE OF filTotal IN FRAME DEFAULT-FRAME /* Pure */
 DO:
   ASSIGN {&SELF-NAME}.
 END.
@@ -2399,7 +2436,6 @@ END.
 ON VALUE-CHANGED OF filVarience IN FRAME DEFAULT-FRAME /* Variance */
 DO:
     ASSIGN {&SELF-NAME}.
-    
 END.
 
 /* _UIB-CODE-BLOCK-END */
@@ -2581,6 +2617,50 @@ END PROCEDURE.
 
 &ANALYZE-SUSPEND _UIB-CODE-BLOCK _PROCEDURE calTolDiscount C-Win 
 PROCEDURE calTolDiscount :
+DEFINE VARIABLE DiscountEligibleAmountSum AS DECIMAL     NO-UNDO INIT 0.
+DEFINE VARIABLE LineDiscountAmountSum AS DECIMAL     NO-UNDO INIT 0.
+DEFINE VARIABLE ttSaleAmountSum AS DECIMAL     NO-UNDO INIT 0.
+   
+FOR EACH tt-sale.
+   ACCUMULATE tt-sale.valu (TOTAL).
+   ACCUMULATE tt-sale.amount (TOTAL).
+   IF tt-sale.ItmDiscount = 0 THEN
+       DiscountEligibleAmountSum = DiscountEligibleAmountSum + tt-sale.amount.
+   ELSE
+   DO:
+        LineDiscountAmountSum = LineDiscountAmountSum + ((tt-sale.amount * 100 / ( 100 - tt-sale.ItmDiscount)) - tt-sale.amount).
+   END.
+END.
+
+
+ttSaleAmountSum = ACCUM TOTAL tt-sale.amount.
+
+/*Tol Value*/
+filTotal = ACCUM TOTAL tt-sale.valu.
+
+/*ttsale.amount Sum*/
+filLineAmountSum = ttSaleAmountSum.
+
+/*Discount Amount for undiscounted tt-sale amount sum*/
+filDiscountBill = ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2).
+
+/*Final Total for the bill*/
+filDiscountedTotal = (ttSaleAmountSum - ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2)) + filVarience.
+
+/*Final Sum of Discounts Amount for the bill*/
+filDiscountBillAmount = ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2) + LineDiscountAmountSum.
+
+DISPLAY filVarience filTotal filDiscountBill filDiscountedTotal filDiscountBillAmount filLineAmountSum WITH FRAME DEFAULT-FRAME.
+
+APPLY "VALUE-CHANGED":U TO filDiscountRate. /*important*/
+
+END PROCEDURE.
+
+/* _UIB-CODE-BLOCK-END */
+&ANALYZE-RESUME
+
+&ANALYZE-SUSPEND _UIB-CODE-BLOCK _PROCEDURE calTolDiscountBak C-Win 
+PROCEDURE calTolDiscountBak :
 DEFINE VARIABLE NondiscTol   AS DECIMAL     NO-UNDO.
 DEFINE VARIABLE tempTolValu  AS DECIMAL     NO-UNDO.
 DEFINE VARIABLE DiscTol      AS DECIMAL     NO-UNDO.
@@ -2687,8 +2767,9 @@ DISPLAY WITH FRAME DEFAULT-FRAME.
 
 cmbCus = 0.
 
-IF cmbArea = 0 THEN
+IF cmbArea = 0 THEN 
 DO:
+    IF  filBillNo <> "0" THEN 
     MESSAGE "Select an Area first." VIEW-AS ALERT-BOX INFO BUTTONS OK.
     cmbCus:LIST-ITEM-PAIRS = "--Select Here--,0".
 END.
@@ -2783,13 +2864,13 @@ PROCEDURE enable_UI :
                Settings" section of the widget Property Sheets.
 ------------------------------------------------------------------------------*/
   RUN control_load.
-  DISPLAY filBillNo cmbArea cmbCus cmbVeh cmbEmp filDiscountRate filPaid 
-          filDiscountRateItem filVarience cmbName filPieses filDamP filExpP 
-          filGRRD filGRST filStockP filLorriesP filBill# cmbSearchCol 
-          cmbSearchTime filTotal filDiscountedTotal filDiscountedAmount 
-          filAmount filSearch filRecipt# filKg filUnitPrice filCasePrice 
-          cmbSearchArea filPerCase filDiscountBill filDiscountItem 
-          filDiscountBillAmount filAmountPure 
+  DISPLAY filBillNo cmbArea cmbCus cmbVeh cmbEmp filDiscountRate filVarience 
+          filPaid filDiscountRateItem cmbName filPieses filDamP filExpP filGRRD 
+          filGRST filStockP filLorriesP filBill# cmbSearchCol cmbSearchTime 
+          filTotal filDiscountedTotal filDiscountedAmount filAmount filSearch 
+          filRecipt# filKg filUnitPrice filCasePrice cmbSearchArea filPerCase 
+          filDiscountBill filDiscountItem filDiscountBillAmount filAmountPure 
+          filLineAmountSum 
       WITH FRAME DEFAULT-FRAME IN WINDOW C-Win.
   ENABLE btnNewBill cmbSearchCol cmbSearchTime btnModBill btnDelBill brwBill 
          btnSearch brw filSearch btnPayment btnBulkBilling RECT-11 RECT-12 
