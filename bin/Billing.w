@@ -221,9 +221,9 @@ DEFINE VARIABLE cmbEmp AS INTEGER FORMAT ">>>>>9":U INITIAL 0
 DEFINE VARIABLE cmbName AS CHARACTER FORMAT "X(32)":U INITIAL "0" 
      LABEL "Name" 
      VIEW-AS COMBO-BOX INNER-LINES 40
-     LIST-ITEM-PAIRS "--Select Here--","0"
+     LIST-ITEM-PAIRS "--Select Here--","-1"
      DROP-DOWN-LIST
-     SIZE 35 BY 1 NO-UNDO.
+     SIZE 35 BY .88 NO-UNDO.
 
 DEFINE VARIABLE cmbSearchArea AS INTEGER FORMAT ">>9":U INITIAL 0 
      LABEL "Area" 
@@ -1065,12 +1065,12 @@ DO:
         .
   ENABLE filGRRD filDiscountRateItem btnCancel btnSave cmbName filDamP filExpP filGRST filPieses WITH FRAME DEFAULT-FRAME . 
   calendr:ENABLED = FALSE.
-  DISABLE filVarience filBillNo filVarience 
-      filDiscountRate cmbArea cmbCus cmbEmp cmbVeh
+  DISABLE filBillNo filDiscountRate
+      cmbArea cmbCus cmbEmp cmbVeh
       brw btnAdd btnDel btnMod btnCancelBill btnSaveBill WITH FRAME DEFAULT-FRAME.
 
   DISPLAY filVarience filGRRD filDiscountRateItem btnCancel btnSave filCasePrice cmbName
-          filAmount filBill# filDamP filExpP 
+          filAmount filBill# filDamP filExpP filDiscountRate
           filGRST filKg filPieses filRecipt# filTotal filUnitPrice WITH FRAME DEFAULT-FRAME.
   addModify = "add".
   RUN itemsLoaderAll.
@@ -1487,7 +1487,7 @@ DO:
   DEFINE VARIABLE itemsName AS CHARACTER NO-UNDO.
   DEFINE VARIABLE itemsW AS DEC   NO-UNDO.
 
-  IF cmbName = "0" THEN
+  IF cmbName = "-1" THEN
   DO:
       MESSAGE "Item Name cannot be a blank." VIEW-AS ALERT-BOX INFO BUTTONS OK .
       RETURN.
