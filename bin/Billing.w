@@ -955,6 +955,8 @@ DO:
                     ACCUMULATE recipts.amount (TOTAL).                                                                                            
                     IF recipts.ItmDiscount = 0 THEN                                                                                               
                         DiscountEligibleAmountSum = DiscountEligibleAmountSum + recipts.amount.                                                   
+                    ELSE IF recipts.ItmDiscount = 100.00 THEN
+                        LineDiscountAmountSum = LineDiscountAmountSum + recipts.valu.
                     ELSE                                                                                                                          
                     DO:                                                                                                                           
                          LineDiscountAmountSum = LineDiscountAmountSum + ((recipts.amount * 100 / ( 100 - recipts.ItmDiscount)) - recipts.amount).
@@ -970,10 +972,12 @@ DO:
             filLineAmountSum = ttSaleAmountSum.                                                                                   
                                                                                                                                   
             /*Discount Amount for undiscounted tt-sale amount sum*/                                                               
-            filDiscountBill = ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2).                                       
+            filDiscountBill = ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2).      
+            IF  ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2) < 0 THEN filDiscountBill = 0.00.
                                                                                                                                   
             /*Final Sum of Discounts Amount for the bill*/                                                                        
-            filDiscountBillAmount = ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2) + LineDiscountAmountSum.         
+            filDiscountBillAmount = ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2) + LineDiscountAmountSum.    
+            IF  ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2) + LineDiscountAmountSum < 0 THEN filDiscountBillAmount = 0.00.
 
             OPEN QUERY brw FOR EACH tt-sale.
     
@@ -1653,7 +1657,8 @@ DO:
                 paidAmount   = filPaid            .
           bills.cusName      = tempCusName        .
           bills.varience     = filVarience        .
-          bills.discountedAmount = filDiscountBillAmount.
+          bills.discountedAmount = 0.00.
+/*           bills.discountedAmount = filDiscountBillAmount. */
         
             FIND FIRST paramtrs WHERE NAME = "lastbill#" EXCLUSIVE-LOCK NO-ERROR.
                 paramtrs.val = STRING(filBill#).
@@ -2626,6 +2631,8 @@ FOR EACH tt-sale.
    ACCUMULATE tt-sale.amount (TOTAL).
    IF tt-sale.ItmDiscount = 0 THEN
        DiscountEligibleAmountSum = DiscountEligibleAmountSum + tt-sale.amount.
+   ELSE IF tt-sale.ItmDiscount = 100.00 THEN
+        LineDiscountAmountSum = LineDiscountAmountSum + tt-sale.valu.
    ELSE
    DO:
         LineDiscountAmountSum = LineDiscountAmountSum + ((tt-sale.amount * 100 / ( 100 - tt-sale.ItmDiscount)) - tt-sale.amount).
@@ -2643,12 +2650,14 @@ filLineAmountSum = ttSaleAmountSum.
 
 /*Discount Amount for undiscounted tt-sale amount sum*/
 filDiscountBill = ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2).
+IF  ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2) < 0 THEN filDiscountBill = 0.00.
 
 /*Final Total for the bill*/
 filDiscountedTotal = (ttSaleAmountSum - ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2)) + filVarience.
 
 /*Final Sum of Discounts Amount for the bill*/
 filDiscountBillAmount = ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2) + LineDiscountAmountSum.
+IF  ROUND(DiscountEligibleAmountSum * (filDiscountRate / 100),2) + LineDiscountAmountSum < 0 THEN filDiscountBillAmount = 0.00.
 
 DISPLAY filVarience filTotal filDiscountBill filDiscountedTotal filDiscountBillAmount filLineAmountSum WITH FRAME DEFAULT-FRAME.
 
