@@ -223,7 +223,7 @@ DEFINE VARIABLE cmbName AS CHARACTER FORMAT "X(32)":U INITIAL "0"
      VIEW-AS COMBO-BOX INNER-LINES 40
      LIST-ITEM-PAIRS "--Select Here--","-1"
      DROP-DOWN-LIST
-     SIZE 35 BY .88 NO-UNDO.
+     SIZE 35 BY 1 NO-UNDO.
 
 DEFINE VARIABLE cmbSearchArea AS INTEGER FORMAT ">>9":U INITIAL 0 
      LABEL "Area" 
@@ -1059,7 +1059,7 @@ DO:
       filRecipt#   = tempReciptID
       filCasePrice = 0
 /*       filDiscountedTotal = 0 */
-      filDiscountRate = 0
+/*       filDiscountRate = 0 */
       filDiscountRateItem = 0
       filAmountPure = 0
         .
@@ -1657,8 +1657,7 @@ DO:
                 paidAmount   = filPaid            .
           bills.cusName      = tempCusName        .
           bills.varience     = filVarience        .
-          bills.discountedAmount = 0.00.
-/*           bills.discountedAmount = filDiscountBillAmount. */
+          bills.discountedAmount = filDiscountBillAmount.
         
             FIND FIRST paramtrs WHERE NAME = "lastbill#" EXCLUSIVE-LOCK NO-ERROR.
                 paramtrs.val = STRING(filBill#).
