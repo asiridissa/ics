@@ -1588,7 +1588,7 @@ DO:
     DEFINE VARIABLE tempP AS INTEGER     NO-UNDO.
     DEFINE VARIABLE tempPC AS INTEGER     NO-UNDO.
 
-    IF filPaid > filDiscountedTotal THEN
+    IF filDiscountedTotal > 0 AND  filPaid > filDiscountedTotal THEN
     DO:
         MESSAGE "Invalid Cash payment." VIEW-AS ALERT-BOX WARNING BUTTONS OK TITLE "Inventry Control Syatem".
         RETURN.

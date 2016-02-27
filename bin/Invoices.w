@@ -42,7 +42,9 @@ DEFINE VARIABLE calendr AS COM-HANDLE   NO-UNDO.
 itms.unitWeightKG itms.unitsPerCase itms.maxWeight itms.discountIN ~
 itms.unitPriceS itms.casePriceS itms.unitPriceB itms.casePriceB ~
 itms.noOfUnits itms.noOfCases 
-&Scoped-define ENABLED-FIELDS-IN-QUERY-brwItem 
+&Scoped-define ENABLED-FIELDS-IN-QUERY-brwItem itms.cat 
+&Scoped-define ENABLED-TABLES-IN-QUERY-brwItem itms
+&Scoped-define FIRST-ENABLED-TABLE-IN-QUERY-brwItem itms
 &Scoped-define QUERY-STRING-brwItem FOR EACH itms ~
       WHERE itms.stat = yes NO-LOCK ~
     BY itms.SortID INDEXED-REPOSITION
@@ -203,7 +205,7 @@ DEFINE VARIABLE filunitsPerCase AS INTEGER FORMAT ">,>>9":U INITIAL 0
      SIZE 6 BY .88
      BGCOLOR 15 FGCOLOR 1  NO-UNDO.
 
-DEFINE VARIABLE filunitWeightKG AS DECIMAL FORMAT ">>,>>9.999":U INITIAL 0 
+DEFINE VARIABLE filunitWeightKG AS DECIMAL FORMAT ">>9.999":U INITIAL 0 
      LABEL "P Weight (kg)" 
      VIEW-AS FILL-IN 
      SIZE 13 BY .88
@@ -266,7 +268,7 @@ DEFINE BROWSE brwItem
       itms.unitsPerCase COLUMN-LABEL "Per C" FORMAT ">>>9":U WIDTH 5
       itms.maxWeight COLUMN-LABEL " Max Weight" FORMAT ">>,>>9.999":U
             WIDTH 10
-      itms.discountIN COLUMN-LABEL "Discnt %" FORMAT ">9.99":U
+      itms.discountIN COLUMN-LABEL "Discnt %" FORMAT ">>9.99":U
       itms.unitPriceS COLUMN-LABEL "Unit Sell" FORMAT ">>,>>9.99":U
             WIDTH 10 COLUMN-FGCOLOR 15 COLUMN-BGCOLOR 3
       itms.casePriceS COLUMN-LABEL "Case Sell" FORMAT ">>,>>9.99":U
@@ -277,6 +279,8 @@ DEFINE BROWSE brwItem
             WIDTH 10
       itms.noOfUnits COLUMN-LABEL "Pieses" FORMAT ">>>9":U WIDTH 8
       itms.noOfCases COLUMN-LABEL "Cases" FORMAT ">,>>>,>>9":U
+  ENABLE
+      itms.cat
 /* _UIB-CODE-BLOCK-END */
 &ANALYZE-RESUME
     WITH NO-ROW-MARKERS SEPARATORS SIZE 143.57 BY 18.81
@@ -462,7 +466,7 @@ THEN C-Win:HIDDEN = no.
      _FldNameList[1]   > ics.itms.itmID
 "itms.itmID" "ID" ? "integer" ? ? ? ? ? ? no ? no no ? yes no no "U" "" "" "" "" "" "" 0 no 0 no no
      _FldNameList[2]   > ics.itms.cat
-"itms.cat" "   Category" "x(12)" "character" ? ? ? ? ? ? no ? no no "10" yes no no "U" "" "" "" "" "" "" 0 no 0 no no
+"itms.cat" "   Category" "x(12)" "character" ? ? ? ? ? ? yes ? no no "10" yes no no "U" "" "" "" "" "" "" 0 no 0 no no
      _FldNameList[3]   > ics.itms.itmName
 "itms.itmName" "                           Item Name" ? "character" 0 14 ? ? ? ? no ? no no "32" yes no no "U" "" "" "" "" "" "" 0 no 0 no no
      _FldNameList[4]   > ics.itms.unitWeightKG
@@ -535,15 +539,9 @@ END.
 ON WINDOW-CLOSE OF C-Win /* LMS - Invoice */
 DO:
   /* This event will close the window and terminate the procedure.  */
-  MESSAGE "Confrm to close the window?" VIEW-AS ALERT-BOX INFO BUTTONS YES-NO UPDATE yn AS LOGICAL.
-  IF yn = YES THEN
-    DO:
 /*       session_Window = session_Window - 1. */
       APPLY "CLOSE":U TO THIS-PROCEDURE.
       RETURN NO-APPLY.
-    END.
-  ELSE
-    RETURN NO-APPLY.
 END.
 
 /* _UIB-CODE-BLOCK-END */
@@ -683,6 +681,8 @@ END.
 &ANALYZE-SUSPEND _UIB-CODE-BLOCK _CONTROL btnDel C-Win
 ON CHOOSE OF btnDel IN FRAME EFAULT-FRAME /* Delete */
 DO:
+
+/*     MESSAGE "This function is temporaray out of service" VIEW-AS ALERT-BOX INFO BUTTONS OK. */
   IF filitmName <> "" THEN
   DO:
       MESSAGE "Conferm to delete the record?" VIEW-AS ALERT-BOX QUESTION BUTTONS YES-NO UPDATE yn AS LOGICAL.
@@ -695,10 +695,10 @@ DO:
           ELSE
               MESSAGE "No Records to Delete." VIEW-AS ALERT-BOX ERROR BUTTONS OK .
           RELEASE itms.
-        
+
           IF NOT ERROR-STATUS:ERROR THEN
               MESSAGE "Record successfully deleted." VIEW-AS ALERT-BOX INFO BUTTONS OK.
-    
+
           OPEN QUERY brwItem FOR EACH itms where stat = yes BY itms.SortID.
           APPLY "VALUE-CHANGED":U TO brwItem.
       END.
@@ -716,29 +716,30 @@ END.
 &ANALYZE-SUSPEND _UIB-CODE-BLOCK _CONTROL btnDuplicate C-Win
 ON CHOOSE OF btnDuplicate IN FRAME EFAULT-FRAME /* Duplicate */
 DO:
-  IF filitmName <> "" THEN
-  DO:
-      ENABLE fillDiscount btnCancel btnSave filcasePriceB filcasePriceS filunitPriceB filunitPriceS cmbCat  filitmName /*filmaxWeight*/ filnoOfCases filnoOfUnits filunitsPerCase filunitWeightKG
-        WITH FRAME EFAULT-FRAME.
-      DISABLE btnDuplicate brwItem btnAdd btnClose btnDel btnMod WITH FRAME EFAULT-FRAME.
-      addModify = "add".
-
-      FIND FIRST paramtrs WHERE NAME = "lastItmID".
-        filID = INT(val) + 1.
-      RELEASE paramtrs.
-
-        filitmName = SUBSTRING(filitmName,1,LENGTH(filitmName) - 13).
-        filnoOfUnits = 0.
-        filnoOfCases = 0.
-        DISPLAY filitmName filnoOfUnits filnoOfCases filID WITH FRAME EFAULT-FRAME.
-
-        calendr:ENABLED = TRUE.
-        calendr:VALUE = STRING(TODAY,"99/99/9999").
-  END.
-  ELSE
-  DO:
-    MESSAGE "No records to Duplicate." VIEW-AS ALERT-BOX ERROR BUTTONS OK.
-  END.
+    MESSAGE "This function is temporaray out of service" VIEW-AS ALERT-BOX INFO BUTTONS OK.
+/*   IF filitmName <> "" THEN                                                                                                                                                                        */
+/*   DO:                                                                                                                                                                                             */
+/*       ENABLE fillDiscount btnCancel btnSave filcasePriceB filcasePriceS filunitPriceB filunitPriceS cmbCat  filitmName /*filmaxWeight*/ filnoOfCases filnoOfUnits filunitsPerCase filunitWeightKG */
+/*         WITH FRAME EFAULT-FRAME.                                                                                                                                                                  */
+/*       DISABLE btnDuplicate brwItem btnAdd btnClose btnDel btnMod WITH FRAME EFAULT-FRAME.                                                                                                         */
+/*       addModify = "add".                                                                                                                                                                          */
+/*                                                                                                                                                                                                   */
+/*       FIND FIRST paramtrs WHERE NAME = "lastItmID".                                                                                                                                               */
+/*         filID = INT(val) + 1.                                                                                                                                                                     */
+/*       RELEASE paramtrs.                                                                                                                                                                           */
+/*                                                                                                                                                                                                   */
+/*         filitmName = SUBSTRING(filitmName,1,LENGTH(filitmName) - 13).                                                                                                                             */
+/*         filnoOfUnits = 0.                                                                                                                                                                         */
+/*         filnoOfCases = 0.                                                                                                                                                                         */
+/*         DISPLAY filitmName filnoOfUnits filnoOfCases filID WITH FRAME EFAULT-FRAME.                                                                                                               */
+/*                                                                                                                                                                                                   */
+/*         calendr:ENABLED = TRUE.                                                                                                                                                                   */
+/*         calendr:VALUE = STRING(TODAY,"99/99/9999").                                                                                                                                               */
+/*   END.                                                                                                                                                                                            */
+/*   ELSE                                                                                                                                                                                            */
+/*   DO:                                                                                                                                                                                             */
+/*     MESSAGE "No records to Duplicate." VIEW-AS ALERT-BOX ERROR BUTTONS OK.                                                                                                                        */
+/*   END.                                                                                                                                                                                            */
 
 END.
 
@@ -750,6 +751,8 @@ END.
 &ANALYZE-SUSPEND _UIB-CODE-BLOCK _CONTROL btnMod C-Win
 ON CHOOSE OF btnMod IN FRAME EFAULT-FRAME /* Modify */
 DO:
+
+/*     MESSAGE "This function is temporaray out of service" VIEW-AS ALERT-BOX INFO BUTTONS OK. */
   IF filitmName <> "" THEN
   DO:
       ENABLE fillDiscount btnCancel btnSave filcasePriceB filcasePriceS filunitPriceB filunitPriceS cmbCat  filitmName /*filmaxWeight*/ filnoOfCases filnoOfUnits filunitsPerCase filunitWeightKG
@@ -898,7 +901,8 @@ DO:
                 unitWeightKG = filunitWeightKG .
                 discountIN   = fillDiscount.
                 stat         = YES.
-                 
+                 MESSAGE filunitWeightKG
+                     VIEW-AS ALERT-BOX INFO BUTTONS OK.
                 IF NOT ERROR-STATUS:ERROR THEN
                     MESSAGE "Record successfully Modified." VIEW-AS ALERT-BOX INFO BUTTONS OK.
             END.
