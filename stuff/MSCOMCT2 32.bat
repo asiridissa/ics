@@ -1,0 +1,1 @@
+regsvr32 C:\Windows\System32\MSCOMCT2.OCX
